@@ -22,7 +22,8 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 ## Common Symptoms
 
 - **Physical Signs:**
-    - **Swollen Kidney:** Enlarged, pale, and granular kidneys upon internal examination [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
+    - **Kidney lesions:** Swollen, pale, and granular kidney upon internal examination. [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf)
+    - **White nodules**: Large white nodules in kidney. Numerous small nodules in other internal organs, most visible in dark organs like the spleen [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd)).
     - **Anemia**: Pale organs, e.g gills and spleen [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd))
     - **Exophthalmia:** Protruding or bulging eyes [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
     - **Skin Lesions:** Ulcers, boils or open sores on the skin [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).

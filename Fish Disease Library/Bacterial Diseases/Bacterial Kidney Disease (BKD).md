@@ -23,6 +23,7 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 
 - **Physical Signs:**
     - **Swollen Kidney:** Enlarged, pale, and granular kidneys upon internal examination [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
+    - **Anemia**: Pale organs, e.g gills and spleen [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd))
     - **Exophthalmia:** Protruding or bulging eyes [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
     - **Skin Lesions:** Ulcers, boils or open sores on the skin [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
     - **Hemorrhages:** Reddened areas (petechiae) on the skin, fins, and internal organs [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
@@ -191,6 +192,5 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [11] https://link.springer.com/article/10.1007/s10499-023-01290-6
 [12] https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jwas.12966
 [13] https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/bacterial-kidney-disease-bkd/
+[14] <https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd>
 
-
----

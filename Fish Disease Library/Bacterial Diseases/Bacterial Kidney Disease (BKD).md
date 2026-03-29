@@ -37,11 +37,11 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 
 **Progression of Symptoms**
 
-- **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
+- **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease). Typical pathological changes may be absent during autopsy if the infection has not had sufficient time to develop characteristic lesions [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd))
 
 - **Advanced Stages:** Pronounced physical symptoms, including swollen kidneys, soft and hard nodules on the kidneys and other organs, skin lesions, and hemorrhages, leading to high mortality [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
 
-- **Impact on Fish Health:** BKD severely compromises immune function and overall vitality, making fish susceptible to secondary infections and reduced growth rates [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
+- **Impact on Fish Health:** BKD is typically a chronic condition but can cause acute mortality, particularly in juveniles [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd)). Fish may remain lifelong carriers, with active disease often triggered after transfer of smolt to sea or sexual maturation [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd)). It severely compromises immune function and overall vitality, making fish susceptible to secondary infections and reduced growth rates [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf). 
 
 ### Causes of Bacterial Kidney Disease
 

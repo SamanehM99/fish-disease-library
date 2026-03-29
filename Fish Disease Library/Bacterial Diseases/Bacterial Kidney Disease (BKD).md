@@ -15,7 +15,7 @@ tags:
 ## Overview
 
 ### What is Bacterial Kidney Disease (BKD)?
-Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmonids, such as Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and char (*Salvelinus spp.*). It is caused by the bacterium *Renibacterium salmoninarum* (*R. salmoninarum*) and found in both freshwater and saltwater. It is untreatable, and can lead to significant economic losses in aquaculture due to high mortality rates, reduced growth performance, and increased susceptibility to secondary infections [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
+Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmonids, such as Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and char (*Salvelinus spp.*). It is caused by the bacterium *Renibacterium salmoninarum* (*R. salmoninarum*), resulting in characteristic lesions in the kidneys and other organs. Found in both freshwater and saltwater, it is untreatable, and can lead to significant economic losses in aquaculture due to high mortality rates, reduced growth performance, and increased susceptibility to secondary infections [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
 
 ## Symptoms of Bacterial Kidney Disease
 
@@ -191,5 +191,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [11] https://link.springer.com/article/10.1007/s10499-023-01290-6
 [12] https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jwas.12966
 [13] https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/bacterial-kidney-disease-bkd/
+
 
 ---

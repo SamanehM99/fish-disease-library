@@ -173,7 +173,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2024-07-26
+**Last Modified:** 2026-04-02
 
 **Tags:**  #BacterialKidneyDisease, #AtlanticSalmon, #RainbowTrout, #Trout, #Salmonoids #Salmon, #Norway, #Scotland,  #BacterialDiseases, #Bacteria 
 

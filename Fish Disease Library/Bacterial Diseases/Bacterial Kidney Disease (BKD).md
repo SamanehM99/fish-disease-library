@@ -129,11 +129,14 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 #### Norway
 
 - **BKD Incidence in Norway:**
-    - BKD is a listed disease in Norway (Category F); any occurrence or suspicion of the infection must be reported to the Norwegian Food Safety Authority (_Mattilsynet_) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - BKD has been identified both on land and at sea [7](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - Aquaculture surveillance programs between 2005 - 2021 have previously returned negative results for BKD [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - In 2023 there were 12 confirmed sites (including one land-based broodstock facility). In 2024, eight additional sites were affected [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - The situation stabilized in 2025 with only one confirmed case at a commercial salmon site  [14]([Fiskehelserapporten 2025](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)).
+
+- **Treatment Regimes:**
+    - BKD is a listed disease in Norway (Category F); any occurrence or suspicion of the infection must be reported to the Norwegian Food Safety Authority (_Mattilsynet_) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+    - As a Category F disease, BKD suspicion triggers an immediate ban on fish movement and may lead to mandatory slaughter, site disinfection, and a strictly enforced fallowing period to prevent further spread [15]([Listeføring og håndtering av akvatiske sykdommer | Mattilsynet](https://www.mattilsynet.no/fisk-og-akvakultur/fiskesykdommer/listeforing-og-handtering-av-akvatiske-sykdommer)).
 ## Research and References
 
 ### Latest Research Findings
@@ -197,3 +200,4 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [12] https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jwas.12966
 [13] https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/bacterial-kidney-disease-bkd/
 [14] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
+[15] https://www.mattilsynet.no/fisk-og-akvakultur/fiskesykdommer/listeforing-og-handtering-av-akvatiske-sykdommer

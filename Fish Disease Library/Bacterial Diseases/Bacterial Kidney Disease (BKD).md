@@ -23,8 +23,8 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 
 - **Physical Signs:**
     - **Kidney lesions:** Swollen, pale, and granular kidney upon internal examination. [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf)
-    - **White nodules**: Large white nodules in kidney. Numerous small nodules in other internal organs, most visible in dark organs like the spleen [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd)).
-    - **Anemia**: Pale organs, e.g gills and spleen [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd))
+    - **White nodules**: Large white nodules in kidney. Numerous small nodules in other internal organs, most visible in dark organs like the spleen [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+    - **Anemia**: Pale organs, e.g gills and spleen [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - **Exophthalmia:** Protruding or bulging eyes [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
     - **Skin Lesions:** Ulcers, boils or open sores on the skin [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
     - **Hemorrhages:** Reddened areas (petechiae) on the skin, fins, and internal organs [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
@@ -37,11 +37,11 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 
 **Progression of Symptoms**
 
-- **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease). Typical pathological changes may be absent during autopsy if the infection has not had sufficient time to develop characteristic lesions [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd))
+- **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease). Typical pathological changes may be absent during autopsy if the infection has not had sufficient time to develop characteristic lesions [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
 
 - **Advanced Stages:** Pronounced physical symptoms, including swollen kidneys, soft and hard nodules on the kidneys and other organs, skin lesions, and hemorrhages, leading to high mortality [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
 
-- **Impact on Fish Health:** BKD is typically a chronic condition but can cause acute mortality, particularly in juveniles [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd)). Fish may remain lifelong carriers, with active disease often triggered after transfer of smolt to sea or sexual maturation [14]([Bakteriell nyresyke (BKD) - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd)). It severely compromises immune function and overall vitality, making fish susceptible to secondary infections and reduced growth rates [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf). 
+- **Impact on Fish Health:** BKD is typically a chronic condition but can cause acute mortality, particularly in juveniles [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd). Fish may remain lifelong carriers, with active disease often triggered after transfer of smolt to sea or sexual maturation [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd). It severely compromises immune function and overall vitality, making fish susceptible to secondary infections and reduced growth rates [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf). 
 
 ### Causes of Bacterial Kidney Disease
 
@@ -128,9 +128,11 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 #### Norway
 
 - **BKD Incidence in Norway:**
+    - BKD is a listed disease in Norway (Category F); any occurrence or suspicion of the infection must be reported to the Norwegian Food Safety Authority (_Mattilsynet_) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - BKD has been identified both on land and at sea [7](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - Aquaculture surveillance programs between 2005 - 2021 have previously returned negative results for BKD [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
-    - BKD has been detected as recently as 2021 in wild brooding anadromous salmonids during mandatory screening of fish aimed for use in restocking initiatives [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+    - In 2023 there were 12 confirmed sites (including one land-based broodstock facility). In 2024, eight additional sites were affected [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+    - The situation stabilized in 2025 with only one confirmed case at a commercial salmon site  [14]([Fiskehelserapporten 2025](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)).
 ## Research and References
 
 ### Latest Research Findings
@@ -193,5 +195,4 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [11] https://link.springer.com/article/10.1007/s10499-023-01290-6
 [12] https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jwas.12966
 [13] https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/bacterial-kidney-disease-bkd/
-[14] <https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd>
-
+[14] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf

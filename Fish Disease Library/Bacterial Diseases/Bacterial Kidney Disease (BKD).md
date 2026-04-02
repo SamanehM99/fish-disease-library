@@ -76,15 +76,15 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 
 **Differential Diagnosis**
 
-- **Distinguishing BKD from Other Diseases:** It is crucial to differentiate BKD from diseases with similar symptoms, such as Infectious Hematopoietic Necrosis (IHN), though *R. salmoninarum* is typically readily differentiated from other species and only grows on certain media [5](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [7](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+- **Distinguishing BKD from Other Diseases:** It is crucial to differentiate BKD from diseases with similar symptoms, such as Infectious Hematopoietic Necrosis (IHN) and nephrocalcinosis (kidney stones), though *R. salmoninarum* is typically readily differentiated from other species and only grows on certain media [5](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [7](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
 
 ### Treatment and Prevention
 
 **Treatment Options**
 
-- **Current Treatments:** No effective treatment currently exists for BKD. Erythromycin can be used to control *R. salmoninarum*, but can not reliably cure a population and thus eradicate BKD from dense aquaculture settings [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd) [9](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1577/1548-8667%281999%29011%3C0001%3ATTAEOI%3E2.0.CO%3B2?casa_token=Rh2jDL4A2ScAAAAA%3AJAv6sCbdyoo-cHmcRcPcgehxGA8zwX7h7iby6zXBpwdKvoXNkkUlDu5X9IVUzy5nWYDa2Y2MkDyN9A).
+- **Current Treatments:** No effective cure exists for BKD. Erythromycin can control _R. salmoninarum_ but cannot eradicate it from aquaculture settings. In Norway, medicinal treatment is generally restricted to high-value, endangered wild salmon in conservation programs where broodstock is irreplaceable [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd) [9](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1577/1548-8667%281999%29011%3C0001%3ATTAEOI%3E2.0.CO%3B2?casa_token=Rh2jDL4A2ScAAAAA%3AJAv6sCbdyoo-cHmcRcPcgehxGA8zwX7h7iby6zXBpwdKvoXNkkUlDu5X9IVUzy5nWYDa2Y2MkDyN9A).
 
-- **Experimental Treatments:** A field study of 4 vaccines was conducted on Atlantic salmon (off-label) for efficacy in prevention of BKD-related mortality following a natural outbreak, with limited success; development of various treatments is ongoing, but the live *Arthrobacter* vaccine Renogen is still today the only somewhat effective prophylaxis [10](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2761.2010.01151.x?casa_token=2TR2FVgG08UAAAAA:mTJk0q_41yNT5Xw1bALWmiTr5P2hxuL1py5Y5nTK8jLcilYaqRVwXytRYeKqUOUNKRsw6Q1vfncdsw) [11](https://link.springer.com/article/10.1007/s10499-023-01290-6) .
+- **Experimental Treatments:** A field study of 4 vaccines was conducted on Atlantic salmon (off-label) for efficacy in prevention of BKD-related mortality following a natural outbreak, with limited success; development of various treatments is ongoing, but the live *Arthrobacter* vaccine Renogen remains the only somewhat effective prophylaxis today, though it is currently only available for use in the USA, Canada, and Chile [10](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2761.2010.01151.x?casa_token=2TR2FVgG08UAAAAA:mTJk0q_41yNT5Xw1bALWmiTr5P2hxuL1py5Y5nTK8jLcilYaqRVwXytRYeKqUOUNKRsw6Q1vfncdsw) [11](https://link.springer.com/article/10.1007/s10499-023-01290-6) .
 
 **Preventive Measures**
 

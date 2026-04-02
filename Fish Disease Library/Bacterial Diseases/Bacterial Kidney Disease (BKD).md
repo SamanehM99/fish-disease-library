@@ -58,6 +58,7 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 **Risk Factors**
 
 - **Environmental Factors:** Poor water quality, high stocking densities, and stressful conditions can increase susceptibility to BKD [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
+- **Life Stage and Physiology:** Vulnerability to BKD peaks during major physiological transitions such as smoltification and sexual maturation [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
 - **Farm Management Practices:** Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of the bacterium [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
 
 ### Diagnosis

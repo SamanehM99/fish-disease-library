@@ -25,10 +25,12 @@ tags:
 ### Common Symptoms
 
 - **Physical Signs:**
+    - **Skin Ulcers:** Round or oval ulcers often appearing on the sides of the body [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
     - **Raised scales**: Scales appear pale and begin to lift up, often in very small areas [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) 
     - **Skin swelling:** Skin bulging and fragile, appearing as a closed ulcer, with contents being serum-like with a reddish colour and floccules [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
-    - **Skin Ulcers:** Round or oval ulcers often appearing on the sides of the body [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
-    - **Hemorrhages:** Reddened areas around the ulcer sites due to bleeding [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) .
+    - **Skin hemorrhages:** Reddened areas around the ulcer sites due to bleeding [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) .
+    - **Internal hemorrhages:** Systemic infection may cause hemorrhages within the internal organs; typically seen as a pale liver with petechiae and swollen spleen. This systemic infection may sometimes occur without any visible skin lesions [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
+    - **Circulatory failure**: Pale gills and liver, and ascites (abdominal  fluid) [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
 
 - **Behavioural Changes:**
 
@@ -300,4 +302,5 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [34] European Patent Office. (2020, November 11). Patent document EP3071227NWB1. [https://data.epo.org/publication-server/rest/v1.0/publication-dates/20201111/patents/EP3071227NWB1/document.html](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20201111/patents/EP3071227NWB1/document.html)
 
+[35] Akvademiet. (2026, April 03). Vintersår. [https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/))
 - - - 

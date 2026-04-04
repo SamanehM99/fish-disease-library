@@ -25,6 +25,7 @@ tags:
 ### Common Symptoms
 
 - **Physical Signs:**
+
     - **Skin Ulcers:** Round or oval ulcers often appearing on the sides of the body [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
     - **Raised scales**: Scales appear pale and begin to lift up, often in very small areas [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) 
     - **Skin swelling:** Skin bulging and fragile, appearing as a closed ulcer, with contents being serum-like with a reddish colour and floccules [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
@@ -34,8 +35,8 @@ tags:
 
 - **Behavioural Changes:**
 
-    - **Lethargy:** Reduced activity and slower swimming movements.
-    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss.
+    - **Lethargy:** Reduced activity and slower swimming movements [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/).
+    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss  [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
     - **Abnormal Swimming Patterns:** Fish may exhibit erratic or sluggish swimming due to pain and discomfort from ulcers [2](https://www.mdpi.com/2673-9917/3/3/15) 
 
 **Progression of Symptoms**

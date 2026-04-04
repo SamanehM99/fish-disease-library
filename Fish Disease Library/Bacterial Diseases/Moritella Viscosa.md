@@ -36,7 +36,7 @@ tags:
 - **Behavioural Changes:**
 
     - **Lethargy:** Reduced activity and slower swimming movements [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/).
-    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss  [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
+    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
     - **Abnormal Swimming Patterns:** Fish may exhibit erratic or sluggish swimming due to pain and discomfort from ulcers [2](https://www.mdpi.com/2673-9917/3/3/15) 
 
 **Progression of Symptoms**
@@ -52,7 +52,7 @@ tags:
 **Etiology**
 
 - Can be both acute where bacterium colonise on the scales or an open wound. Or systematic where *M.viscosa* enters through the gills and into the blood stream, [8](https://pubmed.ncbi.nlm.nih.gov/21862244/) [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) [9](https://www.sciencedirect.com/science/article/abs/pii/S1050464809001016) 
-- **Causative Agent:** 3 variants of *M. viscosa* bacterium with a variety of isolates [10](https://pubmed.ncbi.nlm.nih.gov/36787245/) [11](https://pubmed.ncbi.nlm.nih.gov/21290896/)
+- **Causative Agent:** 3 variants of *M. viscosa* bacterium with a variety of isolates [10](https://pubmed.ncbi.nlm.nih.gov/36787245/) [11](https://pubmed.ncbi.nlm.nih.gov/21290896/). During an outbreak, it is not uncommon to find multiple clonal complexes represented simultaneously [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
 - It was formerly named *Vibrio viscosus* [12](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=80854)
 - **Species Affected:** Farmed Atlantic salmon and trout are most affected with it being considered a serious welfare and economic issue [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). Additionally, challenge experiments found Atlantic Halibut *(Hippoglossus hippoglossus)* [13](https://pubmed.ncbi.nlm.nih.gov/16911535/), Turbot *(Scophthalmus maximus)* [14](https://pubmed.ncbi.nlm.nih.gov/15509259/)and Atlantic Cod *(Gadus morhua)* [13](https://pubmed.ncbi.nlm.nih.gov/16911535/) are also susceptible to *M. viscosa*. Lumpfish (_Cyclopterus lumpus_), a type of cleaner fish used in salmonid farming also are susceptible to variants [15](https://onlinelibrary.wiley.com/doi/10.1111/jfd.12884)
 

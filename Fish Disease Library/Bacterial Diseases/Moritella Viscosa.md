@@ -58,7 +58,7 @@ tags:
 
 - **Transmission Methods:**
     - **Direct Contact:** Spread between infected and healthy fish through close proximity  [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) 
-    - **Waterborne:** Bacteria can spread through water, particularly in conditions of poor water quality, colder temperatures and high stocking densities [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
+    - **Waterborne:** Bacteria can spread through water, particularly in conditions of poor water quality, colder seawater temperatures and high stocking densities [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
 
 
 **Risk Factors**

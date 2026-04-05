@@ -94,8 +94,8 @@ tags:
 **Treatment Options**
 
 - **Current Treatments:**
-    -  **Antibiotics:** Can be administered through medicated feed or water to treat bacterial infections [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf).
-    - **Bacteriophages:** There is some ongoing bacteriophage development [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820)
+    - **Antibiotics:** Can be administered through medicated feed or  water to treat bacterial infections, though their effectiveness is often described as variable, uncertain, or inconsistent [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf).
+    - **Bacteriophages and probiotics:** There is some ongoing bacteriophage and probiotics development [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820) [36]([Slik styrker vi fiskehelsen med fiskens egne bakterier|Previwo](https://previwo.com/nyheter/probiotika-styrker-fiskehelsen/)).
 
 - **Supportive Care:**
     - **Improving Water Quality:** Ensuring optimal water conditions to support healing and reduce stress [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf). 
@@ -305,5 +305,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [34] European Patent Office. (2020, November 11). Patent document EP3071227NWB1. [https://data.epo.org/publication-server/rest/v1.0/publication-dates/20201111/patents/EP3071227NWB1/document.html](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20201111/patents/EP3071227NWB1/document.html)
 
-[35] Akvademiet. (2026, April 03). Vintersår. [https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/))
+[35] Akvademiet. Vintersår. Accessed April 2026. [https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/))
+
+[36] Previwo. Slik styrker vi fiskehelsen med fiskens egne bakterier. Accessed April 2026. [https://previwo.com/nyheter/probiotika-styrker-fiskehelsen/]([Slik styrker vi fiskehelsen med fiskens egne bakterier|Previwo](https://previwo.com/nyheter/probiotika-styrker-fiskehelsen/))
 - - - 

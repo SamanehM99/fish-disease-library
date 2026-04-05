@@ -86,7 +86,7 @@ tags:
 **Differential Diagnosis**
 
 - Other bacterium species can often be in the wounds such as; variants of *M. viscosa*, _[[Tenacibaculosis (Tenacibaculum spp)]] spp_ and _Aliivibrio wodanis_ [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [5](https://www.vetinst.no/sykdom-og-agens/vintersar). These can affect the severity of the outbreak [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/).
-- In contrast to [[Tenacibaculosis (Tenacibaculum spp)]] which is primarily associated with _Tenacibaculum_ spp, _M. viscosa_ infections can be systemic, infecting the fish's internal organs even without visible external sores [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
+- In contrast to [[Tenacibaculosis (Tenacibaculum spp)]], which is primarily a localized skin infection, _M. viscosa_ infections can be systemic, infecting the fish's internal organs even without visible external sores [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
 
 
 ### Treatment and Prevention

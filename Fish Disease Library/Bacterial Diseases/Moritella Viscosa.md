@@ -63,7 +63,7 @@ tags:
 
 **Risk Factors**
 
-- **Environmental Factors:** Cold seawater temperatures (7-10C) as ideal temperatures for *M. viscosa* and salmonid healing and immune function impaired [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). Outbreaks are therefore most common during late autumn, winter, and early spring [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) . Poor water quality, and high stocking densities can increase susceptibility to *M. viscosa* infections [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [2](https://www.mdpi.com/2673-9917/3/3/15) 
+- **Environmental Factors:** _M. viscosa_ thrives in cold seawater (7–10°C), a temperature range where salmonid immune responses are suppressed and skin wound-healing processes are significantly impaired [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). Outbreaks are therefore most common during late autumn, winter, and early spring [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) . Poor water quality, and high stocking densities can increase susceptibility to *M. viscosa* infections [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [2](https://www.mdpi.com/2673-9917/3/3/15) 
 
 - **Farm Management Practices:** 
     - **Handling and physical trauma**: Outbreaks are frequently linked to prior handling events. Mechanical stress, such as delousing operations, and poort handling techniques can create physical trauma and open wounds that serve as entry points for infection [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).

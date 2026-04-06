@@ -99,8 +99,9 @@ tags:
 
 - **Supportive Care:**
     - **Improving Water Quality:** Ensuring optimal water conditions to support healing and reduce stress [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf). 
-    - **Reducing Stocking Densities:** Lowering fish density to minimize the spread of infection.
-    - **Self Recovery**: When temperatures rise over 8 °C or salinity drops below 12–15% [2](https://www.mdpi.com/2673-9917/3/3/15), [20](https://www.sciencedirect.com/science/article/pii/S0923250807000125) 
+    - **Reducing Stocking Densities:** Lowering fish density to minimize the spread of infection [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
+    - **Self Recovery**: When temperatures rise over 8 °C or salinity drops below 12–15% [2](https://www.mdpi.com/2673-9917/3/3/15), [20](https://www.sciencedirect.com/science/article/pii/S0923250807000125).
+    - **Handling and Stress Reduction:** Implementing a low-handling policy during high-risk periods [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
     
 
 **Preventive Measures**

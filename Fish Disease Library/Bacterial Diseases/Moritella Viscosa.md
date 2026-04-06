@@ -101,20 +101,22 @@ tags:
     - **Improving Water Quality:** Ensuring optimal water conditions to support healing and reduce stress [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf). 
     - **Reducing Stocking Densities:** Lowering fish density to minimize the spread of infection [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
     - **Self Recovery**: When temperatures rise over 8 °C or salinity drops below 12–15% [2](https://www.mdpi.com/2673-9917/3/3/15), [20](https://www.sciencedirect.com/science/article/pii/S0923250807000125).
-    - **Handling and Stress Reduction:** Implementing a low-handling policy during high-risk periods [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
     
 
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
-    - Implementing strict handling procedures to minimize physical trauma and prevent bacterial spread, in addition to strong smolt quality and reducing stress [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
+    - Implementing strict handling procedures to minimize physical trauma and prevent bacterial spread, in addition to strong smolt quality and reducing stress [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
+    - Active management should include the removal of wounded fish from the pens and intensify the removal of dead fish to reduce infection pressure [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) [21](https://www.kyst.no/vintersar/var-nodt-til-a-destruere-all-fisken-i-en-merd/172937)
     - Regular monitoring of fish health to detect and address early signs of infection.
 
 - **Farm Management Practices:**
-    - Using equipment and facilities designed to minimize skin abrasions and injuries 
+    - Implementing a low-handling policy during high-risk periods (low temperatures in winter) is critical [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
+    - Using equipment and facilities designed to minimize skin abrasions and injuries. 
     - Ensuring adequate nutrition and use of functional feeds to support immune function and wound healing [21](https://www.kyst.no/vintersar/var-nodt-til-a-destruere-all-fisken-i-en-merd/172937), [22](https://www.kyst.no/article/slik-jobber-oppdrettsselskapene-for-aa-unngaa-vintersaar/)
     - In a few cases in early autumn, antibiotics can be used to reduce infection pressure and prevent new fish from getting sores [21](https://www.kyst.no/article/var-noedt-til-aa-noedt-til-aa-destruere-all-fisken-i-en-merd/)
-    - A robust good smolt forms a good basis for wound prevention [23](https://www.kyst.no/article/fiskehelsetjenester-med-tips-for-aa-unngaa-vintersaar/)
+    - A robust good smolt quality and ensuring ideal conditions during sea-entry is a good basis for wound prevention [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) [23](https://www.kyst.no/article/fiskehelsetjenester-med-tips-for-aa-unngaa-vintersaar/).
+    - Aiming for a large fish size before their first winter to increase natural robustness [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
 
 - **Vaccination:** *Moritella viscosa* has been a component of multivalent oil adjuvant vaccines since the late 1990s but they do not provide complete protection against infection, due to the number of variants [24](https://blueanalytics.no/en/new-analysis-method-enables-more-targeted-prevention-of-winter-ulcers/). They help to reduce mortality and ulceration, but protection varies with the strain and vaccine formulation [25](https://www.sciencedirect.com/science/article/pii/S0044848623003058)[26](https://www.sciencedirect.com/science/article/abs/pii/S0044848616308353).  [Vaccine options](https://www.felleskatalogen.no/medisin-vet/atc-register/QI10A). Autogenic vaccine possibilites could also be possible [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820), [27](https://www.vaxxinova.no/tjenester/autogene-vaksiner/). 
 

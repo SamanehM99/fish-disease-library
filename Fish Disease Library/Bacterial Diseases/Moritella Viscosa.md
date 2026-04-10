@@ -95,11 +95,12 @@ tags:
 
 - **Current Treatments:**
     - **Antibiotics:** Can be administered through medicated feed or  water to treat bacterial infections, though their effectiveness is often described as variable, uncertain, or inconsistent [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf).
-    - **Bacteriophages and probiotics:** There is some ongoing bacteriophage and probiotics development [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820) [36]([Slik styrker vi fiskehelsen med fiskens egne bakterier|Previwo](https://previwo.com/nyheter/probiotika-styrker-fiskehelsen/)).
+    - **Bacteriophages:** There is some ongoing bacteriophage development [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820).
 
 - **Supportive Care:**
     - **Improving Water Quality:** Ensuring optimal water conditions to support healing and reduce stress [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf). 
-    - **Reducing Stocking Densities:** Lowering fish density to minimize the spread of infection [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
+    - **Reducing Stocking Densities:** Lowering fish density to minimize the spread of infection [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
+    - **Probiotics**: Are being investigated as a biocontrol method and supportive care measure [36]([Antagonistic Mechanisms of Probiotic Aliivibrio sp. Strain Vl2 Against Moritella viscosa: Evidence from Co-cultivation and Targeted Transcriptomic Analysis | Probiotics and Antimicrobial Proteins | Springer Nature Link](https://link.springer.com/article/10.1007/s12602-025-10669-1).
     - **Self Recovery**: When temperatures rise over 8 °C or salinity drops below 12–15% [2](https://www.mdpi.com/2673-9917/3/3/15), [20](https://www.sciencedirect.com/science/article/pii/S0923250807000125).
     
 
@@ -312,7 +313,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [35] Akvademiet. Vintersår. Accessed April 2026. [https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/))
 
-[36] Previwo. Slik styrker vi fiskehelsen med fiskens egne bakterier. Accessed April 2026. [https://previwo.com/nyheter/probiotika-styrker-fiskehelsen/]([Slik styrker vi fiskehelsen med fiskens egne bakterier|Previwo](https://previwo.com/nyheter/probiotika-styrker-fiskehelsen/))
+[36] Steen Dobloug, M., Iakhno, S., Foyn Nørstebø, S. _et al._ (2026). Antagonistic Mechanisms of Probiotic _Aliivibrio_ sp. Strain Vl2 Against _Moritella viscosa_: Evidence from Co-cultivation and Targeted Transcriptomic Analysis. _Probiotics & Antimicro. Prot._ **18**, 2316–2331 [https://doi.org/10.1007/s12602-025-10669-1]([Antagonistic Mechanisms of Probiotic Aliivibrio sp. Strain Vl2 Against Moritella viscosa: Evidence from Co-cultivation and Targeted Transcriptomic Analysis | Probiotics and Antimicrobial Proteins | Springer Nature Link](https://link.springer.com/article/10.1007/s12602-025-10669-1#citeas))
 
 [37] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. *Norwegian Fish Health Report, 2025. Published by the Norwegian Veterinary Institute 2026. [https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf]([Fiskehelserapporten 2025](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf))
 - - - 

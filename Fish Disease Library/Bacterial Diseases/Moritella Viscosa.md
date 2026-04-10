@@ -169,6 +169,7 @@ tags:
 - **Moritella Viscosa Incidence in Norway:**
     
     - Outbreaks and series biological and economic losses occur every year in Norway. In 2024, [Winter ulcer disease](obsidian://open?vault=Fish%20Disease%20Library&file=Winter%20Wounds) was detected on 336 salmon farming sites (similar to 2023). *Moritella viscosa* specifically was detected on 289 sites and 112 sites had mixed *M. Viscosa* and *Tenacibaculum spp* infections [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). In comparison in 2009 the bacterium was registered on 36 sites [33](https://www.sciencedirect.com/science/article/abs/pii/S0044848611001347)
+    - In 2025, _M. viscosa_ was ranked by fish health personnel as the fifth most important cause of mortality [37](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)
     - No impacts have been reported on wild fish species and there is no evidence of interaction between farmed and wild fish, though *M. viscosa* has been found on wild fish [33](https://www.sciencedirect.com/science/article/abs/pii/S0044848611001347)
     
 - **Geographical Spread:**

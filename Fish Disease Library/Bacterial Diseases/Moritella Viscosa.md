@@ -133,8 +133,8 @@ tags:
     - **Scotland:** Outbreak of 2-3kg Atlantic Salmon in 1998 [28](https://pubmed.ncbi.nlm.nih.gov/9891731/)
     - **Canada:** Canadian farms have faced challenges with winter ulcers (amongst other ulcers [2](https://www.mdpi.com/2673-9917/3/3/15)), prompting industry-wide efforts to enhance biosecurity and fish welfare [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf). 
 
-- **Response Strategies and Outcomes:**
-    - **Norway:** Implementation of enhanced biosecurity measures, regular health monitoring, and vaccinations [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
+- **Response Strategies:**
+    - **Norway:** Implementation of enhanced biosecurity and handling measures focused on reducing mechanical stress, regular health monitoring, and vaccinations [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
     - **Scotland:** Development of national guidelines to monitor fish health and undergo inspections when it is a non-listed disease, like *M. viscosa* [30](https://www.gov.scot/policies/fish-health-inspectorate/ )
     - **Canada:** Adoption of best practices for handling, water quality management, and early detection to reduce the impact of winter ulcers [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf).
 

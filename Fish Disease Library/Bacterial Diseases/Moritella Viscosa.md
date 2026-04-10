@@ -99,8 +99,8 @@ tags:
 
 - **Supportive Care:**
     - **Improving Water Quality:** Ensuring optimal water conditions to support healing and reduce stress [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf). 
-    - **Reducing Stocking Densities:** Lowering fish density to minimize the spread of infection [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
-    - **Probiotics**: Are being investigated as a biocontrol method and supportive care measure [36]([Antagonistic Mechanisms of Probiotic Aliivibrio sp. Strain Vl2 Against Moritella viscosa: Evidence from Co-cultivation and Targeted Transcriptomic Analysis | Probiotics and Antimicrobial Proteins | Springer Nature Link](https://link.springer.com/article/10.1007/s12602-025-10669-1).
+    - **Reducing Stocking Densities:** Lowering fish density to minimize the spread of infection [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/).
+    - **Probiotics**: Are being investigated as a biocontrol method and supportive care measure [36](https://link.springer.com/article/10.1007/s12602-025-10669-1).
     - **Self Recovery**: When temperatures rise over 8 °C or salinity drops below 12–15% [2](https://www.mdpi.com/2673-9917/3/3/15), [20](https://www.sciencedirect.com/science/article/pii/S0923250807000125).
     
 
@@ -122,7 +122,7 @@ tags:
 - **Vaccination:** 
     - *Moritella viscosa* has been a component of multivalent oil adjuvant vaccines since the late 1990s but they do not provide complete protection against infection, due to the number of variants [24](https://blueanalytics.no/en/new-analysis-method-enables-more-targeted-prevention-of-winter-ulcers/). They help to reduce mortality and ulceration, but protection varies with the strain and vaccine formulation [25](https://www.sciencedirect.com/science/article/pii/S0044848623003058)[26](https://www.sciencedirect.com/science/article/abs/pii/S0044848616308353)[Vaccine options](https://www.felleskatalogen.no/medisin-vet/atc-register/QI10A). 
     - Autogenic vaccine possibilites could also be possible [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820), [27](https://www.vaxxinova.no/tjenester/autogene-vaksiner/). 
-    - A new commercial [vaccine]([ALPHA JECT Moritella «PHARMAQ» - Felleskatalogen](https://www.felleskatalogen.no/medisin-vet/alpha-ject-moritella-pharmaq-731514)) which targets the variant _M. viscosa_  (CC3) received marketing authorization in 2023, with field reports from 2024 and 2025 suggesting improved protection [37]([Fiskehelserapporten 2025](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf))
+    - A new commercial [vaccine]([ALPHA JECT Moritella «PHARMAQ» - Felleskatalogen](https://www.felleskatalogen.no/medisin-vet/alpha-ject-moritella-pharmaq-731514)) which targets the variant _M. viscosa_  (CC3) received marketing authorization in 2023, with field reports from 2024 and 2025 suggesting improved protection [37](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)
 
 ### Case Studies
 

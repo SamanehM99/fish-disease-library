@@ -30,12 +30,13 @@ tags:
     - **Raised scales**: Scales appear pale and begin to lift up, often in very small areas [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) 
     - **Skin swelling:** Skin bulging and fragile, appearing as a closed ulcer, with contents being serum-like with a reddish colour and floccules [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
     - **Skin hemorrhages:** Reddened areas around the ulcer sites due to bleeding [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) .
-    - **Internal hemorrhages:** Systemic infection may cause hemorrhages within the internal organs; typically seen as a pale liver with petechiae and swollen spleen. This systemic infection may sometimes occur without any visible skin lesions [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
-    - **Circulatory failure**: Pale gills and liver, and ascites (abdominal  fluid) [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
+    - **Internal hemorrhages:** Systemic infection may cause hemorrhages within the internal organs; typically seen as a pale liver with petechiae and swollen spleen. This systemic infection may sometimes occur without any visible skin lesions [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
+    - **Circulatory failure**: Pale gills and liver, and ascites (abdominal  fluid) [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
+
 
 - **Behavioural Changes:**
 
-    - **Lethargy:** Reduced activity and slower swimming movements [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/).
+    - **Lethargy:** Reduced activity and slower swimming movements [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
     - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
     - **Abnormal Swimming Patterns:** Fish may exhibit erratic or sluggish swimming due to pain and discomfort from ulcers [2](https://www.mdpi.com/2673-9917/3/3/15) 
 
@@ -51,7 +52,7 @@ tags:
 
 **Etiology**
 
-- Can be both acute where bacterium colonise on the scales or an open wound. Or systematic where *M.viscosa* enters through the gills and into the blood stream, [8](https://pubmed.ncbi.nlm.nih.gov/21862244/) [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) [9](https://www.sciencedirect.com/science/article/abs/pii/S1050464809001016) 
+- Can be both acute where bacterium colonise on the scales or an open wound, or systematic where *M.viscosa* enters through the gills and into the blood stream, [8](https://pubmed.ncbi.nlm.nih.gov/21862244/) [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) [9](https://www.sciencedirect.com/science/article/abs/pii/S1050464809001016).
 - **Causative Agent:** 3 variants of *M. viscosa* bacterium with a variety of isolates [10](https://pubmed.ncbi.nlm.nih.gov/36787245/) [11](https://pubmed.ncbi.nlm.nih.gov/21290896/). During an outbreak, it is not uncommon to find multiple clonal complexes represented simultaneously [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
 - It was formerly named *Vibrio viscosus* [12](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=80854)
 - **Species Affected:** Farmed Atlantic salmon and trout are most affected with it being considered a serious welfare and economic issue [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). Additionally, challenge experiments found Atlantic Halibut *(Hippoglossus hippoglossus)* [13](https://pubmed.ncbi.nlm.nih.gov/16911535/), Turbot *(Scophthalmus maximus)* [14](https://pubmed.ncbi.nlm.nih.gov/15509259/)and Atlantic Cod *(Gadus morhua)* [13](https://pubmed.ncbi.nlm.nih.gov/16911535/) are also susceptible to *M. viscosa*. Lumpfish (_Cyclopterus lumpus_), a type of cleaner fish used in salmonid farming also are susceptible to variants [15](https://onlinelibrary.wiley.com/doi/10.1111/jfd.12884)
@@ -66,7 +67,7 @@ tags:
 - **Environmental Factors:** _M. viscosa_ thrives in cold seawater (7–10°C), a temperature range where salmonid immune responses are suppressed and skin wound-healing processes are significantly impaired [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). Outbreaks are therefore most common during late autumn, winter, and early spring [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) . Poor water quality, and high stocking densities can increase susceptibility to *M. viscosa* infections [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [2](https://www.mdpi.com/2673-9917/3/3/15) 
 
 - **Farm Management Practices:** 
-    - **Handling and physical trauma**: Outbreaks are frequently linked to prior handling events. Mechanical stress, such as delousing operations, and poort handling techniques can create physical trauma and open wounds that serve as entry points for infection [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
+    - **Handling and physical trauma**: Outbreaks are frequently linked to prior handling events. Mechanical stress, such as delousing operations, and poor handling techniques can create physical trauma and open wounds that serve as entry points for infection [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
     - **Biosecurity risk**: Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of the bacterium [2](https://www.mdpi.com/2673-9917/3/3/15). 
 
 ### Diagnosis
@@ -80,7 +81,7 @@ tags:
     - **Histopathology:** Microscopic examination of tissue samples to assess the tissue condition and presence of rod like bacteria (*M.Viscosa)* [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
     - **PCR (Polymerase Chain Reaction) and MLVA (Multiple Loci VNTR Analysis):** from field samples to determine if the species is present  with PCR and with MLVA, the variant/s; CC1 'classical', CC2 or the CC3 'variant' [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf) [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa) , [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/)
     - **Microbiology**: Visual examination of bacterial colonies, to determine the phenotypical characteristics (viscous or non-viscous) of the variant and if there are other bacteria present  [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/). Grown on agar plates from the subbmitted samples [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa)  [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
-    - Labs offering *M.Viscosa* tests: [Norwegian Vet Institute](https://www.vetinst.no/provetaking-og-diagnostikk), [PHARMAQ Analytiq](https://pharmaq.com/en) [Blue Analytics](https://blueanalytics.no/en/), [Sýni](https://syni.is/), [Patogen]([PatoGen AS - et fiskehelse-selskap](https://patogen.no/nb/)). 
+    - Labs offering *M.Viscosa* tests: [Norwegian Vet Institute](https://www.vetinst.no/provetaking-og-diagnostikk), [PHARMAQ Analytiq](https://pharmaq.com/en) [Blue Analytics](https://blueanalytics.no/en/), [Sýni](https://syni.is/), [PatoGen AS - et fiskehelse-selskap](https://patogen.no/nb/). 
 
 
 **Differential Diagnosis**
@@ -112,7 +113,7 @@ tags:
     - Regular monitoring of fish health to detect and address early signs of infection.
 
 - **Farm Management Practices:**
-    - Implementing a low-handling policy during high-risk periods (low temperatures in winter) is critical [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
+    - Implementing a low-handling policy during high-risk periods (low temperatures in winter) is critical [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
     - Using equipment and facilities designed to minimize skin abrasions and injuries. 
     - Ensuring adequate nutrition and use of functional feeds to support immune function and wound healing [21](https://www.kyst.no/vintersar/var-nodt-til-a-destruere-all-fisken-i-en-merd/172937), [22](https://www.kyst.no/article/slik-jobber-oppdrettsselskapene-for-aa-unngaa-vintersaar/)
     - In a few cases in early autumn, antibiotics can be used to reduce infection pressure and prevent new fish from getting sores [21](https://www.kyst.no/article/var-noedt-til-aa-noedt-til-aa-destruere-all-fisken-i-en-merd/)
@@ -229,7 +230,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ---
 
 **Title:** Moritella viscosa
-**Date:** 2026-01-30
+**Date:** 2026-04-11
 **Tags:** #MoritellaViscosa, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Scotland, #Canada, #FaroeIslands,  #BacterialDiseases, #Bacteria, #WinterWounds 
 
 ##### Other Bacterial Diseases

@@ -163,7 +163,7 @@ tags:
 - **Moritella Viscosa Incidence in Faroe Isles:**
     
     -  *Moritella viscosa* isolates consistent with the type strain have been found in Atlantic salmon farmed in the Faroe Isles [11](https://pubmed.ncbi.nlm.nih.gov/21290896/).
-    - No data currently available for economic impact. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+    - No data currently available for economic impact, diagnosis and management data. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
 #### Norway
 
 - **Moritella Viscosa Incidence in Norway:**
@@ -186,16 +186,15 @@ tags:
 - **Moritella Viscosa Incidence in Scotland:**
     
     - *Moritella viscosa* has been isolated from Atlantic salmon farmed in Scotland [28](https://pubmed.ncbi.nlm.nih.gov/9891731/) [29](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/moritella-viscosa/)
-    - Official Scottish sources do not publish regular, aggregated incidence counts for M. viscosa the way Norway’s Veterinary Institute does for Norwegian farms
-    
-- **Economic Impact:**
-    
-    - No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
-    
-- **Treatment Regimes:**
-    
-    No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+    - Over the last decade, the Scottish landscape has transitioned  from "classical" viscous strains to "variant" and "non-viscous classical" strains, which are now the primary drivers of outbreaks [38](https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890).
+    - Official Scottish sources do not publish regular, aggregated  incidence counts for M. viscosa the way Norway’s Veterinary Institute does for Norwegian farms.
 
+- **Economic Impact:**
+    - No data currently available for economic impact, diagnosis and management data. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+
+- **Diagnosis & Management:**
+    - Diagnosis typically includes clinical observation and PCR, but Scottish veterinarians emphasize that bacterial culture is essential to characterize the phenotype (e.g., non-viscous vs. variant strains). This is critical for confirming if current vaccines match the farm-level strain [38](https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890)
+    - Managed by vaccinating smolts before sea transfer, reducing handling, focus on preventation over cure where antibiotic use is seen as a last resort [38](https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890) [39](https://scottishseafarms.com/our-salmon/vaccines-and-medicines/) .
 
 ## Research and References
 ### Latest Research Findings
@@ -299,7 +298,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [29] Scottish Government. (n.d.). _Moritella viscosa_. Accessed Jan 2026.  [https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/moritella-viscosa/](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/moritella-viscosa/)
 
-[30] Scottish Government. (n.d.). Fish health inspectorate.Accessed Jan 2026.  [https://www.gov.scot/policies/fish-health-inspectorate/](https://www.gov.scot/policies/fish-health-inspectorate/)
+[30] Scottish Government. (n.d.). Fish health inspectorate. Accessed Jan 2026.  [https://www.gov.scot/policies/fish-health-inspectorate/](https://www.gov.scot/policies/fish-health-inspectorate/)
 
 [31] Ramberg, S., Krasnov, A., Colquhoun, D., Wallace, C., & Andreassen, R. (2022). Expression analysis of Moritella viscosa-challenged Atlantic salmon identifies disease-responding genes, microRNAs and their predicted target genes and pathways. _International journal of molecular sciences_, _23_(19), 11200.[https://www.mdpi.com/1422-0067/23/19/11200](https://www.mdpi.com/1422-0067/23/19/11200) 
 
@@ -311,7 +310,11 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [35] Akvademiet. Vintersår. Accessed April 2026. https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/
 
-[36] Steen Dobloug, M., Iakhno, S., Foyn Nørstebø, S. _et al._ (2026). Antagonistic Mechanisms of Probiotic _Aliivibrio_ sp. Strain Vl2 Against _Moritella viscosa_: Evidence from Co-cultivation and Targeted Transcriptomic Analysis. _Probiotics & Antimicro. Prot._ **18**, 2316–2331 https://doi.org/10.1007/s12602-025-10669-1
+[36] Steen Dobloug, M., Iakhno, S., Foyn Nørstebø, S. _et al._ (2026). Antagonistic Mechanisms of Probiotic _Aliivibrio_ sp. Strain Vl2 Against _Moritella viscosa_: Evidence from Co-cultivation and Targeted Transcriptomic Analysis. _Probiotics & Antimicro. Prot._ 18, 2316–2331 https://doi.org/10.1007/s12602-025-10669-1
 
-[37] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. *Norwegian Fish Health Report, 2025. Published by the Norwegian Veterinary Institute 2026. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
+[37] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. Norwegian Fish Health Report, 2025. Published by the Norwegian Veterinary Institute 2026. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
+
+[38] FishFarmingExpert. Published March 2026. Unpacking a sore subject. Accessed April 2026. https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890
+
+[39] Scottish Sea Farms. (n.d.). Vaccines and medicines. Accessed April 2026. https://scottishseafarms.com/our-salmon/vaccines-and-medicines/
 - - - 

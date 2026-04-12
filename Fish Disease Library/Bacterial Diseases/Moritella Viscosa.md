@@ -79,8 +79,9 @@ tags:
 - **Laboratory Tests:**
 
     - **Histopathology:** Microscopic examination of tissue samples to assess the tissue condition and presence of rod like bacteria (*M.Viscosa)* [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
-    - **PCR (Polymerase Chain Reaction) and MLVA (Multiple Loci VNTR Analysis):** from field samples to determine if the species is present  with PCR and with MLVA, the variant/s; CC1 'classical', CC2 or the CC3 'variant' [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf) [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa) , [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/)
-    - **Microbiology**: Visual examination of bacterial colonies, to determine the phenotypical characteristics (viscous or non-viscous) of the variant and if there are other bacteria present  [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/). Grown on agar plates from the subbmitted samples [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa)  [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
+    - **Microbiology**: Visual examination of bacterial colonies, to determine the phenotypical characteristics (viscous or non-viscous) of the variant and if there are other bacteria present  [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/). Grown on agar plates from the subbmitted samples from the head kidney and within wound [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa)  [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
+    - **PCR (Polymerase Chain Reaction) and MLVA (Multiple Loci VNTR Analysis):** from field samples to determine if the species is present  with PCR and with MLVA, the variants; CC1 'classical', CC2 or the CC3 'variant' [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf) [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa) , [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/)
+        - Recommended that PCR not be used as a standalone  tool as it can give 'weak positive results' in normal skin, without being the cause of disease. Holistic examination using microbiology, preferably in combination with histology and PCR is best practice [40](https://ilaks.no/vintersar-skjuler-ofte-kompliserte-arsakskjeder-slik-avdekker-du-dem/). 
     - Labs offering *M.Viscosa* tests: [Norwegian Vet Institute](https://www.vetinst.no/provetaking-og-diagnostikk), [PHARMAQ Analytiq](https://pharmaq.com/en) [Blue Analytics](https://blueanalytics.no/en/), [Sýni](https://syni.is/), [PatoGen AS - et fiskehelse-selskap](https://patogen.no/nb/). 
 
 
@@ -318,4 +319,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [38] FishFarmingExpert. Published March 2026. Unpacking a sore subject. Accessed April 2026. https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890
 
 [39] Scottish Sea Farms. (n.d.). Vaccines and medicines. Accessed April 2026. https://scottishseafarms.com/our-salmon/vaccines-and-medicines/
+
+[40] iLaks. Published March 2026. Vintersår skjuler ofte kompliserte årsakskjeder – slik avdekker du dem. Accessed April 2026. https://ilaks.no/vintersar-skjuler-ofte-kompliserte-arsakskjeder-slik-avdekker-du-dem/
 - - - 

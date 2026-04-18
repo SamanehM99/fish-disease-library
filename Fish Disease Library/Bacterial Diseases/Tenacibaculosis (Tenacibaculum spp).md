@@ -30,8 +30,8 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
     - **Fin Erosion:** Fraying and degradation of the fins, especially the caudal (tail) fin.
     - **Hemorrhages:** Reddened areas on the skin and fins due to bleeding.
     - **Gill lesions:** erosion and necrosis with little inflammation [6](https://fishhistopathology.com/?p=2550)
-    - **Systemic infections** can result in some cases, depending on the isolate involved [6](https://fishhistopathology.com/?p=2550)
-    - In cases of *Tenacibaculum maritimum* yellow mats form on the inside of the mouth especially in Atlantic salmon [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211739/) in some cases teeth can fall out  [6](https://fishhistopathology.com/?p=2550)
+    - **Systemic infections** may occur depending on the specific isolate, though _Tenacibaculum_ is primarily characterized as a superficial infection targeting the skin, fins, and gills [6](https://fishhistopathology.com/?p=2550)
+    - **Jawbone erosion**: In cases of *Tenacibaculum maritimum* yellow mats form on the inside of the mouth, especially in Atlantic salmon [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211739/). This often progresses to extensive necrosis and erosion of the jaw, which can lead to the loss of teeth in some cases [6](https://fishhistopathology.com/?p=2550) [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/)
 
 - **Behavioral Changes:**
     - **Lethargy:** Reduced activity and slow swimming.
@@ -414,3 +414,5 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [41] Vendramin, N., Zrncic, S., Padros, F., Oraic, D., Le Breton, A., Zarza, C., & Olesen, N. J. (2016). Fish health in Mediterranean Aquaculture, past mistakes and future challenges. Bulletin of the European Association of Fish Pathologists, 36(1), 38-45. (https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf)
 
 [42] Published February 2025. By Bob Burton. Accessed February 2026. (https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/?sfnsn=wa&sfnsn=mo)
+
+[43] Akvademiet. (n.d). Tenacibaculose. Accessed April 2026. (https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/)

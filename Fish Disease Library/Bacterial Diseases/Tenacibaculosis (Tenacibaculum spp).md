@@ -26,10 +26,10 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
 ### Common Symptoms
 
 - **Physical Signs:**
-    - **Skin Ulcers:** Deep, necrotic ulcers on the skin often surrounded by a darkened area or zone of yellow. Ulcers often found around the mouth, fins, and body (for pictures see [Sandoval](https://fishhistopathology.com/?p=2369) )
+    - **Skin Ulcers:** Deep, necrotic ulcers on the skin often surrounded by a darkened area or zone of yellow. Ulcers often found around the mouth, head, fins, and body (for pictures see [Sandoval](https://fishhistopathology.com/?p=2369) )
     - **Fin Erosion:** Fraying and degradation of the fins, especially the caudal (tail) fin.
     - **Hemorrhages:** Reddened areas on the skin and fins due to bleeding.
-    - **Gill lesions:** erosion and necrosis with little inflammation, filamentous bacteria mats also found covering the gills and necrotic tissue [6](https://fishhistopathology.com/?p=2550)
+    - **Gill lesions:** erosion and necrosis with little inflammation [6](https://fishhistopathology.com/?p=2550)
     - **Systemic infections** can result in some cases, depending on the isolate involved [6](https://fishhistopathology.com/?p=2550)
     - In cases of *Tenacibaculum maritimum* yellow mats form on the inside of the mouth especially in Atlantic salmon [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211739/) in some cases teeth can fall out  [6](https://fishhistopathology.com/?p=2550)
 

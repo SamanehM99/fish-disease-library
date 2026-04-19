@@ -43,7 +43,7 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
 **Progression of Symptoms**
 
 - **Early Stages:** Small, localized lesions and mild redness around the mouth and fins.
-- **Advanced Stages:** Severe skin ulcers, extensive fin erosion, and high mortality if left untreated.
+- **Advanced Stages:** Severe skin ulcers, extensive fin erosion, and high mortality if left untreated. Typically, an outbreak within a single sea cage in Norway lasts approximately 14 days, characterized by one week of increasing mortality followed by a week of decline until the outbreak subsides [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
 - **Impact on Fish Health:** Tenacibaculosis severely compromises the skin barrier, leading to stress, reduced growth rates, and higher susceptibility to secondary infections [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf).
 
 ### Causes of Tenacibaculosis

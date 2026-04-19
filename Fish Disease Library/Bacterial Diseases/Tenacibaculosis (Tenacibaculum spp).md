@@ -43,13 +43,13 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
 **Progression of Symptoms**
 
 - **Early Stages:** Small, localized lesions and mild redness around the mouth and fins.
-- **Advanced Stages:** Severe skin ulcers, extensive fin erosion, and high mortality if left untreated. Typically, an outbreak within a single sea cage in Norway lasts approximately 14 days, characterized by one week of increasing mortality followed by a week of decline until the outbreak subsides [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
+- **Advanced Stages:** Severe skin ulcers, extensive fin erosion, and high  mortality if left untreated. Typically, an outbreak within a single sea cage in Norway lasts approximately 14 days, characterized by one week of increasing mortality followed by a week of decline until the outbreak subsides [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
 - **Impact on Fish Health:** Tenacibaculosis severely compromises the skin barrier, leading to stress, reduced growth rates, and higher susceptibility to secondary infections [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf).
 
 ### Causes of Tenacibaculosis
 
 **Etiology**
-The genus Tenacibaculum currently contains a total of 39 valid fish-pathogenic and environmental species [10](https://lpsn.dsmz.de/genus/tenacibaculum). *Tenacibaculum* spp are generally considered opportunistic pathogens, i.e don't normally cause disease, but can cause infection when the opportunity arises [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). Pathogenic species include: *T. maritimum, Tenacibaculum soleae, Tenacibaculum discolor, Tenacibaculum dicentrarchi* and *Tenacibaculum finnmarkense*, *Tenacibaculum* _ovolyticum_ [11](https://pubmed.ncbi.nlm.nih.gov/30291367/). It was previously named flexibacteriosis. 
+The genus Tenacibaculum currently contains a total of 39 valid fish-pathogenic and environmental species [10](https://lpsn.dsmz.de/genus/tenacibaculum). *Tenacibaculum* spp are generally considered opportunistic pathogens, i.e don't normally cause disease, but can cause infection when the opportunity arises [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). Pathogenic species include: *T. maritimum, T. soleae, T. discolor, T. dicentrarchi* and *T. finnmarkense*, *T. ovolyticum [11](https://pubmed.ncbi.nlm.nih.gov/30291367/). It was previously named flexibacteriosis. 
 
 
 - **Causative Agents:** 

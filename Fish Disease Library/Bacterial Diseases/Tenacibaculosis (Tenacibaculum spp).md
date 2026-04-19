@@ -19,7 +19,7 @@ tags:
 ## Overview
 
 ### What is Tenacibaculosis?
-Tenacibaculosis is a bacterial ulcerative disease caused by multiple species within the genus _Tenacibaculum_, affecting numerous fish species in aquaculture [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4136090/). It is characterised by ulcerative and/or necrotic skin lesions, an eroded and hemorrhagic mouth, frayed fins, and tail rot; often leading to high mortality and significant economic losses [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). The disease was first described in Japan in the 1970s and has since been reported in many marine wild and farmed fish in Europe, Asia, North and South America and Australia [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/). Despite extensive research, there is still no complete treatment [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/)[5](https://www.frontiersin.org/journals/aquaculture/articles/10.3389/faquc.2024.1496943/full)
+Tenacibaculosis is a bacterial ulcerative disease caused by multiple species within the genus _Tenacibaculum_, affecting numerous fish species in marine aquaculture [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4136090/). It is characterised by ulcerative and/or necrotic skin lesions, an eroded and hemorrhagic mouth, frayed fins, and tail rot. These symptoms often lead to significant economic losses and are most commonly associated with high mortality in newly transferred smolt [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). The disease was first described in Japan in the 1970s and has since been reported in many marine wild and farmed fish in Europe, Asia, North and South America and Australia [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/). Despite extensive research, there is still no complete treatment [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/)[5](https://www.frontiersin.org/journals/aquaculture/articles/10.3389/faquc.2024.1496943/full)
 
 ## Symptoms of Tenacibaculosis
 
@@ -42,7 +42,7 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
 
 **Progression of Symptoms**
 
-- **Early Stages:** Small, localized lesions and mild redness around the mouth and fins.
+- **Early Stages:** Small, localized lesions and mild redness around the mouth and fins.
 - **Advanced Stages:** Severe skin ulcers, extensive fin erosion, and high mortality if left untreated. Typically, an outbreak within a single sea cage in Norway lasts approximately 14 days, characterized by one week of increasing mortality followed by a week of decline until the outbreak subsides [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
 - **Impact on Fish Health:** Tenacibaculosis severely compromises the skin barrier, leading to stress, reduced growth rates, and higher susceptibility to secondary infections [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf).
 

@@ -35,7 +35,7 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
     - **Eye infection**: Cloudy appearance in the eyes and exophthalmia (bulging) [44](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187476). In severe cases, the infection can lead to necrosis of the eye [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose) [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/).
 
 - **Behavioral Changes:**
-    - **Lethargy:** Reduced activity and slow swimming.
+    - **Lethargy:** Reduced activity and slow swimming [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
     - **Loss of Appetite:** Decreased feeding behavior and significant weight loss [8](http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/) 
     - **Abnormal Swimming Patterns:** Fish may swim erratically or show signs of distress due to pain from ulcers.
 

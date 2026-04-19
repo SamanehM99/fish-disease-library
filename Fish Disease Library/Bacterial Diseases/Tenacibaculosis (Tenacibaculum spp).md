@@ -31,7 +31,8 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
     - **Hemorrhages:** Reddened areas on the skin and fins due to bleeding.
     - **Gill lesions:** erosion and necrosis with little inflammation [6](https://fishhistopathology.com/?p=2550)
     - **Systemic infections** may occur depending on the specific isolate, though _Tenacibaculum_ is primarily characterized as a superficial infection targeting the skin, fins, and gills [6](https://fishhistopathology.com/?p=2550)
-    - **Jawbone erosion**: In cases of *Tenacibaculum maritimum* yellow mats form on the inside of the mouth, especially in Atlantic salmon [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211739/). This often progresses to extensive necrosis and erosion of the jaw, which can lead to the loss of teeth in some cases [6](https://fishhistopathology.com/?p=2550) [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/)
+    - **Jawbone erosion**: In cases of *Tenacibaculum maritimum* yellow mats form on the inside of the mouth, especially in Atlantic salmon [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211739/). This often progresses to extensive necrosis and erosion of the jaw, which can lead to the loss of teeth in some cases [6](https://fishhistopathology.com/?p=2550) [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
+    - **Eye infection**: Cloudy appearance in the eyes and exophthalmia (bulging) [44](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187476). In severe cases, the infection can lead to necrosis of the eye [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose) [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/).
 
 - **Behavioral Changes:**
     - **Lethargy:** Reduced activity and slow swimming.
@@ -416,3 +417,5 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [42] Published February 2025. By Bob Burton. Accessed February 2026. (https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/?sfnsn=wa&sfnsn=mo)
 
 [43] Akvademiet. (n.d). Tenacibaculose. Accessed April 2026. (https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/)
+
+[44] Småge SB, Brevik ØJ, Frisch K, Watanabe K, Duesund H, et al. (2018) Correction: Concurrent jellyfish blooms and tenacibaculosis outbreaks in Northern Norwegian Atlantic salmon (_Salmo salar_) farms. PLOS ONE 13(1): e0190762. ([https://doi.org/10.1371/journal.pone.0190762](https://doi.org/10.1371/journal.pone.0190762))(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187476)

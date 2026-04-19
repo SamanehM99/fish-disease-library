@@ -69,7 +69,7 @@ The genus Tenacibaculum currently contains a total of 39 valid fish-pathogenic a
 	    - *T. maritimum*, _T. dicentrarchi_ can be horizontally transferred between fish [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/), [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/). 
 
     - **Waterborne:**
-	    -  _T. finnmarkense_: Different strains vary in their ability to cause disease, and the bacterium is not readily transmitted between fish [14]
+	    -  _T. finnmarkense_: Different strains vary in their ability to cause disease, and the bacterium is not readily transmitted between fish [14](https://bora.uib.no/bora-xmlui/handle/1956/19440)
 	    
 
 | Tenacibaculum species                                                                  | Main known ways it spreads                                                                                                                                                                    | Example sources                                                               |

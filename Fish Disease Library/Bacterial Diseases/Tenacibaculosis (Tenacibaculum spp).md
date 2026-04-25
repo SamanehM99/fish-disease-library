@@ -58,7 +58,7 @@ The genus Tenacibaculum currently contains a total of 39 valid fish-pathogenic a
 	- It has strong adhesion to fish skin and mucus, needs seawater (≥10%), optimal growth 25-30°C, gram negative and is thin and rod-shaped [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/)
 	- *T. soleae* identified from Senegalese sole (_Solea senegalensis_) and turbot _Scophthalmus maximus_. Mainly sole specific and causes similar ulcers as other Tenacibaculum species  [12](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.65397-0)
 	- *T. discolor* identified from European and Asian sea bass (_Dicentrarchus labrax_ and _Lates calcarifer_) [12](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.65397-0). Less pathogenic/emerging compared to the main species and mainly environmental or opportunistic [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/)
-	- *T. dicentrarchi* identified from Atlantic salmon (_Salmo salar_) [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/) and European sea bass (Dicentrarchus labrax L.) [13](https://pubmed.ncbi.nlm.nih.gov/21460137/). Suggested to be more pathogenic to non-salmonid species [14]
+	- *T. dicentrarchi* identified from Atlantic salmon (_Salmo salar_) [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/) and European sea bass (Dicentrarchus labrax L.) [13](https://pubmed.ncbi.nlm.nih.gov/21460137/). Suggested to be more pathogenic to non-salmonid species [14](https://bora.uib.no/bora-xmlui/handle/1956/19440).
 	- *T. finnmarkense* identified from rainbow trout (_Oncorhynchus mykiss_) and Atlantic salmon (_Salmo salar_) [15](https://pubmed.ncbi.nlm.nih.gov/26662517/) [16](https://www.mdpi.com/2076-0817/10/11/1439). Is it quite virulent (causes more damage to host, disease at lower doses or spreads/grows faster), but higher doses of the virus are needed to infect at 8 °C than at 4 °C  [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/). Spilt into 2 genetic sub-groups (called genomovars, gv): *gv. finnmarkense and gv. ulcerans* [18](https://www.fhf.no/prosjekter/prosjektbasen/901434/)
 	- *T. ovolyticum* identified in Atlantic halibut (_Hippoglossus hippoglossus_) and farmed Atlantic Salmon (_Salmo salar_) [19](https://pubmed.ncbi.nlm.nih.gov/35652633/). Grows in cold seawater and associated with deep/cold water environments [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC4929521/). Mainly an egg pathogen historically, but emerging as a cause of tenacibaculosis in farmed fish [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/).
 
@@ -81,7 +81,7 @@ The genus Tenacibaculum currently contains a total of 39 valid fish-pathogenic a
 Disease from _T. maritimum_ peaks in a 15–26°C range but varies by location/fish species; stress  and bad conditions which make outbreaks worse [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/).
 - **Environmental Factors:** Salinity, water temperature, seasonality, algal or jellyfish blooms can affect susceptibility to Tenacibaculosis [5](https://www.frontiersin.org/journals/aquaculture/articles/10.3389/faquc.2024.1496943/full), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). 
 	- Some regions: more cases with warming waters (Tasmania); others: winter outbreaks (15–20°C ideal in Spain). [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/)
-	- For _T. finnmarkense_ colder water temperatures >8°C increase the risk
+	- For _T. finnmarkense_ colder water temperatures >8°C increase the risk [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
 
 - **Farm Management Practices:** Generally high rearing density, excessive feed administration (especially in the case of *T.maritimum* which focuses in the mouth [6](https://fishhistopathology.com/?p=2550)) , fresh to saltwater transfer of smolts (salmonids) and/or mechanical damage of the skin and mucus barrier, healthy fish carrying the disease [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/), [23](https://pubmed.ncbi.nlm.nih.gov/21387991/), [5](https://www.frontiersin.org/journals/aquaculture/articles/10.3389/faquc.2024.1496943/full),  [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/), Some specific risks for other species:
 	- For _T. finnmarkense_ transferring salmonid smolt from high salinity environments to low sea temps in the sea increases tenacibaculosis infection [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/).
@@ -140,7 +140,7 @@ A summary table for each species is found below.
     
 - **Vaccines**:
 	- No commercial vaccine, except for one for turbot in Spain, which needs boosters [31](https://pubmed.ncbi.nlm.nih.gov/15962472/) . The broad genetic variety means broad vaccines fail [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/#s10) 
-	- Tested vaccines include: barramundi in Singapore, salmon in Tasmania, salmon in Chile [8](http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/), whole cell inactivated adjuvanted vaccine against _T. finnmarkense_  [14] and immunization with recombinant proteins against _T. finnmarkense_ [30](https://www.fhf.no/prosjekter/prosjektbasen/901655/)
+	- Tested vaccines include: barramundi in Singapore, salmon in Tasmania, salmon in Chile [8](http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/), whole cell inactivated adjuvanted vaccine against _T. finnmarkense_ [14](https://bora.uib.no/bora-xmlui/handle/1956/19440). and immunization with recombinant proteins against _T. finnmarkense_ [30](https://www.fhf.no/prosjekter/prosjektbasen/901655/)
 
 
 - **Farm Management Practices:**
@@ -158,7 +158,7 @@ A summary table for each species is found below.
     - **Japan (1970s):** The first identified outbreaks led to significant losses and increased awareness of Tenacibaculosis.
     
     - **Norway (2010s):** Major outbreaks started gaining attention, although the bacteria had been present since at least the 1980s. [4](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259215). 
-	    - In Finnmark (northern Norway) in 2015 mortalities were up to 40% in recently transferred smolt [14]
+	    - In Finnmark (northern Norway) in 2015 mortalities were up to 40% in recently transferred smolt [14](https://bora.uib.no/bora-xmlui/handle/1956/19440).
     
     - **Chile (2010s):** Severe outbreaks caused substantial economic impact and prompted industry reforms [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/) [9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf). 
 	    - **2018–2019**: First major reports post-seawater transfer *T. dicentrarchi* dominant, mortality up to 10% by mid-2019 (rising from 0% in company stats) [32](https://pubmed.ncbi.nlm.nih.gov/32662133/)

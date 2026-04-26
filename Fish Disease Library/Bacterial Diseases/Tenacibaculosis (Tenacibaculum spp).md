@@ -87,14 +87,14 @@ Disease from _T. maritimum_ peaks in a 15–26°C range but varies by location/f
 
 - **Environmental Factors:** Salinity, water temperature, seasonality, algal or jellyfish blooms can affect susceptibility to Tenacibaculosis [5](https://www.frontiersin.org/journals/aquaculture/articles/10.3389/faquc.2024.1496943/full), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). 
 	- Some regions: more cases with warming waters (Tasmania); others: winter outbreaks (15–20°C ideal in Spain). [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/)
-	- For _T. finnmarkense_ colder water temperatures >8°C increase the risk [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
+	- For _T. finnmarkense_ colder water temperatures (<8°C) increase the risk [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
 
 
-- **Farm Management Practices:** Generally high rearing density, excessive feed administration (especially in the case of *T.maritimum* which focuses in the mouth [6](https://fishhistopathology.com/?p=2550)) , fresh to saltwater transfer of smolts (salmonids) and/or mechanical damage of the skin and mucus barrier, healthy fish carrying the disease [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/), [23](https://pubmed.ncbi.nlm.nih.gov/21387991/), [5](https://www.frontiersin.org/journals/aquaculture/articles/10.3389/faquc.2024.1496943/full),  [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/), Some specific risks for other species:
-	- For _T. finnmarkense_ transferring salmonid smolt from high salinity environments to low sea temps in the sea increases tenacibaculosis infection [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/).
+- **Farm Management Practices:** Generally high rearing density, excessive feed administration (especially in the case of *T.maritimum* which focuses in the mouth [6](https://fishhistopathology.com/?p=2550)) , fresh to saltwater transfer of smolts (salmonids) and/or mechanical damage of the skin and mucus barrier, and healthy fish carrying the bacteria [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/), [23](https://pubmed.ncbi.nlm.nih.gov/21387991/), [5](https://www.frontiersin.org/journals/aquaculture/articles/10.3389/faquc.2024.1496943/full),  [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). Some specific risks for other species:
+	- For _T. finnmarkense_ transferring salmonid smolts to seawater during periods of low temperature increases risk of tenacibaculosis infection. Consequently, the disease is most prevalent in Norway during the early spring and late autumn transfer windows, when water temperatures are at their lowest [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/) [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
 	- For *T. dicentrarchi* skin or gill damage increase disease susceptabilty, potentially warmer temperatures [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/). 
-	- For *T. ovolyticum* risks include bad hygiene or presence of disease on eggs, cold deep sea water, possible equipment contamination [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/). 
-	- For *T. soleae* risks include being in Sole/brill aquaculture (Spain), tank systems, high mortality in juveniles
+	- For *T. ovolyticum* risks include bad hygiene or presence of  disease on eggs, cold deep sea water, possible equipment contamination [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/). 
+	- For *T. soleae*, it is primarily associated with marine aquaculture of flatfish species such as sole, turbot, and brill, particularly in southern Europe (e.g., Spain), where it has caused significant disease outbreaks and economic losses [45](https://www.jstage.jst.go.jp/article/jsfp/49/1/49_16/_article?utm_source=chatgpt.com).
 
 
 ### Diagnosis
@@ -426,3 +426,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [43] Akvademiet. (n.d). Tenacibaculose. Accessed April 2026. (https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/)
 
 [44] Småge SB, Brevik ØJ, Frisch K, Watanabe K, Duesund H, et al. (2018) Correction: Concurrent jellyfish blooms and tenacibaculosis outbreaks in Northern Norwegian Atlantic salmon (_Salmo salar_) farms. PLOS ONE 13(1): e0190762. ([https://doi.org/10.1371/journal.pone.0190762](https://doi.org/10.1371/journal.pone.0190762))(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187476)
+
+[45] Castro, N., et al. (2014). "First Isolation and Characterization of <i>Tenacibaculum soleae</i> from Sea Bass <i>Dicentrarchus labrax</i>." Fish Pathology 49(1): 16-22. [https://doi.org/10.3147/jsfp.49.16](https://doi.org/10.3147/jsfp.49.16) (https://www.jstage.jst.go.jp/article/jsfp/49/1/49_16/_article?utm_source=chatgpt.com)
+
+
+
+	

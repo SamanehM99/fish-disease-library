@@ -105,7 +105,7 @@ Diagnostic methods for Tenacibaculum infections primarily involve culture isolat
 - **Clinical Examination:** Observation of physical symptoms, such as skin ulcers and fin erosion.
 
 - **Laboratory Tests:**
-    - **Bacterial Culture:** Isolation and identification of *Tenacibaculum spp* from tissue samples on selective agar plates with MALDI-TOF MS or biochemical tests identify species [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/)
+    - **Bacterial Culture & microscopy**: Isolation and identification of *Tenacibaculum spp* from skin or lesions samples on marine agar media. Colonies are typically yellow-pigmented, and microscopy reveals long, filamentous rod-shaped bacteria characteristic of the genus [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose). Species identification can be confirmed using MALDI-TOF MS or biochemical tests [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/).
     - **PCR (Polymerase Chain Reaction):** Detects bacterial DNA in tissue samples. PCR assays have been developed for _T. dicentrarchi_, _T. maritimum_ and _T. soleae_ [24](https://www.int-res.com/abstracts/dao/v136/dao03407) Norway favors MLSA for strain diversity; qPCR is routine in EU labs for surveillance [25](https://ressources.ciheam.org/ressources/om/pdf/b75/00007944.pdf), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/) 
     - **Histopathology:** Microscopic examination of tissue samples to assess the extent of tissue damage and infection, but not for species ID [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf)
 

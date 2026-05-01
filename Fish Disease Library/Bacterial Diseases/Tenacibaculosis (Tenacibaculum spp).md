@@ -111,6 +111,7 @@ Diagnostic methods for Tenacibaculum infections primarily involve culture isolat
 **Differential Diagnosis**
 
 - **Distinguishing Tenacibaculosis from Other Diseases:** *Tenacibaculum* spp. can often be in the wounds with other bacterium such as [[Moritella Viscosa]] [26](https://www.vetinst.no/sykdom-og-agens/vintersar](https://www.vetinst.no/sykdom-og-agens/vintersar) and _Aliivibrio wodanis_ and different Vibrio-species [47](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/). Laboratory confirmation (e.g., PCR or culture) is required for differentiation.
+- Clinically, _Tenacibaculum_ spp. infections in salmonids are typically  characterized by primarily surface-associated erosive lesions affecting the skin, fins, and mouth, sometimes with a yellowish appearance due to bacterial growth. In contrast, infections caused by _Moritella viscosa_ more often present as deep ulcerative lesions and may involve systemic infection [48](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).
 - Infections are often with multiple strains or even Tenacibaculum species, which also results in poor treatment efficacy  [8](http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/) [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/).
 
 ### Treatment and Prevention
@@ -430,3 +431,5 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [46] Nowlan JP, Lumsden JS, Russell S (2021). Quantitative PCR for Tenacibaculum dicentrarchi and T. finnmarkense. J Fish Dis 44(5):655-659. [doi: 10.1111/jfd.13357.](https://doi.org/10.3147/jsfp.49.16) ([Quantitative PCR for Tenacibaculum dicentrarchi and T. finnmarkense - PubMed](https://pubmed.ncbi.nlm.nih.gov/33645841/))
 
 [47] Nofima. (n.d.). Verdt å vite om bakterielle sår på laks. Accessed April 2026. ([https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/))
+
+[48] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. _Norwegian Fish Health Report, 2024_. Published by the Norwegian Veterinary Institute 2025. [https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024)

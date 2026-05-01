@@ -103,9 +103,9 @@ Diagnostic methods for Tenacibaculum infections primarily involve culture isolat
 - **Clinical Examination:** Observation of physical symptoms, such as skin ulcers and fin erosion.
 
 - **Laboratory Tests:**
-    - **Bacterial Culture & microscopy**: Isolation and identification of *Tenacibaculum spp* from skin or lesions samples on marine agar media. Colonies are typically yellow-pigmented, and microscopy reveals long, filamentous rod-shaped bacteria characteristic of the genus [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose). Species identification can be confirmed using MALDI-TOF MS or biochemical tests [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/).
-    - **PCR (Polymerase Chain Reaction):** Detects bacterial DNA in tissue samples. PCR assays have been developed for _T. dicentrarchi_, _T. maritimum_ and _T. soleae_ [24](https://www.int-res.com/abstracts/dao/v136/dao03407) Norway favors MLSA for strain diversity; qPCR is routine in EU labs for surveillance [25](https://ressources.ciheam.org/ressources/om/pdf/b75/00007944.pdf), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/) 
-    - **Histopathology:** Microscopic examination of tissue samples to assess the extent of tissue damage and infection, but not for species ID [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf)
+    - **Bacterial Culture & microscopy**: Isolation and identification of *Tenacibaculum spp*. from skin or lesions samples on marine agar media. Colonies are typically yellow-pigmented, and microscopy reveals long, filamentous rod-shaped bacteria characteristic of the genus [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose). Species identification can be confirmed using MALDI-TOF MS or biochemical tests [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/).
+    - **PCR (Polymerase Chain Reaction):** PCR can be performed directly from tissue lesions or from cultured isolates. Detects bacterial DNA. Species-specific PCR assays have been developed for _T. dicentrarchi_, _T. maritimum_, _T. finnmarkense_ and _T. soleae_ [24](https://www.int-res.com/abstracts/dao/v136/dao03407) [46]([Quantitative PCR for Tenacibaculum dicentrarchi and T. finnmarkense - PubMed](https://pubmed.ncbi.nlm.nih.gov/33645841/)) qPCR is widely used in diagnostic laboratories for surveillance and estimation of bacterial load, while methods such as multilocus sequence analysis (MLSA) are primarily applied in research settings to assess strain diversity [25](https://ressources.ciheam.org/ressources/om/pdf/b75/00007944.pdf), [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/) 
+    - **Histopathology:** Microscopic examination of tissue samples to assess the extent of tissue damage and infection where you can see presence of filamentous bacteria, often forming dense mats along the lesion margins. Does not allow species-level ID [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf)
 
 
 **Differential Diagnosis**
@@ -423,10 +423,10 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [43] Akvademiet. (n.d). Tenacibaculose. Accessed April 2026. (https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/)
 
-[44] Småge SB, Brevik ØJ, Frisch K, Watanabe K, Duesund H, et al. (2018) Correction: Concurrent jellyfish blooms and tenacibaculosis outbreaks in Northern Norwegian Atlantic salmon (_Salmo salar_) farms. PLOS ONE 13(1): e0190762. ([https://doi.org/10.1371/journal.pone.0190762](https://doi.org/10.1371/journal.pone.0190762))(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187476)
+[44] Småge SB, Brevik ØJ, Frisch K, Watanabe K, Duesund H, et al. (2018) Correction: Concurrent jellyfish blooms and tenacibaculosis outbreaks in Northern Norwegian Atlantic salmon (_Salmo salar_) farms. PLOS ONE 13(1): e0190762. [https://doi.org/10.1371/journal.pone.0190762](https://doi.org/10.1371/journal.pone.0190762)(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187476)
 
 [45] Castro, N., et al. (2014). "First Isolation and Characterization of <i>Tenacibaculum soleae</i> from Sea Bass <i>Dicentrarchus labrax</i>." Fish Pathology 49(1): 16-22. [https://doi.org/10.3147/jsfp.49.16](https://doi.org/10.3147/jsfp.49.16) (https://www.jstage.jst.go.jp/article/jsfp/49/1/49_16/_article?utm_source=chatgpt.com)
 
-
+[46] Nowlan JP, Lumsden JS, Russell S (2021). Quantitative PCR for Tenacibaculum dicentrarchi and T. finnmarkense. J Fish Dis 44(5):655-659. [doi: 10.1111/jfd.13357.](https://doi.org/10.3147/jsfp.49.16) ([Quantitative PCR for Tenacibaculum dicentrarchi and T. finnmarkense - PubMed](https://pubmed.ncbi.nlm.nih.gov/33645841/))
 
 	

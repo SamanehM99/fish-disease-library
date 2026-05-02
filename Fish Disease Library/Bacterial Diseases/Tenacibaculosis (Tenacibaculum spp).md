@@ -122,7 +122,7 @@ A summary table for each species is found below.
     - **Antibiotics:** Are used is some cases to control *T.maritimum* with varying degrees of success [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/#s10) Administered through medicated feed or water to treat bacterial infections. The bacteria are naturally resistant to quinolones (a type of antibiotics commonly used against gram-negative bacteria), so efficacy is limited [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose)
 
 
-- **Supportive Care:** In Norway, Tenacibaculosis is generally managed through prevention (handling, smolt quality, biosecurity) rather than treatment.
+- **Supportive Care:** 
     - **Improving Water Quality:** Ensuring optimal water conditions to support wound healing and reduce stress [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/)
     - **Reducing Stocking Densities:** Reduce stocking density during the whole life cycle to keep stress levels down (low stress = good immunity), reduce transmission pressure and minimise skin damage [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/)
     - **Nutritional support:** Especially during first feeding, use high quality diets, and functional ingredients (e.g., immunostimulants, certain algae, probiotics or prebiotics) that may enhance skin and gut barriers and reduce lesion severity [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/). Essential oils have also shown to reduce mortalities in experimental studies with sea bream [28](https://www.academia.edu/2837-4010/3/3/10.20935/AcadBiol7847). 
@@ -140,6 +140,7 @@ A summary table for each species is found below.
 
 
 **Preventive Measures**
+In Norway, Tenacibaculosis is generally managed through prevention (handling, smolt quality, biosecurity) rather than treatment.
 
 - **Biosecurity Protocols:**
     - Regular monitoring of fish health to detect and address (ether by antibiotics or culling) early signs of infection [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/#s10) 

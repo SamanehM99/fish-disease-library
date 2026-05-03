@@ -241,8 +241,9 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
     - The disease causes major economic losses due to increased mortality, reduced quality at harvest, and the need for antibiotic treatments [29](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon).
 
 - **Treatment & Management:**
-    - Recent efforts include the development of vaccines against _Tenacibaculum_ bacteria [29](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon).
-    - Keeping smolt for 4 weeks in 26 per mille seawater can significantly reduce the effect of susceptibility to tenacibaculosis after transfer to the sea and they can better respond to an infection  [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
+    - There are no commercially available vaccines yet, but recent efforts include the development of effective vaccines against _Tenacibaculum_ bacteria [29](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon). 
+    - An experimental study show keeping smolt for 4 weeks in 26 per mille seawater can significantly reduce the susceptibility to tenacibaculosis after transfer to the sea and they can better respond to an infection  [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/).
+    - Gentle handling during smolt transport and minimizing mechanical stress (e.g., during pumping or delousing) is critical as skin damage serves as the primary entry point for the bacteria. Especially when the sea temperature is < 8°C [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
 
 #### New Zealand
 

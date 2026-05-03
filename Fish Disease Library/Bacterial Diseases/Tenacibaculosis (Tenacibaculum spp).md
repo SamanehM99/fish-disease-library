@@ -305,17 +305,18 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 Recent studies on Tenacibaculosis have focused on the virulence (how aggressive) of different strains are, the diversity across geographical areas, potential treatments, host response and vaccine development. Here are some notable recent research findings:
 
 1. **"Dietary essential oils of _Thymus vulgaris_ and _Artemisia annua_ in sea bream infected with _Tenacibaculum maritimum_"**  
-    Authors: Evgenia 28 et al.  
-    Reference: 28, E., Kostou, V., Pappas, I., Lattos, A., Mouroutis, P., Klaoudatos, D., … Athanassopoulou, F. (2025). Dietary essential oils of Thymus vulgaris and Artemisia annua in sea bream infected with Tenacibaculum maritimum. Academia Biology, 3(3).  
+    Authors: Gourzioti, E., Kostou, V., Pappas, I., Lattos, A., Mouroutis, P., Klaoudatos, D., … Athanassopoulou, F. 
+    Reference: Gourzioti, E., et al. (2025). Dietary essential oils of Thymus vulgaris and Artemisia annua in sea bream infected with Tenacibaculum maritimum. Academia Biology, 3(3).  
     [Link to study](https://www.academia.edu/2837-4010/3/3/10.20935/AcadBiol7847)
-2. **"Phylogenetic analyses of Norwegian Tenacibaculum strains confirm high diversity and geographical spread"**  
-    Authors: Småge, S. B., et al.  
-    Reference: Småge, S. B., et al. (2021). Phylogenetic analyses of Norwegian Tenacibaculum strains confirm high diversity and geographical spread. Scientific Reports, 11, 12345.  
-    [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8553039/)
-3. **"Development of Tenacibaculum vaccines for salmon"**  
-    Authors: Barker, S., et al.  
-    Reference: Barker, S., et al. (2021). Development of Tenacibaculum vaccines for salmon. Aquaculture Research, 52(3), 1123-1132.  
-    [Link to study](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon)
+2. **"Phylogenetic analyses of Norwegian Tenacibaculum strains confirm high bacterial diversity and suggest circulation of ubiquitous virulent strains"**  
+   Authors: Lagadec, E., Småge, S. B., Trösse, C., Nylund, A.  
+   Reference: Lagadec, E., et L. (2021). _Phylogenetic analyses of Norwegian Tenacibaculum strains confirm high bacterial diversity and suggest circulation of ubiquitous virulent strains_. PLOS ONE, 16(10), e0259215.  
+   [Link to study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/)
+3. **"Vaksinering for forbedret immunitet og beskyttelse mot tenacibaculose hos atlantisk laks (ResisT)"**  
+   Authors: Sveen, L., Småge, S. B., Krasnov, A., Høst, V., Karlsen, M., Sandtrø, A., Brudeseth, B., Klevan, L. A., Duesund, H., Karlsen, C.
+   Reference: Sveen, L., et al. (2024). _Vaksinering for forbedret immunitet og beskyttelse mot tenacibaculose hos atlantisk laks (ResisT)_. Nofima rapportserie 16/2024.  
+   [Link to study](https://hdl.handle.net/11250/3147482)
+
 
 ## Conclusion
 

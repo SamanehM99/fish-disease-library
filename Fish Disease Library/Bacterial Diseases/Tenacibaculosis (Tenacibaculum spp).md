@@ -126,7 +126,6 @@ A summary table for each species is found below.
     - **Improving Water Quality:** Ensuring optimal water conditions to support wound healing and reduce stress [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/)
     - **Reducing Stocking Densities:** Reduce stocking density during the whole life cycle to keep stress levels down (low stress = good immunity), reduce transmission pressure and minimise skin damage [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/)
     - **Nutritional support:** Especially during first feeding, use high quality diets, and functional ingredients (e.g., immunostimulants, certain algae, probiotics or prebiotics) that may enhance skin and gut barriers and reduce lesion severity [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/). Essential oils have also shown to reduce mortalities in experimental studies with sea bream [28](https://www.academia.edu/2837-4010/3/3/10.20935/AcadBiol7847). 
-    - **Handling and mechanical stress reduction:** Minimising  handling, crowding, and mechanical stress (e.g. during transport and delousing) reduces skin damage and infection entry points, especially when temperatures are below 8°C [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/). 
     - **Removal of affected fish:** Early removal of clinically infected fish can reduce infection pressure within cages and limit spread.
 
 | Species                          | Main treatments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Notes                                                                                                                                                                |
@@ -143,7 +142,7 @@ A summary table for each species is found below.
 In Norway, Tenacibaculosis is generally managed through prevention (handling, smolt quality, biosecurity) rather than treatment.
 
 - **Biosecurity Protocols:**
-    - Regular monitoring of fish health to detect and address (ether by antibiotics or culling) early signs of infection [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/#s10) 
+    - Regular monitoring of fish health to detect and address (either by antibiotics or culling) early signs of infection [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/#s10) 
     - Different strains of _T. maritimum_ are locally sourced and not internationally, which helps with genetic tracking of outbreaks  [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4136090/).
 
     
@@ -153,6 +152,7 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 
 
 - **Farm Management Practices:**
+    - Minimising  handling, crowding, and mechanical stress (e.g. during transport and delousing) reduces skin damage and infection entry points, especially when temperatures are below 8°C [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/). 
     - Using equipment and facilities designed to minimize skin abrasions and injuries.
     - Ensuring adequate nutrition to support immune function and wound healing.
     - Implementing fallowing periods and site rotations to break the infection cycle [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf)

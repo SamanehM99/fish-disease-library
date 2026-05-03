@@ -173,9 +173,9 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 	    - **2018–2019**: First major reports post-seawater transfer *T. dicentrarchi* dominant, mortality up to 10% by mid-2019 (rising from 0% in company stats) [32](https://pubmed.ncbi.nlm.nih.gov/32662133/)
 	    - **2020 new hosts**: Clinical cases confirmed in rainbow trout and coho salmon farms (first globally for coho) *T. dicentrarchi* and *T. finnmarkense* isolated in Los Lagos [32](https://pubmed.ncbi.nlm.nih.gov/32662133/)
       
-    - **Europe (1990s):** First European cases in sea bass (Dicentrarchus labrax) cages, spreading from Japan [33](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1254677/full). **2009–2010 Spain**: Three outbreaks in wedge sole at 20.5°C; *T. maritimum* isolated from ulcers [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/#s10) 
-    
-    - **Italy/Greece/Turkey (2000s–2010s)**: Sea bass farms affected, raising aquaculture concerns [33](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1254677/full).​
+    - **Europe (1990s):** First European cases in sea bass (Dicentrarchus labrax) cages, spreading from Japan [33](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1254677/full). 
+        - **2009–2010 Spain**: Three outbreaks in wedge sole at 20.5°C; *T. maritimum* isolated from ulcers [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/#s10) 
+        - **Italy/Greece/Turkey (2000s–2010s)**: Sea bass farms affected, raising aquaculture concerns [33](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1254677/full).​
 
 - **Lessons Learned:** The importance of a supported early life then early detection, robust biosecurity, and coordinated response efforts in controlling Tenacibaculosis outbreaks [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf).
 
@@ -225,10 +225,11 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 #### Norway
 
 - **Tenacibaculosis Incidence in Norway:**
-    - Tenacibaculosis has been present in Norway since the late 1980s and leads to regular ulcerative outbreaks and high mortalities in farmed salmonids [14](https://bora.uib.no/bora-xmlui/handle/1956/19440)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8553039/).
+    - Tenacibaculosis has been present in Norway since the late 1980s and leads to regular ulcerative outbreaks and high mortalities in farmed salmonids, particularly following seawater transfer. [14](https://bora.uib.no/bora-xmlui/handle/1956/19440)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8553039/)
     - Significant outbreaks have been reported, with _Tenacibaculum finnmarkense_ being the most commonly isolated bacterium during these events, *T. dicentrarchi*** noted in some post-smolt events [14](https://bora.uib.no/bora-xmlui/handle/1956/19440). 
     - A study from 2017-2020 confirmed the high diversity of _Tenacibaculum_ strains (66) in Norway, with 95% of the strains isolated being previously unidentified [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8553039/).
-    - Norwegian *T. maritimum* isolates cause crater disease (“donut” syndrome) in smolts and can be directly transmitted (horizontally) to salmon [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
+    - Norwegian _T. maritimum_ isolates have been associated with “crater disease” (“donut syndrome”) in lumpfish (_Cyclopterus lumpus_), a condition characterized by circular erosive skin lesions. It has been reported to be directly transmitted (horizontally) to salmon [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
+    - In 2024, winter ulcer disease was recorded at 336 salmon farming sites in Norway. _Tenacibaculum_ spp. were identified at 159 of these locations, with 112 sites reporting mixed infections alongside _Moritella viscosa_, indicating that co-infections are common [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose)[48](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).
 
 - **Geographical Spread:**
     - _Tenacibaculum_ spp. have been detected along the entire Norwegian coast, from Akershus in the southeast to Finnmark in the north [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8553039/). The north is most affected by Tenacibaculosis outbreaks [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8553039/).

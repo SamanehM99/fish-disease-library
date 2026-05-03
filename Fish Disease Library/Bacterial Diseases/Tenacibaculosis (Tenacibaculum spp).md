@@ -320,8 +320,8 @@ Recent studies on Tenacibaculosis have focused on the virulence (how aggressive)
 
 ## Conclusion
 
-Tenacibaculosis remains a significant and increasing threat to finfish aquaculture worldwide (with some region variation), with a diversity of species and strains affecting a diversity of fish. Effective treatment options are difficult to develop, though there is increased research and focus on better support for the fish earlier in life in addition to treatments that are not antibiotics. Some vaccines show promise, but it is still too early to say. 
-By implementing robust biosecurity protocols, investing in ongoing research, and fostering industry-wide cooperation, some the impact of Tenacibaculosis can be mitigated and ensure the sustainability of aquaculture operations. This comprehensive guide aims to provide the necessary information and resources to help manage Tenacibaculosis and support the health and welfare of farmed fish.
+Tenacibaculosis remains a significant and increasing threat to finfish aquaculture worldwide (with some region variation), with a diversity of species and strains affecting a diversity of fish. Effective treatment options are difficult to develop, though there is increased research and focus on better support for the fish earlier in life in addition to focus on preventation rather than treatments that include antibiotics. Some vaccines show promise in experimental studies, but it is still too early to say. 
+By implementing robust biosecurity protocols, investing in ongoing research, and fostering industry-wide cooperation, some of the impact of Tenacibaculosis can be mitigated and ensure the sustainability of aquaculture operations. This comprehensive guide aims to provide the necessary information and resources to help manage Tenacibaculosis and support the health and welfare of farmed fish.
 
 ### Call to Action
 
@@ -329,7 +329,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2024-08-14
+**Last Modified:** 2026-05-03
 
 **Tags:** #Tenacibaculosis, #Tenacibaculummaritimum, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #SeaBass, #SeaBream, #Norway, #Chile, #Canada,  #BacterialDiseases, #Bacteria, #WinterWounds 
 

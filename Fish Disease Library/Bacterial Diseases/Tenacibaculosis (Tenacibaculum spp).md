@@ -125,7 +125,7 @@ A summary table for each species is found below.
 - **Supportive Care:** 
     - **Improving Water Quality:** Ensuring optimal water conditions to support wound healing and reduce stress [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/)
     - **Reducing Stocking Densities:** Reduce stocking density during the whole life cycle to keep stress levels down (low stress = good immunity), reduce transmission pressure and minimise skin damage [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/)
-    - **Nutritional support:** Especially during first feeding, use high quality diets, and functional ingredients (e.g., immunostimulants, certain algae, probiotics or prebiotics) that may enhance skin and gut barriers and reduce lesion severity [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/). Essential oils have also shown to reduce mortalities in experimental studies with sea bream [28](https://www.academia.edu/2837-4010/3/3/10.20935/AcadBiol7847). 
+    - **Nutritional support:** Especially during first feeding, use high  quality diets, and functional ingredients (e.g., immunostimulants, certain algae, probiotics or prebiotics) that may enhance skin and gut barriers and reduce lesion severity [27](https://pmc.ncbi.nlm.nih.gov/articles/PMC12427474/). Essential oils have also shown to reduce mortalities in experimental studies with sea bream [28](https://www.academia.edu/2837-4010/3/3/10.20935/AcadBiol7847). 
     - **Removal of affected fish:** Early removal of clinically infected fish can reduce infection pressure within cages and limit spread.
 
 | Species                          | Main treatments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Notes                                                                                                                                                                |
@@ -148,7 +148,7 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
     
 - **Vaccines**:
 	- No commercial vaccine, except for one for turbot in Spain, which needs boosters [31](https://pubmed.ncbi.nlm.nih.gov/15962472/) . The broad genetic variety means broad vaccines fail [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/#s10) 
-	- Tested vaccines include: barramundi in Singapore, salmon in Tasmania, salmon in Chile [8](http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/), whole cell inactivated adjuvanted vaccine against _T. finnmarkense_ [14](https://bora.uib.no/bora-xmlui/handle/1956/19440). and immunization with recombinant proteins against _T. finnmarkense_ [30](https://www.fhf.no/prosjekter/prosjektbasen/901655/)
+	- Tested vaccines include: barramundi in Singapore, salmon in  Tasmania, salmon in Chile [8](http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/), whole cell inactivated adjuvanted vaccine against _T. finnmarkense_ [14](https://bora.uib.no/bora-xmlui/handle/1956/19440). and immunization with recombinant proteins against _T. finnmarkense_ [30](https://www.fhf.no/prosjekter/prosjektbasen/901655/)
 
 
 - **Farm Management Practices:**
@@ -156,18 +156,18 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
     - Using equipment and facilities designed to minimize skin abrasions and injuries.
     - Ensuring adequate nutrition to support immune function and wound healing.
     - Implementing fallowing periods and site rotations to break the infection cycle [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf)
-    - Salmonids that have been exposed to low-strength salinity appear to have a better ability to respond to an infection. [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
-    - Salmonid transfer to sea above  5˚C significantly lowers _T. finnmarkense_ infection rates [18](https://www.fhf.no/prosjekter/prosjektbasen/901434/)
+    - Salmonids that have been exposed to low-strength salinity  appear to have a better ability to respond to an infection. [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
+    - Seasonal awareness - Handling operations are often adjusted based on seasonal and temperature-related risk periods to reduce disease susceptibility. Transferring salmonids to seawater at temperatures above 5 °C has been shown to significantly reduce infection risk from _T. finnmarkense_ [18](https://www.fhf.no/prosjekter/prosjektbasen/901434/)
 
 ### Case Studies
 
 **Real-World Examples**
 
 - **Notable Outbreaks:**
-    - **Japan (1970s):** The first identified outbreaks led to significant losses and increased awareness of Tenacibaculosis.
+    - **Japan (1970s):** Early outbreaks of what is now known as _T.maritimum_ (formerly _Flexibacter maritimus_) were reported in cultured marine fish, including red seabream (_Pagrus major_) and black seabream (_Acanthopagrus schlegelii_), causing significant mortality and leading to the initial description of the pathogen [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/). 
     
-    - **Norway (2010s):** Major outbreaks started gaining attention, although the bacteria had been present since at least the 1980s. [4](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259215). 
-	    - In Finnmark (northern Norway) in 2015 mortalities were up to 40% in recently transferred smolt [14](https://bora.uib.no/bora-xmlui/handle/1956/19440).
+    - **Norway (2010s):** Several high mortality outbreaks of skin lesions/ulcers in sea-reared Atlantic salmon occurred in all regions along the Norwegian coast at low seawater temperatures, although the bacteria had been present since at least the 1980s [14](https://bora.uib.no/bora-xmlui/handle/1956/19440) [4](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259215).  This coincides with changes in farming practices (more handling operations) and expansion into colder regions.
+	    - In northern Norway, especially Finnmark, species such as _T. finnmarkense_ have been linked to significant outbreaks. In 2015 mortalities were up to 40% in recently transferred smolt [14](https://bora.uib.no/bora-xmlui/handle/1956/19440).
     
     - **Chile (2010s):** Severe outbreaks caused substantial economic impact and prompted industry reforms [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/) [9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf). 
 	    - **2018–2019**: First major reports post-seawater transfer *T. dicentrarchi* dominant, mortality up to 10% by mid-2019 (rising from 0% in company stats) [32](https://pubmed.ncbi.nlm.nih.gov/32662133/)

@@ -68,7 +68,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 **Risk Factors**
 
 - **Environmental Factors:** Water temperatures between 9-16°C increase disease risk. Low oxygen conditions and harmful algal blooms predispose fish to infection [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [5](https://www.aquafeed.com/newsroom/reports/chile-publishes-annual-reports-on-aquaculture-health-status-and-antimicrobial-use/). Sea lice co-infections are considered important risk factors that may reduce the effectiveness of vaccination under farm conditions [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/)
-- **Farm Management Practices:** High stocking densities, overcrowding, chemical delousing treatments, and net fouling that reduces oxygen availability all increase susceptibility [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
+- **Farm Management Practices:** High stocking densities, overcrowding, chemical delousing treatments, and net fouling that reduces oxygen availability and cause stress all increase susceptibility [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
 
 ### Diagnosis
 

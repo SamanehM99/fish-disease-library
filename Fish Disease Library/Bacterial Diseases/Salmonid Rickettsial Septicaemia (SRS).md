@@ -118,8 +118,8 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
     - **Treatment Protocol:** Florfenicol at 20 mg/kg body weight for 15 days is the optimized dosing regimen [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513110/).
     - **In Vitro Sensitivity and resistance:** *P. salmonis* shows sensitivity to streptomycin, gentamicin, erythromycin, chloramphenicol, and oxytetracycline, but shows resistance to penicillin, penicillin G and spectinomycin in laboratory conditions [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
 
-- **Treatment Challenges:** 
-    - Medicated feed to control intracellular pathogens has proven largely unsuccessful due to difficulty achieving sufficient intracellular antibiotic concentrations [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [10](https://www.sciencedirect.com/science/article/abs/pii/S0044848619304120).
+- **Treatment Challenges:** Because the bacterium partially survives and replicates inside the salmon's cells, antibiotic treatment often yields poor results [31](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose#:~:text=Piscirickettsiose%20er%20en%20alvorlig%20bakteriesykdom%20hos%20laksefisk.%20Sykdommen,og%20Irland%20betyr%20at%20fiskehelsepersonell%20m%C3%A5%20v%C3%A6re%20oppmerksomme.). .
+    - Medicated feed to control intracellular pathogens has proven largely unsuccessful, possibly due to difficulty achieving sufficient intracellular antibiotic concentrations [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [10](https://www.sciencedirect.com/science/article/abs/pii/S0044848619304120).
     - Treatment failure is common; farms with lower mortality when therapy is initiated have better outcomes [10](https://www.sciencedirect.com/science/article/abs/pii/S0044848619304120).
 
 - **Vaccines:**

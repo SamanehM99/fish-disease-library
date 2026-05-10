@@ -138,6 +138,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
     - Early removal of mortalities and diseased fish to reduce infection pressure. Chile's General Sanitary Program for Mortality Management (PSGM) standardizes procedures for classification, handling, and safe disposal of fish mortalities [27](https://doi.org/10.1111/jfd.70097) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
     - Broodstock screening and rejection of positive eggs [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
     - Individual egg batch incubation to prevent cross-contamination [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
+    - Surveillance and genotyping of bacterial isolates are important for tracking circulating variants and supporting assessment of antimicrobial susceptibility for potential antibiotic use and control strategies [31](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose#:~:text=Piscirickettsiose%20er%20en%20alvorlig%20bakteriesykdom%20hos%20laksefisk.%20Sykdommen,og%20Irland%20betyr%20at%20fiskehelsepersonell%20m%C3%A5%20v%C3%A6re%20oppmerksomme.).
 
 - **Farm Management Practices:**
     - Reduced stocking densities to decrease stress and transmission [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).

@@ -192,8 +192,12 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 #### Norway
 
 - **SRS Incidence in Norway:**
-    - SRS has been reported in Norway since 1988 but with considerably lower incidence than Chile [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
-    - Sporadic outbreaks occur but do not reach the severity seen in Chilean aquaculture [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
+    - SRS has been reported in Norway since 1988 but with considerably lower incidence than Chile and economic impact compared to Chile [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia)[31](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose#:~:text=Piscirickettsiose%20er%20en%20alvorlig%20bakteriesykdom%20hos%20laksefisk.%20Sykdommen,og%20Irland%20betyr%20at%20fiskehelsepersonell%20m%C3%A5%20v%C3%A6re%20oppmerksomme.).
+    - The disease was detected at multiple locations in Norway in the late 1980s and again in 2002 [31](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose#:~:text=Piscirickettsiose%20er%20en%20alvorlig%20bakteriesykdom%20hos%20laksefisk.%20Sykdommen,og%20Irland%20betyr%20at%20fiskehelsepersonell%20m%C3%A5%20v%C3%A6re%20oppmerksomme.) [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). 
+    - Over the past ~20 years, it has only been detected sporadically. However, several detections were reported in Nordland and Troms in 2024, although with limited reported mortality [31](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose#:~:text=Piscirickettsiose%20er%20en%20alvorlig%20bakteriesykdom%20hos%20laksefisk.%20Sykdommen,og%20Irland%20betyr%20at%20fiskehelsepersonell%20m%C3%A5%20v%C3%A6re%20oppmerksomme.) [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).
+    - Genomic sequencing of Norwegian isolates indicates that they are genetically distinct and cluster separately from known Chilean isolates [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).
+    - Sporadic outbreaks occur but do not reach the severity seen in Chilean aquaculture [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [31](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose#:~:text=Piscirickettsiose%20er%20en%20alvorlig%20bakteriesykdom%20hos%20laksefisk.%20Sykdommen,og%20Irland%20betyr%20at%20fiskehelsepersonell%20m%C3%A5%20v%C3%A6re%20oppmerksomme.).
+
 
 - **Treatment & Management:**
     - Norwegian farms employ similar biosecurity measures and treatment protocols as used globally [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
@@ -394,3 +398,5 @@ Effective SRS management requires an integrated approach combining robust biosec
 [31] Veterinærinstituttet. (2026, March 2). _Piscirickettsiose_. https://www.vetinst.no/sykdom-og-agens/piscirickettsiose#:~:text=Piscirickettsiose%20er%20en%20alvorlig%20bakteriesykdom%20hos%20laksefisk.%20Sykdommen,og%20Irland%20betyr%20at%20fiskehelsepersonell%20m%C3%A5%20v%C3%A6re%20oppmerksomme
 
 [32] Cherry, D. (2024, May 1). At CSARP launch, Chilean salmon industry leaders acknowledge failure to develop SRS vaccine has stymied antibiotic reduction effort. SeafoodSource. [https://www.seafoodsource.com/news/aquaculture/at-csarp-launch-chilean-salmon-industry-leaders-acknowledge-failure-to-develop-srs-vaccine-has-stymied-antibiotic-reduction-effort](https://www.seafoodsource.com/news/aquaculture/at-csarp-launch-chilean-salmon-industry-leaders-acknowledge-failure-to-develop-srs-vaccine-has-stymied-antibiotic-reduction-effort)
+
+[33] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. _Norwegian Fish Health Report, 2024_. Published by the Norwegian Veterinary Institute 2025. [https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024)

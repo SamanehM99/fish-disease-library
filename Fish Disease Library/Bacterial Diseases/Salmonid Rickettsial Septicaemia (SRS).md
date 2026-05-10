@@ -218,7 +218,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 ### Latest Research Findings
 
-Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine failure mechanisms, pathogenicity, genetic resistance, genogroup dynamics, and epidemiology:
+Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine failure mechanisms, pathogenicity, genetic resistance, genogroup dynamics, transmission and epidemiology:
 
 #### Epidemiology and Disease Dynamics
 
@@ -240,40 +240,44 @@ Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine f
     Key findings: Co-infected fish showed only 24.1% survival at 21 days compared to 40.3% for EM-90 single infection. All LF-89 single-infected fish survived, highlighting differential virulence.
     [DOI: 10.1186/s13567-024-01356-0](https://doi.org/10.1186/s13567-024-01356-0)
 
+4. **"Free-living amoebae and their role in _Piscirickettsia salmonis_ transmission in Chilean Salmon aquaculture: insights from _in vitro_ and _in vivo_ studies"**
+    Authors: Fernando A. Gómez, Bruno Milesi, Sergio H.  Marshall  
+    Reference: _Frontiers in Microbiology_, 2025 (published 2026 online), Volume 16, Article 1711258  
+    Key findings: Demonstrated that free-living amoebae (especially _Acanthamoeba castellanii_) can act as environmental reservoirs and vectors for _Piscirickettsia salmonis_, enabling bacterial survival, replication, and release. This suggests amoebae may contribute to persistence and transmission of SRS in marine aquaculture systems.  
+    DOI: [DOI: 10.3389/fmicb.2025.1711258](https://doi.org/10.3389/fmicb.2025.1711258)
 #### Pathogenomics and Vaccine Development
 
-4. **"Pathogenomic Insights into Piscirickettsia salmonis"**
+5. **"Pathogenomic Insights into Piscirickettsia salmonis"**
     Authors: Sk Injamamul Islam, Khandker Shahed, Md Imtiaz Ahamed, Luu Tang Phuc Khang, Won-Kyo Jung, Papungkorn Sangsawad, Nguyen Dinh-Hung, Patima Permpoonpattana, Nguyen Vu Linh. 
     Reference: _Animals_ **2025**, _15_(8), 1176.
     Key findings: Analyzed 80 global P. salmonis strains, identifying 14,564 pan-genome genes with 1,257 core genes. Identified 4 molecular markers (gyrA, dnaK, rpoB, ftsZ). Found that 4 LF-genogroup strains carried antibiotic resistance genes.
     [DOI: 10.3390/ani15081176](https://doi.org/10.3390/ani15081176)
 
-5. **"Piscirickettsia salmonis pathogenicity: using the damage-response framework to look beyond smoke and mirrors"**
+6. **"Piscirickettsia salmonis pathogenicity: using the damage-response framework to look beyond smoke and mirrors"**
     Authors: Felipe C. Cabello, Ana Millanao, Henry P. Godfrey. 
     Reference: mBio 16:e03821-24.
     Key findings: Applied damage-response framework to understand host-pathogen interactions in SRS.
     [Link to study](https://journals.asm.org/doi/10.1128/mbio.03821-24)
 
-6. **"Culture conditions shape metabolism and exopolysaccharide production in Piscirickettsia salmonis: implications for vaccine development"**
+7. **"Culture conditions shape metabolism and exopolysaccharide production in Piscirickettsia salmonis: implications for vaccine development"**
+    Authors: Patricio A. Zelada-Cordero, Claudia Altamirano, Alejandra Arancibia-Diaz, Carla L. Gutiérrez, Norma A. Valdez-Cruz & Mauricio A. Trujillo-Roldán.
     Reference: Aquaculture International, 2025.
     Key findings: Demonstrated how culture conditions affect bacterial characteristics relevant to vaccine antigen production.
     [Link to study](https://link.springer.com/article/10.1007/s10499-025-02265-5)
 
-7. **"Temperature effects on live attenuated vaccine (ALPHA JECT LiVac® SRS)"**
+8. **"The Effect of an Attenuated Live Vaccine against Salmonid Rickettsial Septicemia in Atlantic Salmon (Salmo salar) Is Highly Dependent on Water Temperature during Immunization"**
+    Authors: Rolf Hetlelid Olsen, Frode Finne-Fridell, Marianne Bordevik, Anja Nygaard, Binoy Rajan and Marius Karlsen.
     Reference: Vaccines 12(4):416, April 2024.
     Key findings: ALPHA JECT LiVac® SRS vaccine efficacy is temperature-dependent and effective for 15 months at optimal immunization temperature.
     [Link to study](https://doi.org/10.3390/vaccines12040416)
 
-8. **"Vaccination strategy shows incomplete cross-protection"**
-    Reference: ScienceDirect, 2024.
-    Key findings: Current EM-90-based vaccines show incomplete protection against LF-89. LF-89 prevalence increased to 94% in 2023, presenting challenges for vaccination strategies.
-
 #### Genetic Resistance Studies
 
 9. **"A major QTL for resistance against Salmonid Rickettsial Septicaemia in coho salmon"** *(Preprint)*
+    Authors: Thomas Moen, Fabian Grammes, Victor Martinez, Jacob Torgersen, Jørgen Ødegård, Tim Martin Knutsen, Tomasz Podgorniak, Robert Deerenberg and Daniela Cichero.
     Reference: bioRxiv, December 2025.
     Key findings: Identified a QTL on chromosome 21 explaining 26-97% of genetic variation in SRS resistance. Heritability estimates of 0.31-0.58 on observed/liability scale.
-    [DOI: 10.1101/2025.12.08.689227](https://doi.org/10.1101/2025.12.08.689227)
+    DOI: [DOI: 10.64898/2025.12.08.689227](https://doi.org/10.64898/2025.12.08.689227)
 
 10. **"GWAS meta-analysis of resistance against Piscirickettsia salmonis in Atlantic salmon"** *(Preprint)*
     Authors: Marín-Nahuelpi R., Garcia B.F., Piña-Elgueda A., et al.
@@ -296,11 +300,13 @@ Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine f
 #### Antimicrobial Use and Treatment
 
 13. **"Insights and Lessons from Chilean Salmon Aquaculture on Antimicrobial Use"**
+    Authors: Daniela R. Farias, Felipe Tucca, Alexander Jaramillo-Torres, Javiera Cornejo, Pablo Ibieta, Fernando O. Mardones and Ruben Avendaño-Herrera.
     Reference: MDPI Antibiotics, 2024.
     Key findings: Comprehensive analysis of antimicrobial use patterns and stewardship in Chilean aquaculture.
     [Link to study](https://www.mdpi.com/2079-6382/14/12/1177)
 
 14. **"Optimization of florfenicol dose against Piscirickettsia salmonis in Salmo salar through PK/PD studies"**
+    Authors: Betty San Martín, Marcela Fresno, Javiera Cornejo , Marcos Godoy, Rolando Ibarra, Roberto Vidal, Marcelo Araneda, Arturo Anadón and Lisette Lapierre.
     Reference: PMC, 2019.
     Key findings: Established optimized florfenicol dosing at 20 mg/kg body weight for 15 days.
     [Link to study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513110/)

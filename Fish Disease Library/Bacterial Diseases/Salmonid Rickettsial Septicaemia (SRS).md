@@ -323,7 +323,7 @@ Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine f
 
 Salmonid Rickettsial Septicaemia (SRS) remains the most significant threat to Chilean salmon aquaculture, with annual losses exceeding $700 million USD and driving the majority of antibiotic use in the industry. Despite 34 commercially available vaccines, their limited long-term efficacy (best showing only 22% mortality reduction) and the bacterium's sophisticated immune evasion mechanisms continue to pose major challenges.
 
-Effective SRS management requires an integrated approach combining robust biosecurity protocols, early detection, stress reduction, sea lice control, and judicious antibiotic use. Ongoing research into cellular immune responses, selective breeding and novel vaccine approaches offers hope for improved control strategies. By implementing comprehensive disease management programs and supporting continued research, fish health managers and veterinarians can work toward reducing the devastating impact of SRS on salmon aquaculture operations.
+Effective SRS management requires an integrated approach combining robust biosecurity protocols, early detection, stress reduction, sea lice control, and judicious antibiotic use. Ongoing research into cellular immune responses, and novel vaccine approaches offers hope for improved control strategies. By implementing comprehensive disease management programs and supporting continued research, fish health managers and veterinarians can work toward reducing the devastating impact of SRS on salmon aquaculture operations.
 
 ---
 

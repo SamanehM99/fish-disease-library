@@ -104,7 +104,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 **Bacterial Consortia in Skin Ulcers**
 
-- **Core Pathobiome:** Research has identified a complex bacterial consortium in Atlantic salmon skin ulcers during *P. salmonis* infection. The primary pathobiome consists of *P. salmonis*, *Tenacibaculum dicentrarchi*, and *Aliivibrio wodanis*, with *Vibrio* spp. enriched on infected gills. Four bacterial families are overrepresented in ulcerated tissue: Vibrionaceae, Flavobacteriaceae, Piscirickettsiacea, and Pseudomonadaceae [25](https://doi.org/10.3390/ani14010097).
+- **Core Pathobiome:** Research has identified a complex polymicrobial community referred to as a core pathobiome, in Atlantic salmon skin ulcers during *P. salmonis* infection. The primary pathobiome consists of *P. salmonis*, *Tenacibaculum dicentrarchi*, and *Aliivibrio wodanis*, with *Vibrio* spp. enriched on infected gills. Four bacterial families are overrepresented in ulcerated tissue: Vibrionaceae, Flavobacteriaceae, Piscirickettsiaceae, and Pseudomonadaceae [25](https://doi.org/10.3390/ani14010097).
 
 - **Co-infection Implications:** The presence of this bacterial consortium may enhance *P. salmonis* pathogenicity through cooperative interactions. When diagnosing skin ulcers, clinicians should consider that multiple pathogens may be present simultaneously, requiring molecular methods (multiplex PCR) to identify primary vs. opportunistic agents [25](https://doi.org/10.3390/ani14010097).  
 

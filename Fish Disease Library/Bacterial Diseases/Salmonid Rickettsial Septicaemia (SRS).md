@@ -130,6 +130,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 - **Why Vaccines Fail:**
     - *P. salmonis* employs sophisticated immune evasion mechanisms including intracellular survival within host cell vacuoles, cytokine manipulation (inhibiting IL-12 while inducing IL-10), and Type IV secretion system that inhibits phagosome-lysosome fusion [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
     - Current vaccines do not activate the cellular-mediated immune responses necessary to control intracellular pathogens [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
+    - The protection is usually short-lived, where fish are often left unprotected during the final "fattening" stage at sea (3000+ degree-days) when they are most vulnerable to outbreaks [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
 
 **Preventive Measures**
 
@@ -143,7 +144,6 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
     - Site fallowing periods to break the infection cycle [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
     - Control of sea lice coinfection which overrides vaccine protection. While Caligus infestation levels increased significantly over the years, SRS mortality risk remained constant, suggesting complex interactions [27](https://doi.org/10.1111/jfd.70097) [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
     - Broodstock injection with antibiotics before seawater departure [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
-
 ### Case Studies
 
 **Real-World Examples**

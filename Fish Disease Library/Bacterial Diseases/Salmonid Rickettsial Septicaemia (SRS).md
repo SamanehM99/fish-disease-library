@@ -174,8 +174,8 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
     
 
 - **Geographical Spread:**
-    - The disease is prevalent throughout Chilean salmon farming regions. In 1S 2025: Los Lagos had 1.8% CAD (Centros de Alta Diseminación); Aysén had 2% CAD (weekly average, increased from 0.7% in 1S 2024). A total of 22 CAD centers were registered in 1S 2025 [29](https://www.sernapesca.cl/app/uploads/2025/09/Informe-Situacion-Sanitaria-Salmonicultura-primer-semestre-2025.pdf).
-    - In 1S 2024: Los Lagos had 12% alert centers and 1.8% CAD; Aysén had 10.9% alert centers and 0.7% CAD (weekly average). PSEVC-Piscirickettsiosis showed 73% of CAD centers in T3 stage (final production cycle). No confirmed SRS cases were reported in Magallanes region [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/) [13](https://www.sernapesca.cl/app/uploads/2025/07/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2024V-V2.pdf).
+    - The disease is prevalent throughout Chilean salmon farming regions. In 1S 2025: Los Lagos region reported 1.8% of production sites classified as _Centros de Alta Diseminación_- High-Dissemination Centers (CAD), while Aysén had 2% CAD (weekly average, increased from 0.7% in 1S 2024). A total of 22 CAD centers were registered in 1S 2025 [29](https://www.sernapesca.cl/app/uploads/2025/09/Informe-Situacion-Sanitaria-Salmonicultura-primer-semestre-2025.pdf).
+    - In 1S 2024: Los Lagos had 12% of sites classified as alert centers and 1.8% CAD; Aysén had 10.9% alert centers and 0.7% CAD (weekly average). PSEVC-Piscirickettsiosis showed 73% of CAD centers in T3 stage (final production cycle). No confirmed SRS cases were reported in Magallanes region [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/) [13](https://www.sernapesca.cl/app/uploads/2025/07/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2024V-V2.pdf).
 
 - **Economic Impact:**
     - Annual economic losses exceed $700 million USD, equivalent to approximately 10.5% of Chile's salmon exports (2022) [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/).

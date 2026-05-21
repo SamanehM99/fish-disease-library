@@ -1,8 +1,8 @@
 ---
-title: Pancreatic Disease (PD)
-description: Learn about Pancreatic Disease (PD) in aquaculture fish like Atlantic salmon. Characterized by sudden loss of appetite, lethargy, and high mortality, PD is caused by the Salmonid alphavirus (SAV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
+title: Pancreas Disease (PD)
+description: Learn about Pancreas Disease (PD) in aquaculture fish like Atlantic salmon. Characterized by sudden loss of appetite, lethargy, and high mortality, PD is caused by the Salmonid alphavirus (SAV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
-  - PancreaticDisease
+  - PancreasDisease
   - Virus
   - ViralDisease
   - Salmonoids
@@ -15,9 +15,9 @@ tags:
 ---
 ## Overview
 
-### What is Pancreatic Disease (PD)
-Pancreatic Disease (PD) is a viral disease that affects farmed Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Salmonid alphavirus (SAV), specifically the Salmon pancreas disease virus (SPDV), resulting in severe economic losses in aquaculture due to high mortality rates and reduced growth performance [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon). PD was first identified in Scotland in 1976 and later reported in Norway in 1989, and has since been observed in several other countries [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
-## Symptoms of Pancreatic Disease
+### What is Pancreas Disease (PD)
+Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Salmonid alphavirus (SAV), specifically the Salmon pancreas disease virus (SPDV), resulting in severe economic losses in aquaculture due to high mortality rates and reduced growth performance [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon). PD was first identified in Scotland in 1976 and later reported in Norway in 1989, and has since been observed in several other countries [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+## Symptoms of Pancreas Disease
 
 ## Common Symptoms
 
@@ -37,7 +37,7 @@ Pancreatic Disease (PD) is a viral disease that affects farmed Atlantic salmon (
 
 - **Advanced Stages:** High levels of mortality, reduction in growth, and decreased fillet quality [3](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/).
 
-### Causes of Pancreatic Disease
+### Causes of Pancreas Disease
 
 **Etiology**
 
@@ -142,7 +142,7 @@ Pancreatic Disease (PD) is a viral disease that affects farmed Atlantic salmon (
 
 ### Latest Research Findings
 
-Recent studies on Pancreatic Disease (PD) in salmonids have focused on various aspects of the disease, including its prevention, control, and economic impact. Here are some notable recent research findings:
+Recent studies on Pancreas Disease (PD) in salmonids have focused on various aspects of the disease, including its prevention, control, and economic impact. Here are some notable recent research findings:
 
 1. **"Effect of vaccines against pancreas disease in farmed Atlantic salmon"**  
     Authors: Røsæg, M. V., et al.  
@@ -153,11 +153,11 @@ Recent studies on Pancreatic Disease (PD) in salmonids have focused on various a
     Reference: Wolf, K. (1976). Prevention and control of viral diseases of salmonids. Journal of the Fisheries Research Board of Canada, 33(4), 1059-1066.  
     [Link to study](https://pubs.usgs.gov/publication/70162252)
 
-These studies represent advancements in understanding the prevention, control, and economic impact of Pancreatic Disease in various regions, particularly in Norway and other European countries with significant salmon farming industries.
+These studies represent advancements in understanding the prevention, control, and economic impact of Pancreas Disease in various regions, particularly in Norway and other European countries with significant salmon farming industries.
 
 ## Conclusion
 
-Pancreatic Disease (PD) remains a significant threat to salmon and trout aquaculture, necessitating diligent management and preventive measures. By implementing robust biosecurity protocols, investing in ongoing research, and fostering industry-wide cooperation, fish health managers and veterinarians can mitigate the impact of PD and ensure the sustainability of aquaculture operations. This comprehensive guide aims to provide the necessary information and resources to effectively manage PD and support the health and welfare of farmed fish.
+Pancreas Disease (PD) remains a significant threat to salmon and trout aquaculture, necessitating diligent management and preventive measures. By implementing robust biosecurity protocols, investing in ongoing research, and fostering industry-wide cooperation, fish health managers and veterinarians can mitigate the impact of PD and ensure the sustainability of aquaculture operations. This comprehensive guide aims to provide the necessary information and resources to effectively manage PD and support the health and welfare of farmed fish.
 
 ### Call to Action
 
@@ -167,12 +167,12 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-07-26
 
-**Tags:** #PancreaticDisease, #AtlanticSalmon, #RainbowTrout, #Trout, #Salmonoids #Salmon, #Norway, #Chile, #ViralDisease, #Virus 
+**Tags:** #PancreasDisease , #AtlanticSalmon, #RainbowTrout, #Trout, #Salmonoids #Salmon, #Norway, #Chile, #ViralDisease, #Virus 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]
 [[Heart and Muscle Inflammation (HSMI)]]
 [[Infectious Pancreatic Necrosis (IPN)]]
-[[Pancreatic Disease (PD)]]
+[[Pancreas Disease (PD)]]
 [[Piscine Reovirus (PRV)]]
 
 **Citations:**

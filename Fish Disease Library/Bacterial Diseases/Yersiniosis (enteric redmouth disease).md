@@ -16,7 +16,7 @@ tags:
 
 ## What is Yersiniosis?
 
-Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that primarily affects salmonid fish species in aquaculture. It is of particular importance in rainbow trout and Atlantic salmon aquaculture. Internationally, it is also known as _enteric redmouth disease_ (ERM), a name derived from the red haemorrhaging that may be seen in and around the mouth of infected fish. The severity of the disease is dependent upon the biotype of the bacterium involved and the host species [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). It is most common in freshwater or early seawater phases but late seawater phase occurences are increasing [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)The disease is found throughout Europe, North and South America, China and Oceania  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
+Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that primarily affects salmonid fish species in aquaculture. It is of particular importance in rainbow trout and Atlantic salmon aquaculture. Internationally, it is also known as _enteric redmouth disease_ (ERM), a name derived from the red haemorrhaging that may be seen in and around the mouth of infected fish. The severity of the disease is dependent upon the biotype of the bacterium involved and the host species [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). It is most common in freshwater or early seawater phases but late seawater phase occurences are increasing [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). The disease is found throughout Europe, North and South America, China and Oceania [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
 
 ## Symptoms of Yersiniosis
 
@@ -25,20 +25,23 @@ Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that prima
 - **Physical Signs:** 
 	**Rainbow Trout — Classic/Acute Form - Enteric Red Mouth (ERM)
     Most commonly associated with the "Hagerman" strain (Serotype O1, Biotype 1)
-    - **Red/bleeding mouth** — bleeding under the skin around the mouth, gums, and throat  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Red/bleeding mouth** — bleeding under the skin around the mouth, gums, and throat [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
     - **Pop-eye (exophthalmia)** — bulging eyes, often with blood spots inside the eye [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
-    - **Dark skin** — the fish becomes noticeably darker in colour  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-    - **Bleeding fins** — reddened, congested fins [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
-    - **Pale gills and swollen vent (anus)**
-    - **Internal bleeding** — small haemorrhages on the liver, pancreas, swim bladder, and muscles  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-    - **Enlarged, darkened spleen** - can be almost black in colour  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-    - **Inflamed intestine** — reddened lower gut with a build-up of opaque yellow fluid [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Dark skin** — the fish becomes noticeably darker in colour [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Bleeding fins and gills** — reddened, congested fins and gills. The base of the fins often affected [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri) [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
+    - **Pale gills and liver** [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
+    - **Swollen and bleeding vent (anus)** [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
+    - **Internal bleeding** — small haemorrhages on the liver, pancreas, swim bladder, and muscles, consistent with systemic septicaemia [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Enlarged, darkened spleen** — can be almost  black in colour [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Inflamed intestine** — reddened lower gut with a build-up of opaque yellow fluid, and almost empty gut/intestine [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Ascites** — fluid accumulation in the abdominal cavity [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
     
     **Atlantic Salmon and Chinook Salmon — Milder/Atypical Form**
     Associated with Serotype O1b / Norwegian virulent genetic variant
     - The classic red mouth sign is often absent or subtle otherwise same signs as trout [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
-    - The most commonly detected sign is pop-eye and blood spots in the eye
-    - Most outbreaks in salmon occur during the juvenile (freshwater) phase or shortly after transfer to the sea  [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
+    - The most commonly detected sign is pop-eye, blood spots in the eye, and bleeding in the skin and on the underside of the abdomen [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
+    - In freshwater, a markedly enlarged spleen is often observed; in seawater, severe haemorrhages on the swim bladder are common [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
+    - Most outbreaks in salmon occur during the juvenile (freshwater) phase or shortly after transfer to the sea [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
 
 - **Behavioral Changes:**
     - Changes in farmed salmon are often non-specific and typical of a general blood infection, including lethargy, difficulty breathing, and abnormal swimming behaviour [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
@@ -338,7 +341,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
  [24] Bastardo, A., Sierralta, V., León, J., Ravelo, C., & Romalde, J. L. (2011). Phenotypical and genetic characterization of Yersinia ruckeri strains isolated from recent outbreaks in farmed rainbow trout Oncorhynchus mykiss (Walbaum) in Peru. _Aquaculture_, _317_(1-4), 229-232. (https://www.sciencedirect.com/science/article/abs/pii/S0044848611002754) 
 
-
+[25] Akvademiet. (n.d.). _Yersiniose_. DNV GI AS. Accessed September 12, 2026. [https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
 
 
 

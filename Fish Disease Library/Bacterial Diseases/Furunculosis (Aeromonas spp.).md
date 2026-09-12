@@ -212,7 +212,7 @@ Furunculosis remains one of the most consequential bacterial diseases in global 
 [[Tenacibaculum (Tenacibaculosis)]]
 [[Vibriosis]]
 [[Winter Wounds]]
-[[Yersiniosis]]
+[[Yersiniosis (enteric redmouth disease)]]
 
 **Citations:**
 

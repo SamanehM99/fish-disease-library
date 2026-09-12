@@ -238,7 +238,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Pasteurellosis]]
 [[Tenacibaculosis (Tenacibaculum spp)]]
 [[Winter Wounds]]
-[[Yersiniosis]]
+[[Yersiniosis (enteric redmouth disease)]]
 
 **Citations:**
 [1] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. *Norwegian Fish Health Report, 2024*. Published by the Norwegian Veterinary Institute 2025. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024

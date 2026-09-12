@@ -233,7 +233,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Moritella Viscosa]]
 [[Tenacibaculosis (Tenacibaculum spp)]]
 [[Winter Wounds]]
-[[Yersiniosis]]
+[[Yersiniosis (enteric redmouth disease)]]
 
 **References:**
 

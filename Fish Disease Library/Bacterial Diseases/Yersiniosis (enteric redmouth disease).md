@@ -16,7 +16,7 @@ tags:
 
 ## What is Yersiniosis?
 
-Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that primarily affects salmonid fish species in aquaculture. The severity of the disease is dependent upon the biotype of the bacterium involved and the host species [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). It is most common in freshwater or early seawater phases but late seawater phase occurences are increasing [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri) The disease is found throughout Europe, North and South America, China and Oceania  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
+Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that primarily affects salmonid fish species in aquaculture. It is of particular importance in rainbow trout and Atlantic salmon aquaculture. Internationally, it is also known as _enteric redmouth disease_ (ERM), a name derived from the red haemorrhaging that may be seen in and around the mouth of infected fish. The severity of the disease is dependent upon the biotype of the bacterium involved and the host species [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). It is most common in freshwater or early seawater phases but late seawater phase occurences are increasing [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)The disease is found throughout Europe, North and South America, China and Oceania  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
 
 ## Symptoms of Yersiniosis
 

@@ -342,7 +342,7 @@ Effective SRS management requires an integrated approach combining robust biosec
 [[Pasteurellosis]]
 [[Tenacibaculum (Tenacibaculosis)]]
 [[Winter Wounds]]
-[[Yersiniosis]]
+[[Yersiniosis (enteric redmouth disease)]]
 
 **Citations:**
 

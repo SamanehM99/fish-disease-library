@@ -23,7 +23,7 @@ Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that prima
 ### Common Symptoms
 
 - **Physical Signs:** 
-	**Rainbow Trout — Classic/Acute Form - Enteric Red Mouth (ERM)
+	**Rainbow Trout — Classic/Acute Form - Enteric Red Mouth (ERM)**
     Most commonly associated with the "Hagerman" strain (Serotype O1, Biotype 1)
     - **Red/bleeding mouth** — bleeding under the skin around the mouth, gums, and throat [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
     - **Pop-eye (exophthalmia)** — bulging eyes, often with blood spots inside the eye [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
@@ -36,11 +36,10 @@ Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that prima
     - **Inflamed intestine** — reddened lower gut with a build-up of opaque yellow fluid, and almost empty gut/intestine [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
     - **Ascites** — fluid accumulation in the abdominal cavity [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
     
-    **Atlantic Salmon and Chinook Salmon — Milder/Atypical Form**
-    Associated with Serotype O1b / Norwegian virulent genetic variant
+    **Atlantic salmon and Chinook salmon — regional strain associations:** In Southern Hemisphere aquaculture, including Chile and Tasmania, yersiniosis in Atlantic salmon and Chinook salmon has been associated with _Y. ruckeri_ serotype O1b. In Norway, yersiniosis in farmed Atlantic salmon is predominantly associated with the distinct Norwegian lineage _Y. ruckeri_ serotype O1, MLVA clonal complex 1 (CC1).
     - The classic red mouth sign is often absent or subtle otherwise same signs as trout [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
     - The most commonly detected sign is pop-eye, blood spots in the eye, and bleeding in the skin and on the underside of the abdomen [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
-    - In freshwater, a markedly enlarged spleen is often observed; in seawater, severe haemorrhages on the swim bladder are common [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
+    - In freshwater, a markedly enlarged spleen is often observed; while in seawater, severe haemorrhages on the swim bladder are common [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
     - Most outbreaks in salmon occur during the juvenile (freshwater) phase or shortly after transfer to the sea [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
 
 - **Behavioral Changes:**

@@ -4,7 +4,7 @@ description: Explore Yersiniosis, a bacterial disease in aquaculture affecting A
 tags:
   - Yersiniosis
   - Yersiniaruckeri
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -289,7 +289,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-09-20
 
-**Tags:** #Yersiniosis, #Yersiniaruckeri, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #BacterialDiseases, #Bacteria 
+**Tags:** #Yersiniosis, #Yersiniaruckeri, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #BacterialDiseases, #Bacteria 
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]

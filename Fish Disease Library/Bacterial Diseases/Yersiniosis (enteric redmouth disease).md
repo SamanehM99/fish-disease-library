@@ -16,7 +16,7 @@ tags:
 
 ## What is Yersiniosis?
 
-Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that primarily affects salmonid fish species in aquaculture. It is of particular importance in rainbow trout and Atlantic salmon aquaculture. Internationally, it is also known as _enteric redmouth disease_ (ERM), a name derived from the red haemorrhaging that may be seen in and around the mouth of infected fish. The severity of the disease is dependent upon the biotype of the bacterium involved and the host species [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). It is most common in freshwater or early seawater phases but late seawater phase occurences are increasing [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). The disease is found throughout Europe, North and South America, China and Oceania [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
+Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium _Yersinia ruckeri_ that primarily affects salmonid fish species in aquaculture. It is of particular importance in rainbow trout and Atlantic salmon aquaculture. Internationally, it is also known as _enteric redmouth disease_ (ERM), a name derived from the red haemorrhaging that may be seen in and around the mouth of infected fish. The severity of the disease is dependent upon the biotype of the bacterium involved and the host species [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). It is most common in freshwater or early seawater phases but late seawater phase occurences are increasing [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). The disease is found throughout Europe, North and South America, China and Oceania [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
 
 ## Symptoms of Yersiniosis
 
@@ -33,7 +33,7 @@ Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that prima
     - **Swollen and bleeding vent (anus)** [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
     - **Internal bleeding** — small haemorrhages on the liver, pancreas, swim bladder, and muscles, consistent with systemic septicaemia [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
     - **Enlarged, darkened spleen** — can be almost  black in colour [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-    - **Inflamed intestine** — reddened lower gut with a build-up of opaque yellow fluid, and almost empty gut/intestine [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Inflamed intestine** — reddened lower gut with a build-up of opaque yellow fluid, and almost empty gut and intestine [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
     - **Ascites** — fluid accumulation in the abdominal cavity [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
     
     **Atlantic salmon and Chinook salmon — regional strain associations:** In Southern Hemisphere aquaculture, including Chile and Tasmania, yersiniosis in Atlantic salmon and Chinook salmon has been associated with _Y. ruckeri_ serotype O1b. In Norway, yersiniosis in farmed Atlantic salmon is predominantly associated with the distinct Norwegian lineage _Y. ruckeri_ serotype O1, MLVA clonal complex 1 (CC1).
@@ -44,16 +44,18 @@ Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that prima
 
 - **Behavioral Changes:**
     - Changes in farmed salmon are often non-specific and typical of a general blood infection, including lethargy, difficulty breathing, and abnormal swimming behaviour [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
-    - **Lethargy:** Reduced activity and slow swimming.
-    - **Loss of Appetite:** Decreased feeding behavior.
+    - **Lethargy:** Reduced activity and slow swimming [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Loss of Appetite:** Decreased feeding behavior [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
     - **Swimming Near the Surface:** fish may swim near the surface or at the edges [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
 
 **Progression of Symptoms**
 
+ - **Age-related disease course:** ERM can affect salmonids at all life stages, but it is typically most acute in young fish, particularly fry and fingerlings. In older or larger fish, infection more often presents as a chronic condition, with prolonged low-level mortality [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+ 
 - **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy, swimming near the surface, darkening of the skin and increase in mortality [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
 
 - **Advanced Stages:** More pronounced physical symptoms such as bulging eyes and hemorrhages (reddened areas) on the mouth, anus, base of fins and internal organs [5](https://www.mdpi.com/1422-0067/23/6/3096). Mortality starts low for ERM but then can increase rapidly [6](https://www.mdpi.com/2073-4425/10/9/700)
-
+ 
 - **Impact on Fish Health:** Yersiniosis severely compromises immune function and overall vitality, making fish susceptible to secondary infections.
 
 ### Causes of Yersiniosis

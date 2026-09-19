@@ -61,29 +61,29 @@ Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium 
 ### Causes of Yersiniosis
 
 **Etiology**
-- **Causative Agent:** _Yersinia ruckeri_ bacterium. The Yersinia genus have species causing animal-origin food outbreaks in humans [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm). It is gram-negative, rod-shaped bacterium and the cells can survive in anaerobic and aerobic environments and are generally uniform in morphology [6](https://www.mdpi.com/2073-4425/10/9/700). 
+- **Causative Agent:** _Yersinia ruckeri_ bacterium. Although the _Yersinia_ genus includes species that cause foodborne disease in humans, _Y. ruckeri_ is primarily a fish pathogen and is not regarded as a human foodborne pathogen [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm). It is gram-negative, rod-shaped bacterium and the cells can survive in anaerobic and aerobic environments and are generally uniform in morphology [6](https://www.mdpi.com/2073-4425/10/9/700). 
   
 - _Y. ruckeri_ is classified using three methods: O-serotyping based on surface antigen differences (O1–O8), serovar typing which groups strains into three broader groups — meaning two strains of the same O-serotype can still belong to different serovars — and biotyping which distinguishes motile (biotype 1) from non-motile (biotype 2) strains  [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/)
 - It can also be classified by genetic diversity into clonal complexes (CC) using Multilocus Variable-Number Tandem-Repeat Analysis (MLVA) [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/)
 
 - **Transmission Methods:**
     
-    - **Direct Contact:** The main  transmission, spreading between infected and healthy fish through close proximity [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm). Infected fish can carry the disease for several months, especially in the lower intestine [8](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.13515). _Y. ruckeri_ enters fish primarily through the gills, and up to 25% of a rainbow trout population can carry the bacteria in their intestines, making fecal transmission possible  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Transmission is believed to take place primarily during the freshwater phase [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
-    
-    - **Waterborne:** The bacterium can spread through water, especially under conditions of poor water quality and high organic load  [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf),   [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-	    - Reported that it is more contagious when the water temperature varies between 15 to 20 °C [5](https://www.mdpi.com/1422-0067/23/6/3096)
+    - **Direct Contact/Horizontal transmission:** The main transmission method is by direct contact between infected and healthy fish (horizontally) [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Infected fish can carry the disease for several months, especially in the lower intestine [8](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.13515). _Y. ruckeri_ enters fish primarily through the gills, and up to 25% of a rainbow trout population can carry the bacteria in their intestines, making fecal transmission possible  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Transmission is believed to take place primarily during the freshwater phase [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
+    - **Carrier fish and stress:** Fish that survive ERM can carry _Y. ruckeri_ as a latent infection for several months. Carrier fish can shed bacteria in faeces, creating a continuing source of infection for susceptible fish [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [8](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.13515). Stress may increase bacterial shedding and transmission from carrier fish [3](https://pubmed.ncbi.nlm.nih.gov/26404907/).
+    - **Waterborne:** The bacterium can spread through water, especially under conditions of poor water quality and high organic load  [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf), [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Its ability to persist in the aquatic environment, including sediments and biofilms formation, may contribute to continued infection pressure between or during outbreaks [3](https://pubmed.ncbi.nlm.nih.gov/26404907/).
+	    - Reported that it is more contagious when the water temperature varies between 15 to 20 °C [5](https://www.mdpi.com/1422-0067/23/6/3096).
 	    - Incubation period (time between exposure and first clinical signs) is 5-10 days [5](https://www.mdpi.com/1422-0067/23/6/3096)
     
-- **Species Affected:** Susceptible hosts include: Atlantic salmon (Salmo salar), brook trout (Salvelinus fontinalis), brown trout (Salmo trutta), Chinook salmon (Oncorhynchus tshawytscha), coho salmon (Oncorhynchus kisutch), rainbow trout (Oncorhynchus mykiss), eel (Anguilla anguilla), goldfish (Carassius auratus), perch (Perca fluviatilis), channel catfish (Ictalurus punctatus), sole (Solea solea), sturgeon (Acipenser baeri and A. schrencki) and turbot (Scophthalmus maximus) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). Salmonids appear more sensitive to this bacterium and prone to suffer disease outbreaks  [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
+- **Species Affected:** Susceptible hosts include: Atlantic salmon (_Salmo salar_), brook trout (_Salvelinus fontinalis_), brown trout (_Salmo trutta_), Chinook salmon (_Oncorhynchus tshawytscha_), coho salmon (_Oncorhynchus kisutch_), rainbow trout (_Oncorhynchus mykiss_), eel (_Anguilla anguilla_), goldfish (_Carassius auratus_), perch (_Perca fluviatilis_), channel catfish (_Ictalurus punctatus_), sole (_Solea solea_), sturgeon (_Acipenser baeri_ and _A. schrencki_) and turbot (_Scophthalmus maximus_) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). Salmonids appear more sensitive to this bacterium and prone to suffer disease outbreaks [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)-
   
 **Table 1:** Summary of strains and host interactions with key symptoms and severity
 
-| Strain/Biotype                      | Main Host             | Disease Severity | Key Feature                                        |
-| ----------------------------------- | --------------------- | ---------------- | -------------------------------------------------- |
-| Serotype O1, Biotype 1 ("Hagerman") | Rainbow trout         | Acute/severe     | Classic red mouth, heavy internal bleeding         |
-| Serotype O1b (Norwegian variant)    | Atlantic salmon       | Moderate         | Non-specific septicaemia, pop-eye common           |
-| Biotype 2                           | Rainbow trout, salmon | Variable         | Associated with vaccine-escape outbreaks           |
-| Non-pathogenic strains              | Various               | None             | Found in biofilms/hatcheries — not disease-causing |
+| Strain/Biotype                         | Main Host                    | Disease Severity | Key Feature                                        |
+| -------------------------------------- | ---------------------------- | ---------------- | -------------------------------------------------- |
+| Serotype O1, Biotype 1 ("Hagerman")    | Rainbow trout                | Acute/severe     | Classic red mouth, heavy internal bleeding         |
+| Serotype O1, CC1   (Norwegian variant) | Atlantic salmon              | Moderate         | Non-specific septicaemia, pop-eye common           |
+| Biotype 2                              | Rainbow trout, salmon (rare) | Variable         | Associated with vaccine-escape outbreaks           |
+| Non-pathogenic strains                 | Various                      | None             | Found in biofilms/hatcheries — not disease-causing |
 
 **Risk Factors**
 

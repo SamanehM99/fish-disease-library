@@ -119,8 +119,8 @@ Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium 
 
 - **Current Treatments:**
     
-    - **Antibiotics:** Antimicrobials can be administered through medicated feed or water, though their use requires caution due to the risk of developing antimicrobial resistance [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)     
-	-  **Supportive Care:** Improving nutrition, improving water quality and reducing stress to support  [13](https://journals.asm.org/doi/full/10.1128/aem.01173-16). A commercial bacteriophage CUSTUS®YRS performed in a well boat by STIM is also available, which reduces bacteria load in the water.
+    - **Antibiotics:** Antimicrobials can be administered through  medicated feed prescribed by a veterinarian, though their use requires caution due to the risk of developing antimicrobial resistance [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). Reported treatment options include amoxicillin, oxolinic acid, oxytetracycline, potentiated sulphonamides (such as sulphadiazine–trimethoprim), and florfenicol [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Treatment works best when started early because clinically affected fish may reduce feed intake. Outbreaks may recur when previously infected or subclinically infected fish experience new stress events, such as handling or delousing [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/).
+	
 
 **Preventive Measures**
 
@@ -135,10 +135,12 @@ Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium 
     - Disinfection of equipment and surfaces using UV treatment or chemical disinfectants is essential, with contact time being critical for effectiveness  [6](https://www.mdpi.com/2073-4425/10/9/700). 
     - Stock management measures include strict quarantine, egg disinfection, traffic control, and proper disposal of mortalities [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC5846361/)
     - Reducing stocking density and maintaining good water quality are also important, as stress is a key trigger for disease outbreaks  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Supportive Care:** A commercial bacteriophage product  CUSTUS®YRS by STIM used in well boat water during transport or delousing is also available, which reduces bacteria load in the water. It is intended as a preventive risk-reduction measure, rather than treatment of clinically diseased fish [26](https://nvt.vetnett.no/journal/2023/3/m-198/Bruk_av_bakteriofagproduktet_Custus%C2%AEYRS_til_smittepresskontroll_og_sykdomsforebygging_hos_atlantisk_laks).
     
 - **Farm Management Practices:**
     - Stressful handling procedures such as delousing should be managed carefully, beginning with the healthiest cages and replacing treatment water regularly to reduce bacterial accumulation [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
     - Reducing stocking densities to decrease the risk of bacterial transmission.
+    -  Improving nutrition, improving water quality and reducing stress  [13](https://journals.asm.org/doi/full/10.1128/aem.01173-16).
     
 
 ### Case Studies
@@ -344,6 +346,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [25] Akvademiet. (n.d.). _Yersiniose_. DNV GI AS. Accessed September 12, 2026. [https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
 
+[26] Mo, J., Kleppen, H. P., Frantzen, C., Bårdsen, E., Støtvig, I., & Gillund, B. (2023). Bruk av bakteriofagproduktet Custus®YRS til smittepresskontroll og sykdomsforebygging hos atlantisk laks. _Norsk Veterinærtidsskrift_, 135(3). [https://nvt.vetnett.no/journal/2023/3/m-198/Bruk_av_bakteriofagproduktet_Custus%C2%AEYRS_til_smittepresskontroll_og_sykdomsforebygging_hos_atlantisk_laks](https://nvt.vetnett.no/journal/2023/3/m-198/Bruk_av_bakteriofagproduktet_Custus%C2%AEYRS_til_smittepresskontroll_og_sykdomsforebygging_hos_atlantisk_laks)
 
 
 

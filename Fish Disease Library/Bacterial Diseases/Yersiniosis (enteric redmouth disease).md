@@ -119,28 +119,31 @@ Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium 
 
 - **Current Treatments:**
     
-    - **Antibiotics:** Antimicrobials can be administered through  medicated feed prescribed by a veterinarian, though their use requires caution due to the risk of developing antimicrobial resistance [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). Reported treatment options include amoxicillin, oxolinic acid, oxytetracycline, potentiated sulphonamides (such as sulphadiazine–trimethoprim), and florfenicol [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Treatment works best when started early because clinically affected fish may reduce feed intake. Outbreaks may recur when previously infected or subclinically infected fish experience new stress events, such as handling or delousing [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/).
+    - **Antibiotics:** Antimicrobials can be administered through  medicated feed prescribed by a veterinarian, though their use requires caution due to the risk of developing antimicrobial resistance [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). Treatment should therefore be selected using bacterial culture and antimicrobial-susceptibility testing. Reported treatment options include amoxicillin, oxolinic acid, oxytetracycline, potentiated sulphonamides (such as sulphadiazine–trimethoprim), and florfenicol [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Treatment works best when started early because clinically affected fish may reduce feed intake. Outbreaks may recur when previously infected or subclinically infected fish experience new stress events, such as handling or delousing [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/).
 	
 
 **Preventive Measures**
 
 - **Vaccination**: 
-	- Vaccines against _Y. ruckeri_ have proven effective especially when administered by injection, with both commercial and autogenous vaccines offering comparable levels of protection  [6](https://www.mdpi.com/2073-4425/10/9/700). 
+	- Vaccination is an important preventive measure against yersiniosis. Commercial and autogenous inactivated whole-cell vaccines are used to reduce yersiniosis-associated disease and mortality [6](https://www.mdpi.com/2073-4425/10/9/700) 
+	- In Norway, a commercial injectable multivalent vaccine containing inactivated _Yersinia ruckeri_ serotype O1, biotype 1, is also [available]([AquaVac S7 vet. «MSD Animal Health» - Felleskatalogen](https://www.felleskatalogen.no/medisin-vet/aquavac-s7-vet-msd-animal-health-781918)).
+	- Vaccine products for _Y. ruckeri_ are available for both immersion/bath vaccination and injection. The most suitable method depends on fish size, production stage, the specific vaccine product, and local authorisation. [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
 	- Monovalent vaccines targeting specific strains have been developed based on epidemiological studies of bacterial populations in fish farms  [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
 	- Vaccination reduces disease and mortality but does not eliminate carrier status, as _Y. ruckeri_ can still be detected in surviving vaccinated fish [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
 	- Vaccines against O1a may not be fully protective against O1b, it’s the lipopolysaccharide (LPS) which is the decisive antigen for vaccine protection [14](https://www.sciencedirect.com/science/article/abs/pii/S1050464815302953). 
 	
 - **Biosecurity Protocols:**
     - Effective immune defences in salmonids develop around first feeding, when fish simultaneously begin ingesting exogenous food and become exposed to waterborne pathogens — including _Y. ruckeri_. This creates a critical window of vulnerability, emphasising the importance of early biosecurity and vaccination strategies [15](https://link.springer.com/article/10.1007/s10126-024-10386-w)
-    - Disinfection of equipment and surfaces using UV treatment or chemical disinfectants is essential, with contact time being critical for effectiveness  [6](https://www.mdpi.com/2073-4425/10/9/700). 
+    - Disinfection of well boats, service boats, equipment, and other surfaces that contact fish or water using UV treatment or chemical disinfectants is essential, with contact time being critical for effectiveness  [6](https://www.mdpi.com/2073-4425/10/9/700). 
     - Stock management measures include strict quarantine, egg disinfection, traffic control, and proper disposal of mortalities [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC5846361/)
     - Reducing stocking density and maintaining good water quality are also important, as stress is a key trigger for disease outbreaks  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
     - **Supportive Care:** A commercial bacteriophage product  CUSTUS®YRS by STIM used in well boat water during transport or delousing is also available, which reduces bacteria load in the water. It is intended as a preventive risk-reduction measure, rather than treatment of clinically diseased fish [26](https://nvt.vetnett.no/journal/2023/3/m-198/Bruk_av_bakteriofagproduktet_Custus%C2%AEYRS_til_smittepresskontroll_og_sykdomsforebygging_hos_atlantisk_laks).
     
 - **Farm Management Practices:**
-    - Stressful handling procedures such as delousing should be managed carefully, beginning with the healthiest cages and replacing treatment water regularly to reduce bacterial accumulation [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
+    - Stressful handling procedures such as sorting and delousing should be managed carefully, beginning with the healthiest cages and replacing treatment water regularly to reduce bacterial accumulation [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
     - Reducing stocking densities to decrease the risk of bacterial transmission.
-    -  Improving nutrition, improving water quality and reducing stress  [13](https://journals.asm.org/doi/full/10.1128/aem.01173-16).
+    - Actively remove weak, moribund, and dead fish to reduce  infection pressure [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/).
+    
     
 
 ### Case Studies
@@ -173,7 +176,7 @@ Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium 
 - **Yersiniosis Incidence in Norway:**
     - The number of detections of Yersinia ruckeri, which causes yersiniosis, continued to increase in 2023  [20](https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168).
     - A high and increasing number of requested doses of injection vaccine against yersiniosis indicates significant problems with the disease [20](https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168).
-    - In Norway, all marine Atlantic salmon outbreaks have been caused by a single clonal complex (CC1) of serotype O1b, which is critical to consider when determining vaccination strategy [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/),  [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
+    - In Norway, all marine Atlantic salmon outbreaks have been caused by a single clonal complex (CC1) of serotype O1, which is critical to consider when determining vaccination strategy [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/),  [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
 
 - **Geographical Spread:**
     - Yersinia ruckeri clonal complex 1 (CC1) was found responsible for all major yersiniosis outbreaks diagnosed in Norwegian salmon farming  [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
@@ -284,7 +287,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-04-27
+**Last Modified:** 2026-09-20
 
 **Tags:** #Yersiniosis, #Yersiniaruckeri, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #BacterialDiseases, #Bacteria 
 

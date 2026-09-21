@@ -182,7 +182,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Pasteurellosis]]
 [[Tenacibaculosis (Tenacibaculum spp)]]
 [[Winter Wounds]]
-[[Yersiniosis]]
+[[Yersiniosis (enteric redmouth disease)]]
 
 
 **Citations:**

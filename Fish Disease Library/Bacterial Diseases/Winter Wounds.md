@@ -161,7 +161,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Tenacibaculosis (Tenacibaculum spp)]]
-[[Yersiniosis]]
+[[Yersiniosis (enteric redmouth disease)]]
 
 **Citations:**
 [1] https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/

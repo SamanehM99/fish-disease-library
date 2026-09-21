@@ -16,70 +16,74 @@ tags:
 
 ## What is Yersiniosis?
 
-Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that primarily affects salmonid fish species in aquaculture. The severity of the disease is dependent upon the biotype of the bacterium involved and the host species [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). It is most common in freshwater or early seawater phases but late seawater phase occurences are increasing [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri) The disease is found throughout Europe, North and South America, China and Oceania  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
+Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium _Yersinia ruckeri_ that primarily affects salmonid fish species in aquaculture. It is of particular importance in rainbow trout and Atlantic salmon aquaculture. Internationally, it is also known as _enteric redmouth disease_ (ERM), a name derived from the red haemorrhaging that may be seen in and around the mouth of infected fish. The severity of the disease is dependent upon the biotype of the bacterium involved and the host species [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). It is most common in freshwater or early seawater phases but late seawater phase occurences are increasing [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). The disease is found throughout Europe, North and South America, China and Oceania [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
 
 ## Symptoms of Yersiniosis
 
 ### Common Symptoms
 
 - **Physical Signs:** 
-	**Rainbow Trout — Classic/Acute Form - Enteric Red Mouth (ERM)
+	**Rainbow Trout — Classic/Acute Form - Enteric Red Mouth (ERM)**
     Most commonly associated with the "Hagerman" strain (Serotype O1, Biotype 1)
-    - **Red/bleeding mouth** — bleeding under the skin around the mouth, gums, and throat  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Red/bleeding mouth** — bleeding under the skin around the mouth, gums, and throat [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
     - **Pop-eye (exophthalmia)** — bulging eyes, often with blood spots inside the eye [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
-    - **Dark skin** — the fish becomes noticeably darker in colour  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-    - **Bleeding fins** — reddened, congested fins [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
-    - **Pale gills and swollen vent (anus)**
-    - **Internal bleeding** — small haemorrhages on the liver, pancreas, swim bladder, and muscles  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-    - **Enlarged, darkened spleen** - can be almost black in colour  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-    - **Inflamed intestine** — reddened lower gut with a build-up of opaque yellow fluid [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Dark skin** — the fish becomes noticeably darker in colour [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Bleeding fins and gills** — reddened, congested fins and gills. The base of the fins often affected [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri) [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
+    - **Pale gills and liver** [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
+    - **Swollen and bleeding vent (anus)** [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
+    - **Internal bleeding** — small haemorrhages on the liver, pancreas, swim bladder, and muscles, consistent with systemic septicaemia [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Enlarged, darkened spleen** — can be almost  black in colour [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Inflamed intestine** — reddened lower gut with a build-up of opaque yellow fluid, and almost empty gut and intestine [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Ascites** — fluid accumulation in the abdominal cavity [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
     
-    **Atlantic Salmon and Chinook Salmon — Milder/Atypical Form**
-    Associated with Serotype O1b / Norwegian virulent genetic variant
+    **Atlantic salmon and Chinook salmon — regional strain associations:** In Southern Hemisphere aquaculture, including Chile and Tasmania, yersiniosis in Atlantic salmon and Chinook salmon has been associated with _Y. ruckeri_ serotype O1b. In Norway, yersiniosis in farmed Atlantic salmon is predominantly associated with the distinct Norwegian lineage _Y. ruckeri_ serotype O1, MLVA clonal complex 1 (CC1).
     - The classic red mouth sign is often absent or subtle otherwise same signs as trout [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
-    - The most commonly detected sign is pop-eye and blood spots in the eye
-    - Most outbreaks in salmon occur during the juvenile (freshwater) phase or shortly after transfer to the sea  [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
+    - The most commonly detected sign is pop-eye, blood spots in the eye, and bleeding in the skin and on the underside of the abdomen [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
+    - In freshwater, a markedly enlarged spleen is often observed; while in seawater, severe haemorrhages on the swim bladder are common [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
+    - Most outbreaks in salmon occur during the juvenile (freshwater) phase or shortly after transfer to the sea [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf)
 
 - **Behavioral Changes:**
     - Changes in farmed salmon are often non-specific and typical of a general blood infection, including lethargy, difficulty breathing, and abnormal swimming behaviour [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
-    - **Lethargy:** Reduced activity and slow swimming.
-    - **Loss of Appetite:** Decreased feeding behavior.
+    - **Lethargy:** Reduced activity and slow swimming [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Loss of Appetite:** Decreased feeding behavior [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
     - **Swimming Near the Surface:** fish may swim near the surface or at the edges [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
 
 **Progression of Symptoms**
 
+ - **Age-related disease course:** ERM can affect salmonids at all life stages, but it is typically most acute in young fish, particularly fry and fingerlings. In older or larger fish, infection more often presents as a chronic condition, with prolonged low-level mortality [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+ 
 - **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy, swimming near the surface, darkening of the skin and increase in mortality [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
 
 - **Advanced Stages:** More pronounced physical symptoms such as bulging eyes and hemorrhages (reddened areas) on the mouth, anus, base of fins and internal organs [5](https://www.mdpi.com/1422-0067/23/6/3096). Mortality starts low for ERM but then can increase rapidly [6](https://www.mdpi.com/2073-4425/10/9/700)
-
+ 
 - **Impact on Fish Health:** Yersiniosis severely compromises immune function and overall vitality, making fish susceptible to secondary infections.
 
 ### Causes of Yersiniosis
 
 **Etiology**
-- **Causative Agent:** _Yersinia ruckeri_ bacterium. The Yersinia genus have species causing animal-origin food outbreaks in humans [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm). It is gram-negative, rod-shaped bacterium and the cells can survive in anaerobic and aerobic environments and are generally uniform in morphology [6](https://www.mdpi.com/2073-4425/10/9/700). 
+- **Causative Agent:** _Yersinia ruckeri_ bacterium. Although the _Yersinia_ genus includes species that cause foodborne disease in humans, _Y. ruckeri_ is primarily a fish pathogen and is not regarded as a human foodborne pathogen [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm). It is gram-negative, rod-shaped bacterium and the cells can survive in anaerobic and aerobic environments and are generally uniform in morphology [6](https://www.mdpi.com/2073-4425/10/9/700). 
   
 - _Y. ruckeri_ is classified using three methods: O-serotyping based on surface antigen differences (O1–O8), serovar typing which groups strains into three broader groups — meaning two strains of the same O-serotype can still belong to different serovars — and biotyping which distinguishes motile (biotype 1) from non-motile (biotype 2) strains  [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/)
 - It can also be classified by genetic diversity into clonal complexes (CC) using Multilocus Variable-Number Tandem-Repeat Analysis (MLVA) [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/)
 
 - **Transmission Methods:**
     
-    - **Direct Contact:** The main  transmission, spreading between infected and healthy fish through close proximity [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm). Infected fish can carry the disease for several months, especially in the lower intestine [8](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.13515). _Y. ruckeri_ enters fish primarily through the gills, and up to 25% of a rainbow trout population can carry the bacteria in their intestines, making fecal transmission possible  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Transmission is believed to take place primarily during the freshwater phase [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
-    
-    - **Waterborne:** The bacterium can spread through water, especially under conditions of poor water quality and high organic load  [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf),   [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-	    - Reported that it is more contagious when the water temperature varies between 15 to 20 °C [5](https://www.mdpi.com/1422-0067/23/6/3096)
+    - **Direct Contact/Horizontal transmission:** The main transmission method is by direct contact between infected and healthy fish (horizontally) [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Infected fish can carry the disease for several months, especially in the lower intestine [8](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.13515). _Y. ruckeri_ enters fish primarily through the gills, and up to 25% of a rainbow trout population can carry the bacteria in their intestines, making fecal transmission possible  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Transmission is believed to take place primarily during the freshwater phase [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
+    - **Carrier fish and stress:** Fish that survive ERM can carry _Y. ruckeri_ as a latent infection for several months. Carrier fish can shed bacteria in faeces, creating a continuing source of infection for susceptible fish [3](https://pubmed.ncbi.nlm.nih.gov/26404907/) [8](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.13515). Stress may increase bacterial shedding and transmission from carrier fish [3](https://pubmed.ncbi.nlm.nih.gov/26404907/).
+    - **Waterborne:** The bacterium can spread through water, especially under conditions of poor water quality and high organic load  [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf), [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Its ability to persist in the aquatic environment, including sediments and biofilms formation, may contribute to continued infection pressure between or during outbreaks [3](https://pubmed.ncbi.nlm.nih.gov/26404907/).
+	    - Reported that it is more contagious when the water temperature varies between 15 to 20 °C [5](https://www.mdpi.com/1422-0067/23/6/3096).
 	    - Incubation period (time between exposure and first clinical signs) is 5-10 days [5](https://www.mdpi.com/1422-0067/23/6/3096)
     
-- **Species Affected:** Susceptible hosts include: Atlantic salmon (Salmo salar), brook trout (Salvelinus fontinalis), brown trout (Salmo trutta), Chinook salmon (Oncorhynchus tshawytscha), coho salmon (Oncorhynchus kisutch), rainbow trout (Oncorhynchus mykiss), eel (Anguilla anguilla), goldfish (Carassius auratus), perch (Perca fluviatilis), channel catfish (Ictalurus punctatus), sole (Solea solea), sturgeon (Acipenser baeri and A. schrencki) and turbot (Scophthalmus maximus) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). Salmonids appear more sensitive to this bacterium and prone to suffer disease outbreaks  [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
+- **Species Affected:** Susceptible hosts include: Atlantic salmon (_Salmo salar_), brook trout (_Salvelinus fontinalis_), brown trout (_Salmo trutta_), Chinook salmon (_Oncorhynchus tshawytscha_), coho salmon (_Oncorhynchus kisutch_), rainbow trout (_Oncorhynchus mykiss_), eel (_Anguilla anguilla_), goldfish (_Carassius auratus_), perch (_Perca fluviatilis_), channel catfish (_Ictalurus punctatus_), sole (_Solea solea_), sturgeon (_Acipenser baeri_ and _A. schrencki_) and turbot (_Scophthalmus maximus_) [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). Salmonids appear more sensitive to this bacterium and prone to suffer disease outbreaks [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)-
   
 **Table 1:** Summary of strains and host interactions with key symptoms and severity
 
-| Strain/Biotype                      | Main Host             | Disease Severity | Key Feature                                        |
-| ----------------------------------- | --------------------- | ---------------- | -------------------------------------------------- |
-| Serotype O1, Biotype 1 ("Hagerman") | Rainbow trout         | Acute/severe     | Classic red mouth, heavy internal bleeding         |
-| Serotype O1b (Norwegian variant)    | Atlantic salmon       | Moderate         | Non-specific septicaemia, pop-eye common           |
-| Biotype 2                           | Rainbow trout, salmon | Variable         | Associated with vaccine-escape outbreaks           |
-| Non-pathogenic strains              | Various               | None             | Found in biofilms/hatcheries — not disease-causing |
+| Strain/Biotype                         | Main Host                    | Disease Severity | Key Feature                                        |
+| -------------------------------------- | ---------------------------- | ---------------- | -------------------------------------------------- |
+| Serotype O1, Biotype 1 ("Hagerman")    | Rainbow trout                | Acute/severe     | Classic red mouth, heavy internal bleeding         |
+| Serotype O1, CC1   (Norwegian variant) | Atlantic salmon              | Moderate         | Non-specific septicaemia, pop-eye common           |
+| Biotype 2                              | Rainbow trout, salmon (rare) | Variable         | Associated with vaccine-escape outbreaks           |
+| Non-pathogenic strains                 | Various                      | None             | Found in biofilms/hatcheries — not disease-causing |
 
 **Risk Factors**
 
@@ -91,22 +95,22 @@ Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that prima
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Infected fish typically display reddening around the mouth and fins, bulging eyes, darkened skin, lethargy, and loss of appetite. Internally, organ damage and haemorrhaging may be present [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+- **Clinical Examination:** Infected fish typically display reddening around the mouth and fins, haemorrhages around the vent, and fin bases, bulging eyes, darkened skin, lethargy, and loss of appetite. Internal examination may reveal haemorrhages, organ changes, and other signs of septicaemia. Clinical signs alone are not enough to confirm disease because they may overlap with other bacterial and systemic diseases (look at differential diagnosis section) [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
   
 - **Laboratory Tests:**
     
-    - **Microbiology**: Isolation and identification of _Yersinia ruckeri_ from tissue samples. Microbiology cultures identify the serotype, support future research, and enable custom vaccine development  [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/). It can be easily cultured from the head kidney of infected fish on standard media such as blood agar at 20°C  [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). 
-    - **PCR (Polymerase Chain Reaction):** Detects bacterial DNA in tissue samples. PCR is the fastest and most reliable diagnostic method for identifying _Y. ruckeri_ [5](https://www.mdpi.com/1422-0067/23/6/3096),  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). However it doesn't identify whether it is pathological, so PCR should be followed up with microbiology [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/).
+    - **Microbiology**: Isolation and culture of _Yersinia ruckeri_ from tissue samples collected from clinically affected fish is the reccomended method for identification [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). Microbiology cultures support species identification and serotyping, provides isolates for epidemiological investigation, and enable custom vaccine development (autogenous vaccines) [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/). It can be easily cultured from the head kidney of infected fish on standard media, including blood agar, tryptic soy agar (TSA), and MacConkey agar at 20°C [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri) [3](https://pubmed.ncbi.nlm.nih.gov/26404907/).
+    - **PCR (Polymerase Chain Reaction) and qPCR:** Detects bacterial DNA in tissue samples. PCR is the fastest and most reliable diagnostic method for identifying _Y. ruckeri_ [5](https://www.mdpi.com/1422-0067/23/6/3096),  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). However it doesn't identify whether it is pathological, so PCR should be followed up with microbiology [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/).
 	    - qPCR of spleen DNA ought to be considered the preferred standard for detection of carriers of _Y. ruckeri_ [8](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.13515) 
 	    - Environmental or eDNA swabs are possible to see presence on surfaces or in post lice treatment water [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/).
-    - **Histopathology:** findings are typically non-specific but histopathology can be used to assess the extent of damage and infection [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)
+    - **Histopathology:** findings are typically non-specific but histopathology can be used to assess the extent of damage and infection [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). Immunohistochemistry may be used to demonstrate _Yersinia ruckeri_ within affected tissues [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri).
     - **LAMP Assay :** Loop-mediated isothermal amplification (LAMP) is a field-deployable molecular test that detects a target gene of *Y. ruckeri*  directly from water samples. This test can be done within an hour and has significantly higher sensitivity than conventional PCR [11](https://link.springer.com/article/10.1186/1746-6148-4-31), [12](https://peerj.com/articles/19015/)
 
 **Differential Diagnosis**
 
 - **Distinguishing Yersiniosis from Other Diseases:** 
 	- Early signs of can closely resemble other bacterial infections, so a clinical examination alone is not enough to confirm *Y. ruckeri,* laboratory testing is needed alongside the clinical exam to confirm the disease  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
-	- Other bacterial infections such as _Aeromonas salmonicida_ and _Vibrio_ spp. can produce similar clinical signs to _Y. ruckeri_, while its biochemical similarity to other _Yersinia_ species and _Hafnia alvei_ also makes laboratory misidentification possible  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+	- Other bacterial infections such as _Aeromonas salmonicida_ and _Vibrio_ spp. can cause septicaemia and therefore produce similar clinical signs to _Y. ruckeri_, while its biochemical similarity to other _Yersinia_ species and _Hafnia alvei_ also makes laboratory misidentification possible  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
 	
 
 ### Treatment and Prevention
@@ -115,26 +119,31 @@ Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that prima
 
 - **Current Treatments:**
     
-    - **Antibiotics:** Antimicrobials can be administered through medicated feed or water, though their use requires caution due to the risk of developing antimicrobial resistance [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri)     
-	-  **Supportive Care:** Improving nutrition, improving water quality and reducing stress to support  [13](https://journals.asm.org/doi/full/10.1128/aem.01173-16). A commercial bacteriophage CUSTUS®YRS performed in a well boat by STIM is also available, which reduces bacteria load in the water.
+    - **Antibiotics:** Antimicrobials can be administered through  medicated feed prescribed by a veterinarian, though their use requires caution due to the risk of developing antimicrobial resistance [2](https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri). Treatment should therefore be selected using bacterial culture and antimicrobial-susceptibility testing. Reported treatment options include amoxicillin, oxolinic acid, oxytetracycline, potentiated sulphonamides (such as sulphadiazine–trimethoprim), and florfenicol [3](https://pubmed.ncbi.nlm.nih.gov/26404907/). Treatment works best when started early because clinically affected fish may reduce feed intake. Outbreaks may recur when previously infected or subclinically infected fish experience new stress events, such as handling or delousing [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/).
+	
 
 **Preventive Measures**
 
 - **Vaccination**: 
-	- Vaccines against _Y. ruckeri_ have proven effective especially when administered by injection, with both commercial and autogenous vaccines offering comparable levels of protection  [6](https://www.mdpi.com/2073-4425/10/9/700). 
+	- Vaccination is an important preventive measure against yersiniosis. Commercial and autogenous inactivated whole-cell vaccines are used to reduce yersiniosis-associated disease and mortality [6](https://www.mdpi.com/2073-4425/10/9/700) 
+	- In Norway, a commercial injectable multivalent vaccine containing inactivated _Yersinia ruckeri_ serotype O1, biotype 1, is also [available]([AquaVac S7 vet. «MSD Animal Health» - Felleskatalogen](https://www.felleskatalogen.no/medisin-vet/aquavac-s7-vet-msd-animal-health-781918)).
+	- Vaccine products for _Y. ruckeri_ are available for both immersion/bath vaccination and injection. The most suitable method depends on fish size, production stage, the specific vaccine product, and local authorisation. [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
 	- Monovalent vaccines targeting specific strains have been developed based on epidemiological studies of bacterial populations in fish farms  [4](https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm)
 	- Vaccination reduces disease and mortality but does not eliminate carrier status, as _Y. ruckeri_ can still be detected in surviving vaccinated fish [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
 	- Vaccines against O1a may not be fully protective against O1b, it’s the lipopolysaccharide (LPS) which is the decisive antigen for vaccine protection [14](https://www.sciencedirect.com/science/article/abs/pii/S1050464815302953). 
 	
 - **Biosecurity Protocols:**
     - Effective immune defences in salmonids develop around first feeding, when fish simultaneously begin ingesting exogenous food and become exposed to waterborne pathogens — including _Y. ruckeri_. This creates a critical window of vulnerability, emphasising the importance of early biosecurity and vaccination strategies [15](https://link.springer.com/article/10.1007/s10126-024-10386-w)
-    - Disinfection of equipment and surfaces using UV treatment or chemical disinfectants is essential, with contact time being critical for effectiveness  [6](https://www.mdpi.com/2073-4425/10/9/700). 
+    - Disinfection of well boats, service boats, equipment, and other surfaces that contact fish or water using UV treatment or chemical disinfectants is essential, with contact time being critical for effectiveness  [6](https://www.mdpi.com/2073-4425/10/9/700). 
     - Stock management measures include strict quarantine, egg disinfection, traffic control, and proper disposal of mortalities [16](https://pmc.ncbi.nlm.nih.gov/articles/PMC5846361/)
     - Reducing stocking density and maintaining good water quality are also important, as stress is a key trigger for disease outbreaks  [3](https://pubmed.ncbi.nlm.nih.gov/26404907/)
+    - **Supportive Care:** A commercial bacteriophage product  CUSTUS®YRS by STIM used in well boat water during transport or delousing is also available, which reduces bacteria load in the water. It is intended as a preventive risk-reduction measure, rather than treatment of clinically diseased fish [26](https://nvt.vetnett.no/journal/2023/3/m-198/Bruk_av_bakteriofagproduktet_Custus%C2%AEYRS_til_smittepresskontroll_og_sykdomsforebygging_hos_atlantisk_laks).
     
 - **Farm Management Practices:**
-    - Stressful handling procedures such as delousing should be managed carefully, beginning with the healthiest cages and replacing treatment water regularly to reduce bacterial accumulation [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
+    - Stressful handling procedures such as sorting and delousing should be managed carefully, beginning with the healthiest cages and replacing treatment water regularly to reduce bacterial accumulation [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
     - Reducing stocking densities to decrease the risk of bacterial transmission.
+    - Actively remove weak, moribund, and dead fish to reduce  infection pressure [25](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/).
+    
     
 
 ### Case Studies
@@ -167,7 +176,7 @@ Yersiniosis is a disease, caused by the bacterium _Yersinia ruckeri_ that prima
 - **Yersiniosis Incidence in Norway:**
     - The number of detections of Yersinia ruckeri, which causes yersiniosis, continued to increase in 2023  [20](https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168).
     - A high and increasing number of requested doses of injection vaccine against yersiniosis indicates significant problems with the disease [20](https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168).
-    - In Norway, all marine Atlantic salmon outbreaks have been caused by a single clonal complex (CC1) of serotype O1b, which is critical to consider when determining vaccination strategy [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/),  [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
+    - In Norway, all marine Atlantic salmon outbreaks have been caused by a single clonal complex (CC1) of serotype O1, which is critical to consider when determining vaccination strategy [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/),  [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
 
 - **Geographical Spread:**
     - Yersinia ruckeri clonal complex 1 (CC1) was found responsible for all major yersiniosis outbreaks diagnosed in Norwegian salmon farming  [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
@@ -278,7 +287,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-04-27
+**Last Modified:** 2026-09-20
 
 **Tags:** #Yersiniosis, #Yersiniaruckeri, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #BacterialDiseases, #Bacteria 
 
@@ -338,8 +347,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
  [24] Bastardo, A., Sierralta, V., León, J., Ravelo, C., & Romalde, J. L. (2011). Phenotypical and genetic characterization of Yersinia ruckeri strains isolated from recent outbreaks in farmed rainbow trout Oncorhynchus mykiss (Walbaum) in Peru. _Aquaculture_, _317_(1-4), 229-232. (https://www.sciencedirect.com/science/article/abs/pii/S0044848611002754) 
 
+[25] Akvademiet. (n.d.). _Yersiniose_. DNV GI AS. Accessed September 12, 2026. [https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
 
-
+[26] Mo, J., Kleppen, H. P., Frantzen, C., Bårdsen, E., Støtvig, I., & Gillund, B. (2023). Bruk av bakteriofagproduktet Custus®YRS til smittepresskontroll og sykdomsforebygging hos atlantisk laks. _Norsk Veterinærtidsskrift_, 135(3). [https://nvt.vetnett.no/journal/2023/3/m-198/Bruk_av_bakteriofagproduktet_Custus%C2%AEYRS_til_smittepresskontroll_og_sykdomsforebygging_hos_atlantisk_laks](https://nvt.vetnett.no/journal/2023/3/m-198/Bruk_av_bakteriofagproduktet_Custus%C2%AEYRS_til_smittepresskontroll_og_sykdomsforebygging_hos_atlantisk_laks)
 
 
 

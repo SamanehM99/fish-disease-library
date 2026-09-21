@@ -338,7 +338,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Winter Wounds]]
-[[Yersiniosis]]
+[[Yersiniosis (enteric redmouth disease)]]
 
 **Citations:**
 [1] Habib, C., Houel, A., Lunazzi, A., Bernardet, J. F., Olsen, A. B., Nilsen, H., Toranzo, A. E., Castro, N., Nicolas, P., & Duchaud, E. (2014). Multilocus sequence analysis of the marine bacterial genus Tenacibaculum suggests parallel evolution of fish pathogenicity and endemic colonization of aquaculture systems. _Applied and environmental microbiology_, _80_(17), 5503–5514. (https://pmc.ncbi.nlm.nih.gov/articles/PMC4136090/)

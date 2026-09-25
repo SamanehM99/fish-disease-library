@@ -1,6 +1,6 @@
 ---
 title: Infectious Pancreatic Necrosis (IPN)
-description: Learn about Infectious Pancreatic Necrosis (IPN) in aquaculture fish like Atlantic salmon. Characterized by abdominal swelling, pale gills, and darkened skin, IPN is caused by the Infectious Pancreatic Necrosis Virus (IPNV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
+description: Learn about Infectious Pancreatic Necrosis (IPN) in aquaculture fish like Atlantic salmon. Characterized by abdominal swelling, pale gills, and darkened skin, IPN is caused by the infectious pancreatic necrosis virus (IPNV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
   - InfectiousPancreaticNecrosis
   - Virus
@@ -14,7 +14,7 @@ tags:
 ## Overview
 
 ### What is Infectious Pancreatic Necrosis (IPN)?
-Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affecting various fish species in aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other salmonids. It is caused by the Infectious Pancreatic Necrosis Virus (IPNV), a member of the Birnaviridae family, leading to high mortality rates, especially in young fish, and significant economic losses [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis). IPN primarily affects juvenile salmonids, particularly in the fry and post-smolt stages, but can also infect adult fish asymptomatically [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affecting various fish species in aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other salmonids. It is caused by the infectious pancreatic necrosis virus (IPNV), a member of the Birnaviridae family, leading to high mortality rates, especially in young fish, and significant economic losses [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis). IPN primarily affects juvenile salmonids, particularly in the fry and post-smolt stages, but can also infect adult fish asymptomatically [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
 ## Clinical Signs of Infectious Pancreatic Necrosis
 

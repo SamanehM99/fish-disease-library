@@ -1,6 +1,6 @@
 ---
 title: Infectious Salmon Anemia (ISA)
-description: Learn about Infectious Salmon Anemia (ISA) in aquaculture fish like Atlantic salmon. Characterized by pale gills, swollen organs, and high mortality rates, ISA is caused by the Infectious Salmon Anemia Virus (ISAV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
+description: Learn about Infectious Salmon Anemia (ISA) in aquaculture fish like Atlantic salmon. Characterized by pale gills, swollen organs, and high mortality rates, ISA is caused by the infectious salmon anemia virus (ISAV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
   - InfectiousSalmonAnemia
   - Virus
@@ -24,7 +24,7 @@ Last E: Tony Chen (June 2025)
 
 ### What is ISA?
 
-Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predominantly affects farmed Atlantic salmon (*Salmo salar*). Caused by the Infectious Salmon Anemia Virus (ISAV), it results in severe economic losses in aquaculture due to high mortality rates and the need for culling infected fish. First identified in Norway in 1984, ISA has since been reported in several countries, including Canada, the USA, Scotland, the Faroe Islands, Ireland, and Chile [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa). While Atlantic salmon are the primary species affected clinically, ISAV can replicate in rainbow trout (*Oncorhynchus mykiss*) and sea trout (*Salmo trutta* L.) [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
+Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predominantly affects farmed Atlantic salmon (*Salmo salar*). Caused by the infectious salmon anemia virus (ISAV), it results in severe economic losses in aquaculture due to high mortality rates and the need for culling infected fish. First identified in Norway in 1984, ISA has since been reported in several countries, including Canada, the USA, Scotland, the Faroe Islands, Ireland, and Chile [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa). While Atlantic salmon are the primary species affected clinically, ISAV can replicate in rainbow trout (*Oncorhynchus mykiss*) and sea trout (*Salmo trutta* L.) [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
 
 ## Clinical Signs of Infectious Salmon Anemia
 

@@ -1,6 +1,6 @@
 ---
 title: Pancreas Disease (PD)
-description: Learn about Pancreas Disease (PD) in aquaculture fish like Atlantic salmon. Characterized by sudden loss of appetite, lethargy, and high mortality, PD is caused by the Salmonid alphavirus (SAV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
+description: Learn about Pancreas Disease (PD) in aquaculture fish like Atlantic salmon. Characterized by sudden loss of appetite, lethargy, and high mortality, PD is caused by the salmonid alphavirus (SAV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
   - PancreasDisease
   - Virus
@@ -16,7 +16,7 @@ tags:
 ## Overview
 
 ### What is Pancreas Disease (PD)?
-Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other salmonids. It is caused by the Salmonid alphavirus (SAV), historically referred to as salmon pancreas disease virus (SPDV), resulting in severe economic losses in aquaculture due to high mortality rates and reduced growth performance [16](https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub). The name reflects the disease’s damaging effect on the pancreas, which reduces the production of digestive enzymes and thereby impairs digestion and growth [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). PD was first identified in Scotland in 1976 and later reported in Norway in 1989, and has since been observed in several other countries [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other salmonids. It is caused by the salmonid alphavirus (SAV), historically referred to as salmon pancreas disease virus (SPDV), resulting in severe economic losses in aquaculture due to high mortality rates and reduced growth performance [16](https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub). The name reflects the disease’s damaging effect on the pancreas, which reduces the production of digestive enzymes and thereby impairs digestion and growth [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). PD was first identified in Scotland in 1976 and later reported in Norway in 1989, and has since been observed in several other countries [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
 ## Clinical Signs of Pancreas Disease
 
 ### Common Signs

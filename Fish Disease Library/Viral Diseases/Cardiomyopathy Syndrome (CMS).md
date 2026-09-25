@@ -1,6 +1,6 @@
 ---
 title: Cardiomyopathy Syndrome (CMS)
-description: Learn about Cardiomyopathy Syndrome (CMS) in farmed Atlantic salmon, caused by Piscine myocarditis virus (PMCV). Characterized by heart inflammation and necrosis, CMS leads to high mortality rates, anaemia, and ascites. Discover symptoms, causes, diagnosis, treatment, and prevention strategies to manage this severe viral disease and ensure the health and welfare of your fish.
+description: Learn about Cardiomyopathy Syndrome (CMS) in farmed Atlantic salmon, caused by piscine myocarditis virus (PMCV). Characterized by heart inflammation and necrosis, CMS leads to high mortality rates, anaemia, and ascites. Discover symptoms, causes, diagnosis, treatment, and prevention strategies to manage this severe viral disease and ensure the health and welfare of your fish.
 tags:
   - CardiomyopathySyndrome
   - Virus
@@ -19,7 +19,7 @@ tags:
 ## Overview
 
 ### What is CMS?
-Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlantic salmon (*Salmo salar*). It is caused by the Piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). CMS primarily affects Atlantic salmon but can also impact other salmonids, such as rainbow trout (*Oncorhynchus mykiss*) and brown trout (*Salmo trutta*).
+Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlantic salmon (*Salmo salar*). It is caused by the piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). CMS primarily affects Atlantic salmon but can also impact other salmonids, such as rainbow trout (*Oncorhynchus mykiss*) and brown trout (*Salmo trutta*).
 
 ## Clinical Signs of Cardiomyopathy Syndrome
 

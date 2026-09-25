@@ -129,6 +129,10 @@ the foot of the file — the two drift out of sync in practice.
   APA style with DOIs where available, per `README.md`'s existing citation rule.
 - Every scientific binomial is italicised on every mention, including in headings and
   table cells.
+- Common (vernacular) virus names are **not** italicised and are written in lower case
+  mid-sentence: "caused by piscine orthoreovirus (PRV)", "salmonid alphavirus (SAV)".
+  Keep capitals only for proper nouns inside the name (e.g. "West Nile virus") and for
+  acronyms. Cited article titles keep the capitalisation they were published with.
 
 ## 6. Links
 

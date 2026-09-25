@@ -153,7 +153,7 @@ tags:
     
 - **Economic Impact:**
     
-    -  [Winter ulcer disease](obsidian://open?vault=Fish%20Disease%20Library&file=Winter%20Wounds) caused by *M. viscosa* leads to increased mortality, decreased fish welfare, and inferior flesh quality, all of which have adverse economic consequences [31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9569996/).
+    -  [[Winter Wounds|Winter ulcer disease]] caused by *M. viscosa* leads to increased mortality, decreased fish welfare, and inferior flesh quality, all of which have adverse economic consequences [31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9569996/).
     
 - **Diagnosis & Management:**
     
@@ -169,14 +169,14 @@ tags:
 
 - **Moritella Viscosa Incidence in Norway:**
     
-    - Outbreaks occur across the entire Norwegian coastline every year since 1990 [10](https://pubmed.ncbi.nlm.nih.gov/36787245/). In 2024, [Winter ulcer disease](obsidian://open?vault=Fish%20Disease%20Library&file=Winter%20Wounds) was detected on 336 salmon farming sites (similar to 2023). *Moritella viscosa* specifically was detected on 289 sites and 112 sites had mixed *M. Viscosa* and *Tenacibaculum spp* infections [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). In comparison in 2009 the bacterium was registered on 36 sites [33](https://www.sciencedirect.com/science/article/abs/pii/S0044848611001347)
+    - Outbreaks occur across the entire Norwegian coastline every year since 1990 [10](https://pubmed.ncbi.nlm.nih.gov/36787245/). In 2024, [[Winter Wounds|Winter ulcer disease]] was detected on 336 salmon farming sites (similar to 2023). *Moritella viscosa* specifically was detected on 289 sites and 112 sites had mixed *M. Viscosa* and *Tenacibaculum spp* infections [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). In comparison in 2009 the bacterium was registered on 36 sites [33](https://www.sciencedirect.com/science/article/abs/pii/S0044848611001347)
     - In 2025, *M. viscosa* was ranked by fish health personnel as the fifth most important cause of mortality [37](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)
     - No impacts have been reported on wild fish species and there is no evidence of interaction between farmed and wild fish, though *M. viscosa* has been found on wild fish [33](https://www.sciencedirect.com/science/article/abs/pii/S0044848611001347)
     
     
 - **Economic Impact:**
     
-    - [Winter ulcer disease](obsidian://open?vault=Fish%20Disease%20Library&file=Winter%20Wounds)  was estimated in 2009 to cause annual financial losses of around NOK 100 million in the Norwegian salmon farming industry. These losses are due to mortality, reduced growth, and importantly downgrading of fish quality at slaughter from scars and lesions. Of this total, approximately NOK 20 million is attributed specifically to downgrading of product quality at harvest because fish with ulcers and scarring fetch lower prices [34](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20201111/patents/EP3071227NWB1/document.html) 
+    - [[Winter Wounds|Winter ulcer disease]]  was estimated in 2009 to cause annual financial losses of around NOK 100 million in the Norwegian salmon farming industry. These losses are due to mortality, reduced growth, and importantly downgrading of fish quality at slaughter from scars and lesions. Of this total, approximately NOK 20 million is attributed specifically to downgrading of product quality at harvest because fish with ulcers and scarring fetch lower prices [34](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20201111/patents/EP3071227NWB1/document.html) 
     
 - **Diagnosis & Management:**
     

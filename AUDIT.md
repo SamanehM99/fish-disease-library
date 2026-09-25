@@ -325,7 +325,7 @@ reasons) is in `tools/rename-map.tsv`.
 | `Salmonid Rickettsial Septicaemia (SRS)` | `Salmonid Rickettsial Septicaemia (Piscirickettsia salmonis)` |
 | `Tenacibaculosis (Tenacibaculum spp)` | `Tenacibaculosis (Tenacibaculum spp.)` |
 | `Vibriosis` | `Vibriosis (Vibrio and Aliivibrio spp.)` |
-| `Yersiniosis` | `Yersiniosis (Yersinia ruckeri)` |
+| `Yersiniosis (enteric redmouth disease)` | (unchanged — author's choice, PR #86) |
 | `Cardiomyopathy Syndrome (CMS)` | `Cardiomyopathy Syndrome (Piscine myocarditis virus)` |
 | `Heart and Muscle Inflammation (HSMI)` | `Heart and Skeletal Muscle Inflammation (Piscine orthoreovirus-1)` |
 | `Infectious Pancreatic Necrosis (IPN)` | unchanged — exception 2 |

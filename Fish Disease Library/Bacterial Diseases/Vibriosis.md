@@ -330,17 +330,17 @@ Future research should prioritize: (a) characterization of emerging and novel *
 
 **Last Modified:** 2026-07-18
 
-**Tags:** [#Vibriosis](https://fishdiseases.manolinaqua.com/?query=tag:Vibriosis), [#Vibrio](https://fishdiseases.manolinaqua.com/?query=tag:Vibrio), [#BacterialDiseases](https://fishdiseases.manolinaqua.com/?query=tag:BacterialDiseases), [#Bacteria](https://fishdiseases.manolinaqua.com/?query=tag:Bacteria)
+**Tags:** #Vibriosis, #Vibrio, #BacterialDiseases, #Bacteria
 
 ##### Other Bacterial Diseases
 
-[Bacterial Kidney Disease (BKD)](https://fishdiseases.manolinaqua.com/bacterial-diseases/bacterial-kidney-disease-\(bkd\).html)  
-[Moritella Viscosa](https://fishdiseases.manolinaqua.com/bacterial-diseases/moritella-viscosa.html)  
-[Pasteurellosis](https://fishdiseases.manolinaqua.com/bacterial-diseases/pasteurellosis.html)  
-[Salmonid Rickettsial Septicaemia (SRS)](https://fishdiseases.manolinaqua.com/bacterial-diseases/salmonid-rickettsial-septicaemia-\(srs\).html)  
-[Tenacibaculosis (Tenacibaculum spp)](https://fishdiseases.manolinaqua.com/bacterial-diseases/tenacibaculosis-\(tenacibaculum-spp\).html)  
-[Winter Wounds](https://fishdiseases.manolinaqua.com/bacterial-diseases/winter-wounds.html)  
-[Yersiniosis](https://fishdiseases.manolinaqua.com/bacterial-diseases/yersiniosis.html)
+[[Bacterial Kidney Disease (BKD)]]
+[[Moritella Viscosa]]
+[[Pasteurellosis]]
+[[Salmonid Rickettsial Septicaemia (SRS)]]
+[[Tenacibaculosis (Tenacibaculum spp)]]
+[[Winter Wounds]]
+[[Yersiniosis (enteric redmouth disease)]]
 
 **Citations:**
 

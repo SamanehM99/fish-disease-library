@@ -18,7 +18,7 @@ tags:
 
 ## Overview
 
-### What is Furunculosis (Aeromonas salmonicida)?
+### What is Furunculosis (*Aeromonas salmonicida*)?
 
 Furunculosis is a bacterial disease of salmonid fish caused by *Aeromonas salmonicida*, a Gram-negative, non-motile, facultatively anaerobic rod belonging to the family *Aeromonadaceae*. The disease is named after its most visually distinctive chronic presentation: raised, fluid-filled boil-like lesions (furuncles) in the musculature that ulcerate and rupture. Classical or "typical" furunculosis is caused by *A. salmonicida* subsp. *salmonicida* and primarily affects salmonid species including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), brown trout (*Salmo trutta*), brook trout (*Salvelinus fontinalis*), and Arctic char (*Salvelinus alpinus*) [1](https://doi.org/10.1111/1751-7915.12091) [17](https://www.vetinst.no/sykdom-og-agens/furunkulose). 
 
@@ -28,7 +28,7 @@ Furunculosis is a bacterial disease of salmonid fish caused by *Aeromonas salmon
 
 Furunculosis is historically one of the most economically important bacterial diseases in Atlantic salmon farming, with major impacts in Norway, Scotland, Chile, Canada, and the Faroe Islands. The disease drove massive antibiotic use in Norwegian salmon farming during the 1980s and early 1990s before the introduction of effective oil-adjuvanted injectable vaccines transformed disease management. The Norwegian vaccine success story — in which antibiotic use dropped by over 99% following vaccine deployment — is one of the most frequently cited examples of how vaccination can revolutionize antibiotic stewardship in aquaculture. Today, classical furunculosis is rare and well controlled in Norway. However, it can still pose a challenge where vaccine coverage is incomplete, in stressed fish during the post-smolt transition, and in wild salmonid populations where vaccination is not feasible. In addition it remains uncertain whether vaccine protection will be equally effective in a warmer marine environment as experimental and field evidence suggests that the pathogen may become more virulent at higher temperatures- meaning that an increase in disease outbreaks under climate-change scenarios cannot be ruled out [1](https://doi.org/10.1111/1751-7915.12091) [2](https://doi.org/10.3389/fcimb.2025.1508135) [18](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
 
-## Clinical Signs of Furunculosis (Aeromonas salmonicida)
+## Clinical Signs of Furunculosis (*Aeromonas salmonicida*)
 
 ### Common Signs
 
@@ -57,7 +57,7 @@ Furunculosis is historically one of the most economically important bacterial di
 - **Impact on Fish Health:** Beyond direct mortality, furunculosis causes significant production losses through reduced growth, increased feed conversion ratio, carcass downgrades due to furuncle damage, and costs associated with treatment and mortality removal. Fish that survive clinical episodes may remain chronic carriers that re-shed the pathogen under subsequent stress events [1](https://doi.org/10.1111/1751-7915.12091).
 - **Atypical and Related-Agent Presentations:** Re-emergent atypical *A. salmonicida* outbreaks in Chilean Atlantic salmon have presented with periorbital haemorrhages, fin-base and abdominal haemorrhages, furuncles, skin ulcers, hepatic/splenic/renal petechiae, and haemorrhagic enteritis, a picture largely indistinguishable from typical disease on gross examination [25](https://doi.org/10.3390/microorganisms12010064). *Aeromonas piscicola*, a distinct species causing furunculosis-like disease in Chilean *S. salar*, produces a comparable disease picture under experimental challenge: focal cutaneous ulcerative lesions, marked visceral congestion, and septicaemia with mortality exceeding 80% by 4 days post-infection for the more virulent isolates [24](https://doi.org/10.3390/pathogens15040402).
 
-### Causes of Furunculosis (Aeromonas salmonicida)
+### Causes of Furunculosis (*Aeromonas salmonicida*)
 
 **Etiology**
 

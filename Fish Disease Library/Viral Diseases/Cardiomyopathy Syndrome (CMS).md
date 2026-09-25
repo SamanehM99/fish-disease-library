@@ -19,7 +19,7 @@ tags:
 ## Overview
 
 ### What is CMS?
-Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlantic salmon (Salmo salar). It is caused by the Piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). CMS primarily affects Atlantic salmon but can also impact other salmonids, such as rainbow trout (Oncorhynchus mykiss) and brown trout (Salmo trutta).
+Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlantic salmon (*Salmo salar*). It is caused by the Piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). CMS primarily affects Atlantic salmon but can also impact other salmonids, such as rainbow trout (*Oncorhynchus mykiss*) and brown trout (*Salmo trutta*).
 
 ## Clinical Signs of Cardiomyopathy Syndrome
 
@@ -147,7 +147,7 @@ Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlanti
     Authors: Camilla Fritsvold, et al.  
     Reference: Norwegian University of Life Sciences (NMBU) study, (2022).  
     [Link to article](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2019/epidemiologisk-studie-av-kardiomyopatisyndrom-cms-spredning-risikofaktorer-og-sykdomsforlop-i-norsk-lakseoppdrett/_/attachment/download/e0bd2aa6-46de-4ede-a7fd-5660c8d78912:76e5c152d51238da9b852bc382289029cfe78a41/2019_13_Sluttrapport%20CMS-Epi_web.pdf)
-2. **"Cardiomyopathy syndrome in Atlantic salmon Salmo salar L.: A review of the current state of knowledge"**  
+2. **"Cardiomyopathy syndrome in Atlantic salmon *Salmo salar* L.: A review of the current state of knowledge"**  
     Authors: Å H Garseth, C Fritsvold, J C Svendsen, B Bang Jensen, A B Mikalsen
     Reference: Å H Garseth, et. al. J Fish Dis. 2018.  41(1),11-26.
     [Link to article](https://pubmed.ncbi.nlm.nih.gov/29064107/)

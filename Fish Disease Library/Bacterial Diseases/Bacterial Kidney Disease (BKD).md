@@ -157,7 +157,7 @@ Studies on Bacterial Kidney Disease (BKD) have focused on various aspects of the
     [Link to study](https://food.ec.europa.eu/document/download/e0fa9624-88b7-438a-83a0-294a2622d593_en?filename=sci-com_scah_out36_en.pdf)
 4. **"Randomized clinical field trial of a bacterial kidney disease vaccine in Atlantic salmon, *Salmo salar* L."**
     Authors: T.A. Burnley, H. Stryhn, H. J. Burnley, K. L. Hammell
-    Reference: Burnley, T. A., Stryhn, H., Burnley, H. J., & Hammell, K. L. (2010). Randomized clinical field trial of a bacterial kidney disease vaccine in Atlantic salmon, Salmo salar L. *Journal of Fish Diseases*, *33*(7), 545-557.
+    Reference: Burnley, T. A., Stryhn, H., Burnley, H. J., & Hammell, K. L. (2010). Randomized clinical field trial of a bacterial kidney disease vaccine in Atlantic salmon, *Salmo salar* L. *Journal of Fish Diseases*, *33*(7), 545-557.
     [Link to study](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2761.2010.01151.x?casa_token=qlNLZq_CHIkAAAAA:BF_sZWE567MrKzLP7x_-1BxUfgcShvs1V7gIVVy-HNSJDWZlXVEf29U4LFKr1EE21WpBKjEvU5Wolg)
 5. **"Toxicity, Teratogenesis, and Efficacy of Injectable Erythromycin (Erythro-200) Administered Repeatedly to Adult Spring Chinook Salmon"**
     Authors: C.M. Moffitt and Y. Kiryu

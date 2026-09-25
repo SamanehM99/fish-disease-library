@@ -109,10 +109,10 @@ Paranucleosporosis, also known as microsporidiosis, is a parasitic disease affec
 #### Norway
 
 - **Paranucleosporosis Incidence in Norway:**
-    - Paranucleosporosis, caused by the microsporidian Paranucleospora theridion (syn. Desmozoon lepeophtheirii), has been a significant concern in Norwegian salmon farming since the mid-1990s [1](https://www.gillhealthinitiative.org/2017sessions) [2](https://pubmed.ncbi.nlm.nih.gov/23047190/).
+    - Paranucleosporosis, caused by the microsporidian *Paranucleospora theridion* (syn. *Desmozoon lepeophtherii*), has been a significant concern in Norwegian salmon farming since the mid-1990s [1](https://www.gillhealthinitiative.org/2017sessions) [2](https://pubmed.ncbi.nlm.nih.gov/23047190/).
 
 - **Geographical Spread:**
-    - Paranucleospora theridion has been detected in Atlantic salmon (Salmo salar) farms along the Norwegian coast [2](https://pubmed.ncbi.nlm.nih.gov/23047190/).
+    - *Paranucleospora theridion* has been detected in Atlantic salmon (*Salmo salar*) farms along the Norwegian coast [2](https://pubmed.ncbi.nlm.nih.gov/23047190/).
     - The parasite's prevalence can vary seasonally and geographically, with higher infection rates often observed during warmer months [2](https://pubmed.ncbi.nlm.nih.gov/23047190/).
 
 - **Economic Impact:**
@@ -125,19 +125,19 @@ Paranucleosporosis, also known as microsporidiosis, is a parasitic disease affec
 
 Recent studies on Paranucleosporosis in salmonids have focused on various aspects of the disease, including its prevention, control, and economic impact. Here are some notable recent research findings:
 
-1. **"Longitudinal study of putative pathogens of Atlantic salmon (Salmo salar L.) complex gill disease"**  
+1. **"Longitudinal study of putative pathogens of Atlantic salmon (*Salmo salar* L.) complex gill disease"**  
     Authors: Not specified  
     Reference: Gill Health Initiative 2017 Session Abstracts  
     [Link to study](https://www.gillhealthinitiative.org/2017sessions)
     
-    This study examined the sequential infection patterns of various pathogens, including Desmozoon lepeophtherii (syn. Paranucleospora theridion), in Atlantic salmon gills. The research found that D. lepeophtherii was one of the most prevalent pathogens detected, with a prevalence of 80 to 100% once established in the population [1](https://www.gillhealthinitiative.org/2017sessions).
+    This study examined the sequential infection patterns of various pathogens, including *Desmozoon lepeophtherii* (syn. *Paranucleospora theridion*), in Atlantic salmon gills. The research found that *D. lepeophtherii* was one of the most prevalent pathogens detected, with a prevalence of 80 to 100% once established in the population [1](https://www.gillhealthinitiative.org/2017sessions).
     
-2. **"Paranucleospora theridion (Microsporidia) infection dynamics in farmed Atlantic salmon Salmo salar put to sea in spring and autumn"**  
+2. **"*Paranucleospora theridion* (Microsporidia) infection dynamics in farmed Atlantic salmon *Salmo salar* put to sea in spring and autumn"**  
     Authors: Sveen S, Øverland H, Karlsbakk E, Nylund A.  
     Reference: Dis Aquat Organ. 2012 Oct 10;101(1):43-9. doi: 10.3354/dao02464.  
     [Link to study](https://pubmed.ncbi.nlm.nih.gov/23047190/)
     
-    This study examined the infection dynamics of Paranucleospora theridion in farmed Atlantic salmon. The research found that infection levels varied seasonally, with higher levels observed in autumn-transferred smolts compared to spring-transferred smolts [2](https://pubmed.ncbi.nlm.nih.gov/23047190/).
+    This study examined the infection dynamics of *Paranucleospora theridion* in farmed Atlantic salmon. The research found that infection levels varied seasonally, with higher levels observed in autumn-transferred smolts compared to spring-transferred smolts [2](https://pubmed.ncbi.nlm.nih.gov/23047190/).
 
 These studies represent advancements in understanding the prevalence, infection dynamics, and impact of Paranucleosporosis in salmon farming, particularly in Norway and other European countries with significant salmon farming industries.
 

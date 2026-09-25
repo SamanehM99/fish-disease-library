@@ -18,13 +18,13 @@ tags:
 
 ## Overview
 
-### What is Gyrodactylus salaris?
+### What is *Gyrodactylus salaris*?
 
 *Gyrodactylus salaris* is a 1.5mm freshwater ectoparasitic flatworm (monogenean) first described by Malmberg in 1957 [1](https://link.springer.com/article/10.1186/s13071-020-04504-5)[4](https://pubmed.ncbi.nlm.nih.gov/24205349/). It is a microparasite (reproduce on the host and short generation time) that primarily infects the skin, fins, and gills of Atlantic salmon (*Salmo salar*) [2](https://www.vetinst.no/overvaking/gyrodactylus-salaris-overv%C3%A5kningsprogram/_/attachment/inline/05aad634-e74d-495d-b83b-bbf856178cb9:3ed8d5dc75067786b28053f44c7be3b2047a41c8/2023_20_GS%20Atlantic%20salmon%20and%20rainbow%20trout%202022.pdf), [19](https://books.google.no/books?hl=en&lr=&id=9lMZnUdUGZUC&oi=fnd&pg=PA221&dq=Gyrodactylus+salaris+brown+trout&ots=63OdufUAuF&sig=y4TNkUdCgxu112eAVWpD3V193lM&redir_esc=y#v=onepage&q=Gyrodactylus%20salaris%20brown%20trout&f=false) It also affects, though with varying susceptibility; rainbow trout (*Oncorhynchus mykiss*), Brown trout (*Salmo trutta*), Artic Charr (*Salvelinus alpinus*), and Grayling (*Thymallus thymallus*)[17](https://www.agriculture.gov.au/sites/default/files/documents/infection-gyrodactylus-salaris.pdf) . The parasite originated in the Baltic Sea region, where it is widespread across the Baltic Sea catchment area [3](https://link.springer.com/article/10.1186/s13028-016-0202-y)
 *G. salaris* was first detected in Norway in 1975 [4](https://pubmed.ncbi.nlm.nih.gov/24205349/), introduced via imported Baltic salmon from Sweden [5](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfd.13981). It has since been detected in 53 rivers and 39 farms, occurring across 23 countries in Europe [5](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfd.13981). The parasite has been estimated to have reduced Norwegian wild Atlantic salmon populations by 86%, representing one of the worst ecological disasters to affect the species [4](https://pubmed.ncbi.nlm.nih.gov/24205349/) [5](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfd.13981). Over NOK 1.5 billion has been spent on eradication efforts and a National Control Plan [5](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfd.13981). The UK is currently recognised as *G. salaris*-free.
 The dominant paradigm holds that Norwegian (East Atlantic) salmon are highly susceptible due to a lack of co-evolutionary experience with the parasite, while Baltic salmon stocks show greater resistance [6](https://link.springer.com/article/10.1186/s13071-015-0981-4). Rainbow trout and certain Baltic salmon strains commonly carry subclinical infections, which can persist for 90 days or more, making them one of the primary ways the infection is spread; the movement of subclinical infected stock between farms and countries [9](https://link.springer.com/article/10.1186/s13071-020-04504-5).
 
-## Clinical Signs of Gyrodactylus salaris
+## Clinical Signs of *Gyrodactylus salaris*
 
 ### Common Signs
 
@@ -40,7 +40,7 @@ The dominant paradigm holds that Norwegian (East Atlantic) salmon are highly sus
 - **Advanced Stages:** Parasite populations proliferate rapidly on susceptible hosts. In severe cases, fish death can occur before the parasite population begins to decline [6](https://link.springer.com/article/10.1186/s13071-015-0981-4)
 - **Impact on Fish Health:** *G. salaris* causes severe epidemics with high morbidity rates, particularly in Atlantic salmon. The hyperviviparous reproductive cycle of the parasite allows for rapid population growth on susceptible hosts [4](https://pubmed.ncbi.nlm.nih.gov/24205349/)
 
-### Causes of Gyrodactylus salaris
+### Causes of *Gyrodactylus salaris*
 
 **Etiology**
 
@@ -148,7 +148,7 @@ The dominant paradigm holds that Norwegian (East Atlantic) salmon are highly sus
 
 #### eDNA Monitoring
 
-- **"Catching the fish with the worm: a case study on eDNA detection of the monogenean parasite Gyrodactylus salaris and two of its hosts, Atlantic salmon (Salmo salar) and rainbow trout (Oncorhynchus mykiss)"**
+- **"Catching the fish with the worm: a case study on eDNA detection of the monogenean parasite *Gyrodactylus salaris* and two of its hosts, Atlantic salmon (*Salmo salar*) and rainbow trout (*Oncorhynchus mykiss*)"**
 	Reference: Rusch, J. C., Hansen, H., Strand, D. A., Markussen, T., Hytterød, S., & Vrålstad, T. (2018). *Parasites & Vectors*, 11, 333.
 	Key Findings: The Lierelva study represents the first application of eDNA monitoring to a monogenean fish parasite (*G. salaris*), establishing proof of concept for non-lethal surveillance at a landscape scale [11](https://link.springer.com/article/10.1186/s13071-018-2916-3)
 	Limitations: eDNA assays cannot currently distinguish between *G. salaris* and *G. thymalli* due to their identical ITS sequences; mitochondrial cytochrome oxidase gene assays have been proposed as a future solution. Further research is also needed to establish detection limits at low parasite loads and to correlate eDNA signal with actual infection intensity [11](https://link.springer.com/article/10.1186/s13071-018-2916-3)
@@ -169,13 +169,13 @@ The dominant paradigm holds that Norwegian (East Atlantic) salmon are highly sus
 
 [1] Malmberg, G. (1957). First description of *Gyrodactylus salaris*. Cited in: Paladini, G., et al. (2021). Geographical distribution of *Gyrodactylus salaris* Malmberg, 1957 (Monogenea, Gyrodactylidae). *Parasites & Vectors*, 14, 34. <https://doi.org/10.1186/s13071-020-04504-5> (<https://pubmed.ncbi.nlm.nih.gov/33422145/>)
 
-[2] Hansen, H., Fornes, G. J., Mohammad, S. N., Børresen, J. H., Amundsen, M. M. and Welde, H. I. The surveillance programme for Gyrodactylus salaris in Atlantic salmon and rainbow trout in Norway 2022. Surveillance program report 20. Veterinærinstituttet 2023. https://www.vetinst.no/overvaking/gyrodactylus-salaris-overv%C3%A5kningsprogram/_/attachment/inline/05aad634-e74d-495d-b83b-bbf856178cb9:3ed8d5dc75067786b28053f44c7be3b2047a41c8/2023_20_GS%20Atlantic%20salmon%20and%20rainbow%20trout%202022.pdf
+[2] Hansen, H., Fornes, G. J., Mohammad, S. N., Børresen, J. H., Amundsen, M. M. and Welde, H. I. The surveillance programme for *Gyrodactylus salaris* in Atlantic salmon and rainbow trout in Norway 2022. Surveillance program report 20. Veterinærinstituttet 2023. https://www.vetinst.no/overvaking/gyrodactylus-salaris-overv%C3%A5kningsprogram/_/attachment/inline/05aad634-e74d-495d-b83b-bbf856178cb9:3ed8d5dc75067786b28053f44c7be3b2047a41c8/2023_20_GS%20Atlantic%20salmon%20and%20rainbow%20trout%202022.pdf
 
 [3] Koski, P., Anttila, P. & Kuusela, J. Killing of *Gyrodactylus salaris* by heat and chemical disinfection. *Acta Vet Scand* **58**, 21 (2015). https://doi.org/10.1186/s13028-016-0202-y 
 
-[4] Denholm, S. J., Norman, R. A., Hoyle, A. S., Shinn, A. P., & Taylor, N. G. (2013). Reproductive trade-offs may moderate the impact of Gyrodactylus salaris in warmer climates. *PloS one*, *8*(10), e78909. https://doi.org/10.1371/journal.pone.0078909  <https://pubmed.ncbi.nlm.nih.gov/24205349/>
+[4] Denholm, S. J., Norman, R. A., Hoyle, A. S., Shinn, A. P., & Taylor, N. G. (2013). Reproductive trade-offs may moderate the impact of *Gyrodactylus salaris* in warmer climates. *PloS one*, *8*(10), e78909. https://doi.org/10.1371/journal.pone.0078909  <https://pubmed.ncbi.nlm.nih.gov/24205349/>
 
-[5] Mo, T. A. (2024). The battle against the introduced pathogenic monogenean Gyrodactylus salaris in Norwegian Atlantic salmon rivers and fish farms. *Journal of Fish Diseases*, *47*(9), e13981. <https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfd.13981>
+[5] Mo, T. A. (2024). The battle against the introduced pathogenic monogenean *Gyrodactylus salaris* in Norwegian Atlantic salmon rivers and fish farms. *Journal of Fish Diseases*, *47*(9), e13981. <https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfd.13981>
 
 [6] Ramírez, R., Bakke, T.A. & Harris, P.D. Population regulation in *Gyrodactylus salaris* – Atlantic salmon (*Salmo salar* L.) interactions: testing the paradigm. *Parasites Vectors* **8**, 392 (2015). https://doi.org/10.1186/s13071-015-0981-4 
 
@@ -185,7 +185,7 @@ The dominant paradigm holds that Norwegian (East Atlantic) salmon are highly sus
 
 [9] Paladini, G., Shinn, A.P., Taylor, N.G.H. *et al.* Geographical distribution of *Gyrodactylus salaris* Malmberg, 1957 (Monogenea, Gyrodactylidae). *Parasites Vectors* **14**, 34 (2021). https://doi.org/10.1186/s13071-020-04504-5 
 
-[10] Mieszkowska, A., Górniak, M., Jurczak-Kurek, A., & Ziętara, M. S. (2018). Revision of Gyrodactylus salaris phylogeny inspired by new evidence for Eemian crossing between lineages living on grayling in Baltic and White sea basins. *PeerJ*, *6*, e5167. <https://doi.org/10.7717/peerj.5167>
+[10] Mieszkowska, A., Górniak, M., Jurczak-Kurek, A., & Ziętara, M. S. (2018). Revision of *Gyrodactylus salaris* phylogeny inspired by new evidence for Eemian crossing between lineages living on grayling in Baltic and White sea basins. *PeerJ*, *6*, e5167. <https://doi.org/10.7717/peerj.5167>
 
 [11] Rusch, J. C., Hansen, H., Strand, D. A., Markussen, T., Hytterød, S., & Vrålstad, T. (2018). Catching the fish with the worm: a case study on eDNA detection of the monogenean parasite *Gyrodactylus salaris* and two of its hosts, Atlantic salmon (*Salmo salar*) and rainbow trout (*Oncorhynchus mykiss*). *Parasites & Vectors*, 11, 333. <https://doi.org/10.1186/s13071-018-2916-3> (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5987472/>)
 
@@ -195,10 +195,10 @@ The dominant paradigm holds that Norwegian (East Atlantic) salmon are highly sus
 
 [15] Torstein Helleve.  (2015, March) Newspaper. "Avlivar mytar om lakseparasitt". Forskning.no. https://www.forskning.no/fiskehelse-fisk-partner/avlivar-mytar-om-lakseparasitt/507375 Accessed June, 2026 
 
-[16] Jansen, P. A., & Bakke, T. A. (1991). Temperature-dependent reproduction and survival of Gyrodactylus salaris Malmberg, 1957 (Platyhelminthes: Monogenea) on Atlantic salmon (Salmo salar L.). *Parasitology*, *102 Pt 1*, 105–112. https://doi.org/10.1017/s0031182000060406
+[16] Jansen, P. A., & Bakke, T. A. (1991). Temperature-dependent reproduction and survival of *Gyrodactylus salaris* Malmberg, 1957 (Platyhelminthes: Monogenea) on Atlantic salmon (*Salmo salar* L.). *Parasitology*, *102 Pt 1*, 105–112. https://doi.org/10.1017/s0031182000060406
 
-[17] Australian Government Dept. of Agriculture, Fisheries and Forestry. "# Aquatic Animal Diseases Significant to Australia: Identification Field Guide- Infection with Gyrodactylus salaris". Page last updated Dec 2025 (https://www.agriculture.gov.au/sites/default/files/documents/infection-gyrodactylus-salaris.pdf) Accessed June, 2026.
+[17] Australian Government Dept. of Agriculture, Fisheries and Forestry. "# Aquatic Animal Diseases Significant to Australia: Identification Field Guide- Infection with *Gyrodactylus salaris*". Page last updated Dec 2025 (https://www.agriculture.gov.au/sites/default/files/documents/infection-gyrodactylus-salaris.pdf) Accessed June, 2026.
 
-[18] Mo, T. A., Hansen, H., & Hytterød, S. (2023). Occurrence and seasonality of Gyrodactylus salaris and G. salmonis (Monogenea) on Arctic char (Salvelinus alpinus (L.)) in the Fustvatnet lake, Northern Norway. *Journal of Fish Diseases*, 46, 395–403. [https://doi.org/10.1111/jfd.13752](https://doi.org/10.1111/jfd.13752) https://onlinelibrary.wiley.com/doi/full/10.1111/jfd.13752
+[18] Mo, T. A., Hansen, H., & Hytterød, S. (2023). Occurrence and seasonality of *Gyrodactylus salaris* and *G. salmonis* (Monogenea) on Arctic char (*Salvelinus alpinus* (L.)) in the Fustvatnet lake, Northern Norway. *Journal of Fish Diseases*, 46, 395–403. [https://doi.org/10.1111/jfd.13752](https://doi.org/10.1111/jfd.13752) https://onlinelibrary.wiley.com/doi/full/10.1111/jfd.13752
 
 [19] Chapter authors: Phil Harris, Lutz Bachmann and Tor Bakke. Editors: Øystein Aas, Anders Klemetsen, Sigurd Einum, Jostein Skurdal. Publisher: John Wiley & Sons, (2011). Book Title: Atlantic Salmon Ecology. "Chapter 9: The Parasites and Pathogens of the Atlantic Salmon: Lessons from *Gyrodactylus salaris*" (https://books.google.no/books?hl=en&lr=&id=9lMZnUdUGZUC&oi=fnd&pg=PA221&dq=Gyrodactylus+salaris+brown+trout&ots=63OdufUAuF&sig=y4TNkUdCgxu112eAVWpD3V193lM&redir_esc=y#v=onepage&q=Gyrodactylus%20salaris%20brown%20trout&f=false)

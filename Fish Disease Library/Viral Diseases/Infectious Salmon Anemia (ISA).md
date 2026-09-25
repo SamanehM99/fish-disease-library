@@ -24,7 +24,7 @@ Last E: Tony Chen (June 2025)
 
 ### What is ISA?
 
-Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predominantly affects farmed Atlantic salmon (Salmo salar). Caused by the Infectious Salmon Anemia Virus (ISAV), it results in severe economic losses in aquaculture due to high mortality rates and the need for culling infected fish. First identified in Norway in 1984, ISA has since been reported in several countries, including Canada, the USA, Scotland, the Faroe Islands, Ireland, and Chile [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa). While Atlantic salmon are the primary species affected clinically, ISAV can replicate in rainbow trout (Oncorhynchus mykiss) and sea trout (Salmo trutta L.) [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
+Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predominantly affects farmed Atlantic salmon (*Salmo salar*). Caused by the Infectious Salmon Anemia Virus (ISAV), it results in severe economic losses in aquaculture due to high mortality rates and the need for culling infected fish. First identified in Norway in 1984, ISA has since been reported in several countries, including Canada, the USA, Scotland, the Faroe Islands, Ireland, and Chile [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa). While Atlantic salmon are the primary species affected clinically, ISAV can replicate in rainbow trout (*Oncorhynchus mykiss*) and sea trout (*Salmo trutta* L.) [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
 
 ## Clinical Signs of Infectious Salmon Anemia
 
@@ -79,7 +79,7 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
 
 **Differential Diagnosis**
 
-- **Distinguishing ISA from Other Diseases:** It is crucial to differentiate ISA from other causes of anaemia and haemorrhages, as well as conditions like winter ulcer and septicaemias caused by Moritella viscosa [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Distinguishing ISA from Other Diseases:** It is crucial to differentiate ISA from other causes of anaemia and haemorrhages, as well as conditions like winter ulcer and septicaemias caused by *Moritella viscosa* [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 
 ### Treatment and Prevention
 
@@ -190,7 +190,7 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
     - An epizootic in Scotland in 1998-1999 cost an estimated $32 million (U.S.) to eradicate [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
     - Recurring outbreaks have continued to impact the industry economically [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 
-- **Treatment & Management:*
+- **Treatment & Management:**
     - Scotland has implemented strict biosecurity measures to control ISA, including culling infected fish and fallowing affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 
 

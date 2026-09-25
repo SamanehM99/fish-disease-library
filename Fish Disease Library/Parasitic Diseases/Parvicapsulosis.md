@@ -69,7 +69,7 @@ Parvicapsulosis is a parasitic disease affecting various fish species in aquacul
 - **Laboratory Tests:**
     - **Histopathology:** Microscopic examination of pseudobranch tissues to identify characteristic lesions and parasites [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
     - **PCR (Polymerase Chain Reaction):** Real-time RT-PCR detects *Parvicapsula* genetic material in fish tissues [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
-    - **In Situ Hybridization (ISH):** A sensitive method for detecting P. pseudobranchicola in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
+    - **In Situ Hybridization (ISH):** A sensitive method for detecting *P. pseudobranchicola* in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
 
 **Differential Diagnosis**
 
@@ -108,7 +108,7 @@ Parvicapsulosis is a parasitic disease affecting various fish species in aquacul
     
 - **Response Strategies and Outcomes:**
     
-    - **Norway:** Implementation of biosecurity measures and development of diagnostic tools, including ISH assays for detecting P. pseudobranchicola in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
+    - **Norway:** Implementation of biosecurity measures and development of diagnostic tools, including ISH assays for detecting *P. pseudobranchicola* in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
     
 - **Lessons Learned:** The importance of early detection, robust biosecurity, and coordinated response efforts in controlling Parvicapsulosis outbreaks. Further research is needed to understand the unknown life cycle of the parasite and the pathophysiological effects of pseudobranch infection on fish health [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
 
@@ -117,8 +117,8 @@ Parvicapsulosis is a parasitic disease affecting various fish species in aquacul
 #### Canada
 
 - **Parvicapsulosis Incidence in Canada:**
-    - Molecular evidence of P. pseudobranchicola was reported in 13 out of 79 juvenile sockeye salmon and 12 out of 47 Chinook salmon in British Columbia [7](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
-    - In a study of 165 Pink salmon, 15% had molecular evidence of P. kabatai, 38% of P. pseudobranchicola, and approximately 10% had both parasites [7](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
+    - Molecular evidence of *P. pseudobranchicola* was reported in 13 out of 79 juvenile sockeye salmon and 12 out of 47 Chinook salmon in British Columbia [7](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
+    - In a study of 165 Pink salmon, 15% had molecular evidence of P. kabatai, 38% of *P. pseudobranchicola*, and approximately 10% had both parasites [7](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
 
 - **Geographical Spread:**
     - The parasite has been detected in various salmon species in British Columbia, including in the Fraser River drainage basin and northern Vancouver Island [7](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
@@ -126,12 +126,12 @@ Parvicapsulosis is a parasitic disease affecting various fish species in aquacul
     - No specific economic impact data for Canada was provided in the search results.
 
 - **Treatment & Management:**
-    - Research is ongoing to determine the prevalence, distribution, and impact of P. pseudobranchicola in B.C. farmed Atlantic salmon and wild Pacific salmon [7](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
+    - Research is ongoing to determine the prevalence, distribution, and impact of *P. pseudobranchicola* in B.C. farmed Atlantic salmon and wild Pacific salmon [7](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
 #### Norway
 
 - **Parvicapsulosis Incidence in Norway:**
     - Parvicapsulosis has been a recurring problem in Norwegian salmonid farming since its first identification in 2002 [5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
-    - All salmon in a studied population rapidly became infected with P. pseudobranchicola after sea-transfer in mid-August [5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
+    - All salmon in a studied population rapidly became infected with *P. pseudobranchicola* after sea-transfer in mid-August [5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
 
 - **Geographical Spread:**
     - The disease is particularly common in farmed Atlantic salmon in northern Norway [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4334612/).
@@ -150,25 +150,25 @@ Parvicapsulosis is a parasitic disease affecting various fish species in aquacul
 
 Recent studies on Parvicapsulosis in salmonids have focused on various aspects of the disease, including its infection dynamics, tissue tropism, and genetic variation:
 
-1. **"Infection dynamics and tissue tropism of Parvicapsula pseudobranchicola in farmed Atlantic salmon"**  
+1. **"Infection dynamics and tissue tropism of *Parvicapsula pseudobranchicola* in farmed Atlantic salmon"**  
     Authors: Nylund, S., et al.  
-    Reference: Nylund, S., et al. (2018). Infection dynamics and tissue tropism of Parvicapsula pseudobranchicola (Myxozoa: Myxosporea) in farmed Atlantic salmon (Salmo salar). Parasites & Vectors, 11(1), 17.  
+    Reference: Nylund, S., et al. (2018). Infection dynamics and tissue tropism of *Parvicapsula pseudobranchicola* (Myxozoa: Myxosporea) in farmed Atlantic salmon (*Salmo salar*). Parasites & Vectors, 11(1), 17.  
     [Link to study](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9)
-2. **"Parvicapsula pseudobranchicola: life cycle and genetic variation"**  
+2. **"*Parvicapsula pseudobranchicola*: life cycle and genetic variation"**  
     Project Manager: Haakon Hansen  
     Reference: Research Council of Norway, Project Number: 207269  
     [Link to project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/207269)
-3. **"Detection of the myxosporean parasite Parvicapsula pseudobranchicola in Atlantic salmon (Salmo salar L.) using in situ hybridization (ISH)"**  
+3. **"Detection of the myxosporean parasite *Parvicapsula pseudobranchicola* in Atlantic salmon (*Salmo salar* L.) using in situ hybridization (ISH)"**  
     Authors: Markussen, T., et al.  
-    Reference: Markussen, T., et al. (2015). Detection of the myxosporean parasite Parvicapsula pseudobranchicola in Atlantic salmon (Salmo salar L.) using in situ hybridization (ISH). Parasites & Vectors, 8, 105.  
+    Reference: Markussen, T., et al. (2015). Detection of the myxosporean parasite *Parvicapsula pseudobranchicola* in Atlantic salmon (*Salmo salar* L.) using in situ hybridization (ISH). Parasites & Vectors, 8, 105.  
     [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4334612/)
-4. **"Parvicapsula pseudobranchicola in salmonids in British Columbia"**  
+4. **"*Parvicapsula pseudobranchicola* in salmonids in British Columbia"**  
     Principal Investigator: Simon Jones  
     Reference: Fisheries and Oceans Canada, Project Number: FHTT-2019-P-03  
     [Link to project](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html)
-5. **"Parvicapsula pseudobranchicola in the northeast Pacific Ocean is genetically homogeneous and found in multiple species of wild Pacific salmon"**  
+5. **"*Parvicapsula pseudobranchicola* in the northeast Pacific Ocean is genetically homogeneous and found in multiple species of wild Pacific salmon"**  
     Authors: Jones, S., et al.  
-    Reference: Jones, S., et al. (2023). Parvicapsula pseudobranchicola in the northeast Pacific Ocean is genetically homogeneous and found in multiple species of wild Pacific salmon. Parasites & Vectors, 16, 177.  
+    Reference: Jones, S., et al. (2023). *Parvicapsula pseudobranchicola* in the northeast Pacific Ocean is genetically homogeneous and found in multiple species of wild Pacific salmon. Parasites & Vectors, 16, 177.  
     [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10122293/)
 
 These studies represent advancements in understanding the infection dynamics, genetic variation, detection methods, and geographical distribution of Parvicapsulosis in various regions, particularly in Norway and Canada.

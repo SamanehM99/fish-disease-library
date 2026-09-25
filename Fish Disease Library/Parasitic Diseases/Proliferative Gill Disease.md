@@ -12,7 +12,7 @@ tags:
 ## Overview
 
 ### What is Proliferative Gill Disease (PGD)?
-Proliferative Gill Disease (PGD) is an emerging problem in salmonid aquaculture, particularly affecting Atlantic salmon (Salmo salar) in both freshwater and marine environments [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[5](https://onlinelibrary.wiley.com/doi/pdf/10.1111/raq.12426). It is characterized by proliferative changes in gill tissue and can be associated with various pathogens, including parasites, bacteria, and viruses [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426). PGD leads to significant economic losses due to high mortality rates, impaired respiratory function, and reduced growth performance in farmed salmon [2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426)[5](https://onlinelibrary.wiley.com/doi/pdf/10.1111/raq.12426).
+Proliferative Gill Disease (PGD) is an emerging problem in salmonid aquaculture, particularly affecting Atlantic salmon (*Salmo salar*) in both freshwater and marine environments [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[5](https://onlinelibrary.wiley.com/doi/pdf/10.1111/raq.12426). It is characterized by proliferative changes in gill tissue and can be associated with various pathogens, including parasites, bacteria, and viruses [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426). PGD leads to significant economic losses due to high mortality rates, impaired respiratory function, and reduced growth performance in farmed salmon [2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426)[5](https://onlinelibrary.wiley.com/doi/pdf/10.1111/raq.12426).
 
 ## Clinical Signs of Proliferative Gill Disease
 
@@ -42,8 +42,8 @@ Proliferative Gill Disease (PGD) is an emerging problem in salmonid aquaculture,
 **Etiology**
 
 - **Causative Agents:** Multiple pathogens can be associated with PGD in salmonids, including:
-    - **Parasites:** Ichthyobodo spp., Neoparamoeba sp. [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426)
-    - **Bacteria:** Flexibacter/Flavobacterium, 'Candidatus Branchiomonas cysticola' [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426)
+    - **Parasites:** *Ichthyobodo* spp., *Neoparamoeba* sp. [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426)
+    - **Bacteria:** *Flexibacter*/*Flavobacterium*, '*Candidatus* Branchiomonas cysticola' [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426)
     - **Viruses:** Salmon gill poxvirus (SGPV) [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[3](https://www.researchgate.net/figure/Salmo-salar-L-Atlantic-salmon-with-proliferative-gill-inflammation-PGI-Haemalum-and_fig2_7385165)
 
 - **Transmission Methods:**
@@ -95,7 +95,7 @@ Proliferative Gill Disease (PGD) is an emerging problem in salmonid aquaculture,
 
 - **Notable Outbreaks:**
     - **Norway (2006):** Discovery of salmon gill poxvirus (SGPV) in Atlantic salmon suffering from PGD in freshwater and marine sites [1](https://pubmed.ncbi.nlm.nih.gov/18521535/).
-    - **Norway and Ireland:** Identification of 'Candidatus Branchiomonas cysticola' as a common agent of epitheliocysts in seawater-farmed Atlantic salmon [2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426).
+    - **Norway and Ireland:** Identification of '*Candidatus* Branchiomonas cysticola' as a common agent of epitheliocysts in seawater-farmed Atlantic salmon [2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426).
     - **Global:** Increasing reports of complex gill disease (CGD) in Atlantic salmon aquaculture [2](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426)[5](https://onlinelibrary.wiley.com/doi/pdf/10.1111/raq.12426).
 
 - **Response Strategies and Outcomes:**
@@ -110,7 +110,7 @@ Proliferative Gill Disease (PGD) is an emerging problem in salmonid aquaculture,
 #### Norway
 
 - **PGD Incidence in Norway:**
-    - Proliferative gill disease (PGD) is an emerging problem in Norwegian culture of Atlantic salmon (Salmo salar) [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[8](https://link.springer.com/article/10.1007/s00705-008-0117-7).
+    - Proliferative gill disease (PGD) is an emerging problem in Norwegian culture of Atlantic salmon (*Salmo salar*) [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[8](https://link.springer.com/article/10.1007/s00705-008-0117-7).
     - A new poxvirus, salmon gill poxvirus (SGPV), was discovered on the gills of salmon suffering from PGD in fresh water in northern Norway in 2006 [1](https://pubmed.ncbi.nlm.nih.gov/18521535/)[8](https://link.springer.com/article/10.1007/s00705-008-0117-7).
 
 - **Geographical Spread:**
@@ -130,7 +130,7 @@ Proliferative Gill Disease (PGD) is an emerging problem in salmonid aquaculture,
 
 Recent studies on Proliferative Gill Disease in salmonids have focused on various aspects of the disease, including its etiology, pathogenesis, and diagnosis. Here are some notable recent research findings:
 
-1. **"Morphogenesis of salmonid gill poxvirus associated with proliferative gill disease in farmed Atlantic salmon (Salmo salar L.)"**  
+1. **"Morphogenesis of salmonid gill poxvirus associated with proliferative gill disease in farmed Atlantic salmon (*Salmo salar* L.)"**  
     Authors: Nylund A, Watanabe K, Nylund S, Karlsen M, Sæther PA, Arnesen CE, Karlsbakk E  
     Reference: Archives of Virology, 2008  
     [Link to study](https://pubmed.ncbi.nlm.nih.gov/18521535/)
@@ -138,11 +138,11 @@ Recent studies on Proliferative Gill Disease in salmonids have focused on variou
     Authors: Gjessing, M.C., et al.  
     Reference: Gjessing, M.C., et al. (2019). PLoS ONE, 14(10), e0222926.
     [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6776330/)
-3. **"A cohort study of gill infections, gill pathology and gill‐related mortality in sea‐farmed Atlantic salmon (Salmo salar L.): A descriptive analysis"**  
+3. **"A cohort study of gill infections, gill pathology and gill‐related mortality in sea‐farmed Atlantic salmon (*Salmo salar* L.): A descriptive analysis"**  
     Authors: Østevik L, Stormoen M, Hellberg H, Kraugerud M, Manji F, Lie K‐I, Nødtvedt A, Rodger H, Alarcón M  
     Reference: Journal of Fish Diseases, 2022  
     [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9543555/)
-4. **"Epidemiology of marine gill diseases in Atlantic salmon (Salmo salar) aquaculture: a review"**  
+4. **"Epidemiology of marine gill diseases in Atlantic salmon (*Salmo salar*) aquaculture: a review"**  
     Authors: Boerlage AS, Ashby A, Herrero A, Reeves A, Gunn GJ, Rodger HD  
     Reference: Reviews in Aquaculture, 2020  
     [Link to study](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426)
@@ -158,11 +158,11 @@ These studies represent advancements in understanding the etiology, pathogenesis
 
 Recent studies on Proliferative Gill Disease in salmonids have focused on various aspects of the disease:
 
-2. **"A cohort study of gill infections, gill pathology and gill‐related mortality in sea‐farmed Atlantic salmon (Salmo salar L.): A descriptive analysis"**  
+2. **"A cohort study of gill infections, gill pathology and gill‐related mortality in sea‐farmed Atlantic salmon (*Salmo salar* L.): A descriptive analysis"**  
     Authors: Østevik L, Stormoen M, Hellberg H, Kraugerud M, Manji F, Lie K‐I, Nødtvedt A, Rodger H, Alarcón M  
     Reference: Journal of Fish Diseases, 2022  
     [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9543555/)
-3. **"Epidemiology of marine gill diseases in Atlantic salmon (Salmo salar) aquaculture: a review"**  
+3. **"Epidemiology of marine gill diseases in Atlantic salmon (*Salmo salar*) aquaculture: a review"**  
     Authors: Boerlage AS, Ashby A, Herrero A, Reeves A, Gunn GJ, Rodger HD  
     Reference: Reviews in Aquaculture, 2020  
     [Link to study](https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426)

@@ -174,13 +174,13 @@ Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium 
 #### Norway
 
 - **Yersiniosis Incidence in Norway:**
-    - The number of detections of Yersinia ruckeri, which causes yersiniosis, continued to increase in 2023  [20](https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168).
+    - The number of detections of *Yersinia ruckeri*, which causes yersiniosis, continued to increase in 2023  [20](https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168).
     - A high and increasing number of requested doses of injection vaccine against yersiniosis indicates significant problems with the disease [20](https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168).
     - In Norway, all marine Atlantic salmon outbreaks have been caused by a single clonal complex (CC1) of serotype O1, which is critical to consider when determining vaccination strategy [7](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/),  [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
 
 - **Geographical Spread:**
-    - Yersinia ruckeri clonal complex 1 (CC1) was found responsible for all major yersiniosis outbreaks diagnosed in Norwegian salmon farming  [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
-    - Putatively avirulent Y. ruckeri strains were confirmed to be widespread in freshwater salmon hatcheries [21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9545435/)
+    - *Yersinia ruckeri* clonal complex 1 (CC1) was found responsible for all major yersiniosis outbreaks diagnosed in Norwegian salmon farming  [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
+    - Putatively avirulent *Y. ruckeri* strains were confirmed to be widespread in freshwater salmon hatcheries [21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9545435/)
     - Mid-Norway appears to be the main geographical reservoir, with the strain spreading to and from this region through movement of infected fish [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
 
 - **Economic Impact:**
@@ -261,19 +261,19 @@ Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium 
 
 Recent studies on Yersiniosis in salmonids have focused on various aspects of the disease, including its detection, spread, and control. Here are some notable recent research findings:
 
-1. **"qPCR screening for Yersinia ruckeri clonal complex 1 against a background of diverse genetic variants in Norwegian aquaculture environments"**  
+1. **"qPCR screening for *Yersinia ruckeri* clonal complex 1 against a background of diverse genetic variants in Norwegian aquaculture environments"**  
     Authors: Gulla, S., et al.  
-    Reference: Gulla, S., et al. (2022). qPCR screening for Yersinia ruckeri clonal complex 1 against a background of diverse genetic variants in Norwegian aquaculture environments. Journal of Fish Diseases, 45(11), 1669-1681.  
+    Reference: Gulla, S., et al. (2022). qPCR screening for *Yersinia ruckeri* clonal complex 1 against a background of diverse genetic variants in Norwegian aquaculture environments. Journal of Fish Diseases, 45(11), 1669-1681.  
     [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9545435/)
 2. **"Immunomodulatory effects of dietary methionine supplementation in rainbow trout (*Oncorhynchus mykiss*) juveniles: insights following vaccination and infection response against *Yersinia ruckeri*"**  
-    Reference: Carvalho I, Schoninger FB, Cunha A, Peixoto D, Brito F, Simões L, Vaz M, Stensballe A, Ferreira I, Santos P, Tafalla C, Machado M and Costas B (2025) Immunomodulatory effects of dietary methionine supplementation in rainbow trout (Oncorhynchus mykiss) juveniles: insights following vaccination and infection response against Yersinia ruckeri. Front. Immunol. 16:1706922. doi: 10.3389/fimmu.2025.1706922  
+    Reference: Carvalho I, Schoninger FB, Cunha A, Peixoto D, Brito F, Simões L, Vaz M, Stensballe A, Ferreira I, Santos P, Tafalla C, Machado M and Costas B (2025) Immunomodulatory effects of dietary methionine supplementation in rainbow trout (*Oncorhynchus mykiss*) juveniles: insights following vaccination and infection response against *Yersinia ruckeri*. Front. Immunol. 16:1706922. doi: 10.3389/fimmu.2025.1706922  
     [Link to article](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1706922/full) 
     Key Finding: Nutritional strategies must be considered alongside vaccination status.
 3. **"Exploring *Yersinia ruckeri* (O1 Biotype 2) infection in three early life-stages of rainbow trout"**  
-    Reference: Waine A, Katsiadaki I, Sebire M, Tidbury H (2023) Exploring Yersinia ruckeri (O1 Biotype 2) infection in three early life-stages of rainbow trout. Dis Aquat Org 155:7-19 https://doi.org/10.3354/dao03737
+    Reference: Waine A, Katsiadaki I, Sebire M, Tidbury H (2023) Exploring *Yersinia ruckeri* (O1 Biotype 2) infection in three early life-stages of rainbow trout. Dis Aquat Org 155:7-19 https://doi.org/10.3354/dao03737
     [Link to article](https://www.int-res.com/journals/dao/articles/dao03737)
 4. **"Isolation and characterization of novel *Yersinia ruckeri* bacteriophages for potential use in aquaculture"**  
-    Reference: Altinok, I., Ture, M., Ustaoglu, D., Cebeci, A., Öztürk, R. Ç., Aygür, E., & Kaygusuz, Ö. (2025). Isolation and characterization of novel Yersinia ruckeri bacteriophages for potential use in aquaculture. *Aquaculture*, 743219..  
+    Reference: Altinok, I., Ture, M., Ustaoglu, D., Cebeci, A., Öztürk, R. Ç., Aygür, E., & Kaygusuz, Ö. (2025). Isolation and characterization of novel *Yersinia ruckeri* bacteriophages for potential use in aquaculture. *Aquaculture*, 743219..  
     [Link to article](https://www.sciencedirect.com/science/article/abs/pii/S0044848625011056)
 
 These studies represent advancements in understanding the detection, alternative treatments, nutritional management, and early-life disease susceptibility. They highlight the ongoing challenges posed by the disease and the efforts being made to manage it.
@@ -303,49 +303,49 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [2] Norwegian Veterinærinstituttet. Published May 2025 by Snorre Gulla. Accessed April 2026 (https://www.vetinst.no/en/diseases/yersiniosis-in-fish--yersinia-ruckeri) 
 
-[3] Kumar, G., Menanteau-Ledouble, S., Saleh, M., & El-Matbouli, M. (2015). Yersinia ruckeri, the causative agent of enteric redmouth disease in fish. *Veterinary research*, *46*(1), 103. https://doi.org/10.1186/s13567-015-0238-4 (https://pubmed.ncbi.nlm.nih.gov/26404907/)
+[3] Kumar, G., Menanteau-Ledouble, S., Saleh, M., & El-Matbouli, M. (2015). *Yersinia ruckeri*, the causative agent of enteric redmouth disease in fish. *Veterinary research*, *46*(1), 103. https://doi.org/10.1186/s13567-015-0238-4 (https://pubmed.ncbi.nlm.nih.gov/26404907/)
 
  [4] Published February 2018 by Virginia Iglesias (https://thefishsite.com/articles/tackling-enteric-redmouth-disease-erm) Accessed April 2026. 
 
  [5] Fajardo, C., Santos, P., Passos, R., Vaz, M., Azeredo, R., Machado, M., Fernández-Boo, S., Baptista, T., & Costas, B. (2022). Functional and Molecular Immune Response of Rainbow Trout (*Oncorhynchus mykiss*) Following Challenge with *Yersinia ruckeri*. *International Journal of Molecular Sciences*, *23*(6), 3096. https://doi.org/10.3390/ijms23063096(https://www.mdpi.com/1422-0067/23/6/3096)
 
- [6] Wrobel, A., Leo, J. C., & Linke, D. (2019). Overcoming fish defences: the virulence factors of Yersinia ruckeri. *Genes*, *10*(9), 700. (https://www.mdpi.com/2073-4425/10/9/700)
+ [6] Wrobel, A., Leo, J. C., & Linke, D. (2019). Overcoming fish defences: the virulence factors of *Yersinia ruckeri*. *Genes*, *10*(9), 700. (https://www.mdpi.com/2073-4425/10/9/700)
 
 [7] Tingbø, M. G., Matthews, C., & Ness, M. (2025). *Practically speaking: Yersinia ruckeri in the northern hemisphere*. PHARMAQ. [https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/](https://pharmaq.com/en/archive/practically-speaking-yersinia-ruckeri-in-the-northern-hemisphere/)
 
-[8] Sibinga, N. A., & Marquis, H. (2021). Tissue-specific differences in detection of Yersinia ruckeri carrier status in rainbow trout (Oncorhynchus mykiss). Journal of Fish Diseases, 44, 2013–2020. [https://doi.org/10.1111/jfd.13515](https://doi.org/10.1111/jfd.13515) (https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.13515) 
+[8] Sibinga, N. A., & Marquis, H. (2021). Tissue-specific differences in detection of *Yersinia ruckeri* carrier status in rainbow trout (*Oncorhynchus mykiss*). Journal of Fish Diseases, 44, 2013–2020. [https://doi.org/10.1111/jfd.13515](https://doi.org/10.1111/jfd.13515) (https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.13515) 
 
 [9] Zaheen, Z., War, A. F., Ali, S., Yatoo, A. M., Ali, M. N., Ahmad, S. B., ... & Paray, B. A. (2022). Common bacterial infections affecting freshwater fish fauna and impact of pollution and water quality characteristics on bacterial pathogenicity. In *Bacterial fish diseases* (pp. 133-154). Academic Press. https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780323856249000063
 
 [10] Forskningsfondet for fiskeri og akvakultur. (2022) "Yersiniosis: Investigation of increasing incidence in Norwegian farmed salmon in the sea phase" Project Leader: Duncan John Colquhoun (https://www.fhf.no/prosjekter/prosjektbasen/901505/) Accessed April, 2026
 
-[11] Saleh, M., Soliman, H., & El-Matbouli, M. (2008). Loop-mediated isothermal amplification as an emerging technology for detection of Yersinia ruckeri the causative agent of enteric red mouth disease in fish. *BMC Veterinary Research*, *4*(1), 31. (https://link.springer.com/article/10.1186/1746-6148-4-31)
+[11] Saleh, M., Soliman, H., & El-Matbouli, M. (2008). Loop-mediated isothermal amplification as an emerging technology for detection of *Yersinia ruckeri* the causative agent of enteric red mouth disease in fish. *BMC Veterinary Research*, *4*(1), 31. (https://link.springer.com/article/10.1186/1746-6148-4-31)
 
-[12] Abbas, H., Best, N., Zerna, G., & Beddoe, T. (2025). Development of LAMP assay for early detection of Yersinia ruckeri in aquaculture. *PeerJ*, *13*, e19015. (https://peerj.com/articles/19015/)
+[12] Abbas, H., Best, N., Zerna, G., & Beddoe, T. (2025). Development of LAMP assay for early detection of *Yersinia ruckeri* in aquaculture. *PeerJ*, *13*, e19015. (https://peerj.com/articles/19015/)
 
 [13] Ormsby, M. J., Caws, T., Burchmore, R., Wallis, T., Verner-Jeffreys, D. W., & Davies, R. L. (2016). *Yersinia ruckeri* isolates recovered from diseased Atlantic salmon (*Salmo salar*) in Scotland are more diverse than those from rainbow trout (*Oncorhynchus mykiss*) and represent distinct subpopulations. *Applied and Environmental Microbiology, 82*(19), 5785–5794. https://doi.org/10.1128/AEM.01291-16
 
-[14] Welch, T. J., & LaPatra, S. (2016). Yersinia ruckeri lipopolysaccharide is necessary and sufficient for eliciting a protective immune response in rainbow trout (Oncorhynchus mykiss, Walbaum). *Fish & shellfish immunology*, *49*, 420-426. (https://www.sciencedirect.com/science/article/abs/pii/S1050464815302953)
+[14] Welch, T. J., & LaPatra, S. (2016). *Yersinia ruckeri* lipopolysaccharide is necessary and sufficient for eliciting a protective immune response in rainbow trout (*Oncorhynchus mykiss*, Walbaum). *Fish & shellfish immunology*, *49*, 420-426. (https://www.sciencedirect.com/science/article/abs/pii/S1050464815302953)
 
 [15] Malik, M. S., Rebl, A., Burgerhout, E., & Lazado, C. C. (2025). Embryonic temperature influences the mucosal responses of Atlantic salmon alevins to a bacterial challenge. *Marine Biotechnology*, *27*(1), 1. (https://link.springer.com/article/10.1007/s10126-024-10386-w)
 
 [16] Assefa, A., & Abunna, F. (2018). Maintenance of Fish Health in Aquaculture: Review of Epidemiological Approaches for Prevention and Control of Infectious Disease of Fish. *Veterinary medicine international*, *2018*, 5432497. https://doi.org/10.1155/2018/5432497 (https://pmc.ncbi.nlm.nih.gov/articles/PMC5846361/)
 
-[17] Navas, E., Bohle, H., Henríquez, P., Grothusen, H., Bustamante, F., Bustos, P., & Mancilla, M. (2014). Draft Genome Sequence of the Fish Pathogen Yersinia ruckeri Strain 37551, Serotype O1b, Isolated from Diseased, Vaccinated Atlantic Salmon (Salmo salar) in Chile. *Genome announcements*, *2*(4), e00858-14. https://doi.org/10.1128/genomeA.00858-14 (https://pmc.ncbi.nlm.nih.gov/articles/PMC4148730/)
+[17] Navas, E., Bohle, H., Henríquez, P., Grothusen, H., Bustamante, F., Bustos, P., & Mancilla, M. (2014). Draft Genome Sequence of the Fish Pathogen *Yersinia ruckeri* Strain 37551, Serotype O1b, Isolated from Diseased, Vaccinated Atlantic Salmon (*Salmo salar*) in Chile. *Genome announcements*, *2*(4), e00858-14. https://doi.org/10.1128/genomeA.00858-14 (https://pmc.ncbi.nlm.nih.gov/articles/PMC4148730/)
 
 [18] Fuentes, D. E., Acuña, L. G., & Calderón, I. L. (2022). Stress response and virulence factors in bacterial pathogens relevant for Chilean aquaculture: current status and outlook of our knowledge. *Biological research*, *55*(1), 21. https://doi.org/10.1186/s40659-022-00391-5(https://pmc.ncbi.nlm.nih.gov/articles/PMC9153119/)
 
-[19] Yang, Y., Xu, S., He, H., Zhu, X., Liu, Y., Hu, M., Jiang, B., Li, Y., Ai, X., Fu, G., & Zhang, H. (2024). Yersinia ruckeri Infection and Enteric Redmouth Disease among Endangered Chinese Sturgeons, China, 2022. *Emerging infectious diseases*, *30*(6), 1125–1132. https://doi.org/10.3201/eid3006.231354 (https://pmc.ncbi.nlm.nih.gov/articles/PMC11138986/)
+[19] Yang, Y., Xu, S., He, H., Zhu, X., Liu, Y., Hu, M., Jiang, B., Li, Y., Ai, X., Fu, G., & Zhang, H. (2024). *Yersinia ruckeri* Infection and Enteric Redmouth Disease among Endangered Chinese Sturgeons, China, 2022. *Emerging infectious diseases*, *30*(6), 1125–1132. https://doi.org/10.3201/eid3006.231354 (https://pmc.ncbi.nlm.nih.gov/articles/PMC11138986/)
 
 [20] Fish Farming Expert. News Article. By 'Editorial Team' Published March 2024. Norway’s fish health report 2023: what killed nearly 17% of farmed salmon. Accessed April, 2026 https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168
  
-[21] Riborg, A., Gulla, S., Strand, D., Wiik-Nielsen, J., Rønneseth, A., Welch, T. J., Spilsberg, B., & Colquhoun, D. J. (2022). qPCR screening for Yersinia ruckeri clonal complex 1 against a background of putatively avirulent strains in Norwegian aquaculture. *Journal of fish diseases*, *45*(8), 1211–1224. https://doi.org/10.1111/jfd.13656(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9545435/)
+[21] Riborg, A., Gulla, S., Strand, D., Wiik-Nielsen, J., Rønneseth, A., Welch, T. J., Spilsberg, B., & Colquhoun, D. J. (2022). qPCR screening for *Yersinia ruckeri* clonal complex 1 against a background of putatively avirulent strains in Norwegian aquaculture. *Journal of fish diseases*, *45*(8), 1211–1224. https://doi.org/10.1111/jfd.13656(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9545435/)
 
 [22] Wade, J. (2019). *Characterization of Yersinia ruckeri and enteric redmouth disease (ERM) to inform pathogen transfer risk assessments in British Columbia*. Canadian Science Advisory Secretariat. (https://waves-vagues.dfo-mpo.gc.ca/Library/40853032.pdf)
 
  [23] Mesías, F. V., Vargas, M. L., Cueva, A., Manchego, A., & Sandoval, N. (2019). Patogenicidad de una cepa de *Yersinia ruckeri* de un brote de yersiniosis en truchas arcoíris (*Oncorhynchus mykiss*) de Huaraz, Perú. *Revista de Investigaciones Veterinarias del Perú, 30*(1), 387–403. https://doi.org/10.15381/rivep.v30i1.15695 (https://www.researchgate.net/profile/Fernando-Mesias-Valle-2/publication/331543311_Pathogenicity_of_a_Yersinia_ruckeri_strain_from_an_outbreak_of_yersiniosis_in_rainbow_trout_Oncorhynchus_mykiss_from_Huaraz_Peru/links/5c7f319d92851c695058c51b/Pathogenicity-of-a-Yersinia-ruckeri-strain-from-an-outbreak-of-yersiniosis-in-rainbow-trout-Oncorhynchus-mykiss-from-Huaraz-Peru.pdf)
 
- [24] Bastardo, A., Sierralta, V., León, J., Ravelo, C., & Romalde, J. L. (2011). Phenotypical and genetic characterization of Yersinia ruckeri strains isolated from recent outbreaks in farmed rainbow trout Oncorhynchus mykiss (Walbaum) in Peru. *Aquaculture*, *317*(1-4), 229-232. (https://www.sciencedirect.com/science/article/abs/pii/S0044848611002754) 
+ [24] Bastardo, A., Sierralta, V., León, J., Ravelo, C., & Romalde, J. L. (2011). Phenotypical and genetic characterization of *Yersinia ruckeri* strains isolated from recent outbreaks in farmed rainbow trout *Oncorhynchus mykiss* (Walbaum) in Peru. *Aquaculture*, *317*(1-4), 229-232. (https://www.sciencedirect.com/science/article/abs/pii/S0044848611002754) 
 
 [25] Akvademiet. (n.d.). *Yersiniose*. DNV GI AS. Accessed September 12, 2026. [https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/yersiniose/)
 

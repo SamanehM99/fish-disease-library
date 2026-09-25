@@ -15,7 +15,7 @@ tags:
 ## Overview
 
 ### What is HSMI?
-Heart and Skeletal Muscle Inflammation (HSMI) is a significant viral disease affecting farmed Atlantic salmon (Salmo salar). It is caused by the Piscine orthoreovirus (PRV), leading to severe inflammation of the heart and skeletal muscles. First detected in Norway in 1999, HSMI has since been reported in other major salmon farming regions, including Scotland and Canada, causing substantial economic losses. HSMI primarily affects Atlantic salmon but has also been observed in other salmonid species, including rainbow trout (Oncorhynchus mykiss) and coho salmon (Oncorhynchus kisutch) [1](https://www.int-res.com/articles/dao2004/59/d059p217.pdf)[2](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
+Heart and Skeletal Muscle Inflammation (HSMI) is a significant viral disease affecting farmed Atlantic salmon (*Salmo salar*). It is caused by the Piscine orthoreovirus (PRV), leading to severe inflammation of the heart and skeletal muscles. First detected in Norway in 1999, HSMI has since been reported in other major salmon farming regions, including Scotland and Canada, causing substantial economic losses. HSMI primarily affects Atlantic salmon but has also been observed in other salmonid species, including rainbow trout (*Oncorhynchus mykiss*) and coho salmon (*Oncorhynchus kisutch*) [1](https://www.int-res.com/articles/dao2004/59/d059p217.pdf)[2](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
 
 ## Clinical Signs of Heart and Skeletal Muscle Inflammation
 
@@ -130,11 +130,11 @@ Heart and Skeletal Muscle Inflammation (HSMI) is a significant viral disease aff
 
 ### Latest Research Findings
 
-1. **"Piscine orthoreovirus (PRV) replicates in Atlantic salmon (Salmo salar L.) erythrocytes ex vivo"**  
+1. **"Piscine orthoreovirus (PRV) replicates in Atlantic salmon (*Salmo salar* L.) erythrocytes ex vivo"**  
     Authors: Wessel, Ø., et al.  
     Reference: Wessel, Ø., et al. (2015). Veterinary Research, 46(1), 26.  
     [Link to study](https://veterinaryresearch.biomedcentral.com/articles/10.1186/s13567-015-0154-7)
-2. **"Experimental transmission of heart and skeletal muscle inflammation (HSMI) in Atlantic salmon Salmo salar"**  
+2. **"Experimental transmission of heart and skeletal muscle inflammation (HSMI) in Atlantic salmon *Salmo salar*"**  
     Authors: Kongtorp, R. T., et al.  
     Reference: Kongtorp, R. T., et al. (2004). Diseases of Aquatic Organisms, 59(2), 105-112.  
     [Link to study](https://www.int-res.com/abstracts/dao/v59/n2/p105-112/)

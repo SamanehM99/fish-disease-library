@@ -15,11 +15,11 @@ tags:
 ---
 ## Overview
 
-### What is Moritella viscosa?
+### What is *Moritella viscosa*?
 *Moritella viscosa* is a bacterium that is the primary cause of [[Winter Wounds]], a condition characterized by severe bacterial ulcers. This is one of the most critical health and welfare challenges in Norwegian salmonid farming [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). The bacterium is typically found in cold seawater, making it prevalent in aquaculture regions such as Norway, Scotland, and Canada, and can result in significant animal welfare issues and economic losses due to decreased fish quality, reduced feeding and increased mortality [2](https://www.mdpi.com/2673-9917/3/3/15). The term "Classic winter wounds" is primarily linked to *Moritella viscosa* infection, but in many cases, these bacterial ulcers present as mixed infections where *Moritella viscosa* and *Tenacibaculum spp.* are detected alongside *Aliivibrio wodanis* and various *Vibrio* species [5](https://www.vetinst.no/sykdom-og-agens/vintersar). There are vaccines but due to the number of variants and isolates, there is no complete or consistent protection [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?)
  
 
-## Clinical Signs of Moritella viscosa Infection
+## Clinical Signs of *Moritella viscosa* Infection
 
 ### Common Signs
 
@@ -47,7 +47,7 @@ tags:
 
 - **Impact on Fish Health:** *Moritella viscosa* infections severely compromise the skin barrier, leading to stress, reduced growth rates, and higher susceptibility to other diseases [7](https://www.nature.com/articles/s41598-022-08341-7).
 
-### Causes of Moritella viscosa Infection
+### Causes of *Moritella viscosa* Infection
 
 **Etiology**
 
@@ -146,7 +146,7 @@ tags:
 
 #### Canada
 
-- **Moritella Viscosa Incidence in Canada:**
+- ***Moritella viscosa* Incidence in Canada:**
     
     - *Moritella viscosa* has been identified as causing winter ulcer in Atlantic Salmon farms in British Columbia (BC ) [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [2](https://www.mdpi.com/2673-9917/3/3/15) 
 
@@ -161,13 +161,13 @@ tags:
     - Vaccination has decreased antibiotic usage, though they are still a viable treatment option [32](https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/legislation-guidelines/policies/list-veterinary-drugs-that-authorized-sale-health-canada-use-food-producing-aquatic-animals.html) 
 #### Faroe Isles
 
-- **Moritella Viscosa Incidence in Faroe Isles:**
+- ***Moritella viscosa* Incidence in Faroe Isles:**
     
     -  *Moritella viscosa* isolates consistent with the type strain have been found in Atlantic salmon farmed in the Faroe Isles [11](https://pubmed.ncbi.nlm.nih.gov/21290896/).
     - No data currently available for economic impact, diagnosis and management data. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
 #### Norway
 
-- **Moritella Viscosa Incidence in Norway:**
+- ***Moritella viscosa* Incidence in Norway:**
     
     - Outbreaks occur across the entire Norwegian coastline every year since 1990 [10](https://pubmed.ncbi.nlm.nih.gov/36787245/). In 2024, [[Winter Wounds|Winter ulcer disease]] was detected on 336 salmon farming sites (similar to 2023). *Moritella viscosa* specifically was detected on 289 sites and 112 sites had mixed *M. Viscosa* and *Tenacibaculum spp* infections [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). In comparison in 2009 the bacterium was registered on 36 sites [33](https://www.sciencedirect.com/science/article/abs/pii/S0044848611001347)
     - In 2025, *M. viscosa* was ranked by fish health personnel as the fifth most important cause of mortality [37](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)
@@ -184,11 +184,11 @@ tags:
     - Managed by vaccinating smolts before sea transfer, reducing handling and being as careful as possible, functional feeds to bolster skin barrier, removal of infected fish [21](https://www.kyst.no/article/var-noedt-til-aa-noedt-til-aa-destruere-all-fisken-i-en-merd/)
 #### Scotland
 
-- **Moritella Viscosa Incidence in Scotland:**
+- ***Moritella viscosa* Incidence in Scotland:**
     
     - *Moritella viscosa* has been isolated from Atlantic salmon farmed in Scotland [28](https://pubmed.ncbi.nlm.nih.gov/9891731/) [29](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/moritella-viscosa/)
     - Over the last decade, the Scottish landscape has transitioned  from "classical" viscous strains to "variant" and "non-viscous classical" strains, which are now the primary drivers of outbreaks [38](https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890).
-    - Official Scottish sources do not publish regular, aggregated  incidence counts for M. viscosa the way Norway’s Veterinary Institute does for Norwegian farms.
+    - Official Scottish sources do not publish regular, aggregated  incidence counts for *M. viscosa* the way Norway’s Veterinary Institute does for Norwegian farms.
 
 - **Economic Impact:**
     - No data currently available for economic impact, diagnosis and management data. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
@@ -200,11 +200,11 @@ tags:
 ## Research and References
 ### Latest Research Findings
 
-1. **"Expression Analysis of Moritella viscosa-Challenged Atlantic Salmon"**  
+1. **"Expression Analysis of *Moritella viscosa*-Challenged Atlantic Salmon"**  
     Authors: Sigmund R, Krasnov A, Colquhoun D, Wallace C, Andreassen R
     Reference: Published in NCBI PMC, 2022  
     [Link to Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9569996/)
-2. **"New vaccination strategies are required for effective control of winter ulcer disease caused by emerging variant strains of Moritella viscosa in Atlantic salmon"**  
+2. **"New vaccination strategies are required for effective control of winter ulcer disease caused by emerging variant strains of *Moritella viscosa* in Atlantic salmon"**  
     Authors: Furevik, A., Tunheim, S. H., Heen, V., Klevan, A., Knutsen, L. E., Tandberg, J. I., & Tingbo, M. G.  
     Reference: Published in Diseases of Aquatic Organisms, 2023  
 	[Link to Study](https://pubmed.ncbi.nlm.nih.gov/37141956/)
@@ -212,7 +212,7 @@ tags:
    Authors: Striberny, A., Lysne, H., Mikkelsen, H., Teien, H. C., Kristensen, T., Rosseland, B. O., & Toften, H. 
     Reference: Journal of Fish Biology , 2025  
 	[Link to Study](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfb.70115)
-4. **"Antagonistic Mechanisms of Probiotic Aliivibrio sp. Strain Vl2 Against Moritella viscosa: Evidence from Co-cultivation and Targeted Transcriptomic Analysis"**  
+4. **"Antagonistic Mechanisms of Probiotic *Aliivibrio* sp. Strain Vl2 Against *Moritella viscosa*: Evidence from Co-cultivation and Targeted Transcriptomic Analysis"**  
     Authors: Steen Dobloug, M., Iakhno, S., Foyn Nørstebø, S., & Sørum, H.  
     Reference: Probiotics and Antimicrobial Proteins, 2025  
     [Link to Study](https://previwo.com/publikasjoner/)
@@ -229,7 +229,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Title:** Moritella viscosa
+**Title:** *Moritella viscosa*
 **Date:** 2026-04-11
 **Tags:** #MoritellaViscosa, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Scotland, #Canada, #FaroeIslands,  #BacterialDiseases, #Bacteria, #WinterWounds 
 
@@ -255,23 +255,23 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [7] Eslamloo, K., Kumar, S., Xue, X., & Rise, M. L. (2022). Global gene expression responses of Atlantic salmon skin to *Moritella viscosa*. *Scientific Reports, 12*, Article 4622. [https://doi.org/10.1038/s41598-022-08341-7](https://doi.org/10.1038/s41598-022-08341-7)
 
-[8] Hoffman, J., Bøgwald, J., Andersson, R., & Kenne, L. (2012). Structural studies of the lipopolysaccharide of Moritella viscosa strain M2-226. *Carbohydrate Research*, *347*(1), 164-167.. [https://www.sciencedirect.com/science/article/abs/pii/S0008621511005271](https://www.sciencedirect.com/science/article/abs/pii/S0008621511005271)
+[8] Hoffman, J., Bøgwald, J., Andersson, R., & Kenne, L. (2012). Structural studies of the lipopolysaccharide of *Moritella viscosa* strain M2-226. *Carbohydrate Research*, *347*(1), 164-167.. [https://www.sciencedirect.com/science/article/abs/pii/S0008621511005271](https://www.sciencedirect.com/science/article/abs/pii/S0008621511005271)
 
-[9] Løvoll, M., Wiik-Nielsen, C. R., Tunsjø, H. S., Colquhoun, D., Lunder, T., Sørum, H., & Grove, S. (2009). Atlantic salmon bath challenged with Moritella viscosa–pathogen invasion and host response. *Fish & shellfish immunology*, *26*(6), 877-884. [https://www.sciencedirect.com/science/article/abs/pii/S1050464809001016](https://www.sciencedirect.com/science/article/abs/pii/S1050464809001016)
+[9] Løvoll, M., Wiik-Nielsen, C. R., Tunsjø, H. S., Colquhoun, D., Lunder, T., Sørum, H., & Grove, S. (2009). Atlantic salmon bath challenged with *Moritella viscosa*–pathogen invasion and host response. *Fish & shellfish immunology*, *26*(6), 877-884. [https://www.sciencedirect.com/science/article/abs/pii/S1050464809001016](https://www.sciencedirect.com/science/article/abs/pii/S1050464809001016)
 
-[10] Sørgaard, M., Sveinsson, K., Patel, S., Nilsen, H. K., Olsen, A. B., Vaagnes, Ø., ... & Gulla, S. (2023). MLVA genotyping of Moritella viscosa reveals serial emergence of novel, host‐specific clonal complexes in Norwegian salmon farming. *Journal of Fish Diseases*, *46*(5), 535-543.[https://doi.org/10.1111/jfd.13766](https://doi.org/10.1111/jfd.13766)
+[10] Sørgaard, M., Sveinsson, K., Patel, S., Nilsen, H. K., Olsen, A. B., Vaagnes, Ø., ... & Gulla, S. (2023). MLVA genotyping of *Moritella viscosa* reveals serial emergence of novel, host‐specific clonal complexes in Norwegian salmon farming. *Journal of Fish Diseases*, *46*(5), 535-543.[https://doi.org/10.1111/jfd.13766](https://doi.org/10.1111/jfd.13766)
 
 [11] Grove, S., Reitan, L. J., Lunder, T., & Colquhoun, D. (2010). Previously unrecognised division within *Moritella viscosa* isolated from fish farmed in the North Atlantic. *Diseases of Aquatic Organisms, 93*(1), 51–61. [https://doi.org/10.3354/dao02271](https://doi.org/10.3354/dao02271)
 
 [12] National Center for Biotechnology Information. (n.d.). *Moritella viscosa* (taxid: 80854). NCBI Taxonomy Browser. Retrieved January 29, 2026, from [https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=80854](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=80854)
 
-[13] Gudmundsdóttir, B. K., Björnsdóttir, B., Gudmundsdóttir, S., & Bambir, S. H. (2006). A comparative study of susceptibility and induced pathology of cod, Gadus morhua (L.), and halibut, Hippoglossus hippoglossus (L.), following experimental infection with Moritella viscosa. *Journal of Fish Diseases*, *29*(8), 481-487. [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2761.2006.00741.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2761.2006.00741.x)
+[13] Gudmundsdóttir, B. K., Björnsdóttir, B., Gudmundsdóttir, S., & Bambir, S. H. (2006). A comparative study of susceptibility and induced pathology of cod, *Gadus morhua* (L.), and halibut, *Hippoglossus hippoglossus* (L.), following experimental infection with *Moritella viscosa*. *Journal of Fish Diseases*, *29*(8), 481-487. [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2761.2006.00741.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2761.2006.00741.x)
 
-[14] Björnsdóttir, B., Gudmundsdóttir, S., Bambir, S. H., Magnadóttir, B., & Gudmundsdóttir, B. K. (2004). Experimental infection of turbot, Scophthalmus maximus (L.), by Moritella viscosa, vaccination effort and vaccine‐induced side‐effects. *Journal of Fish Diseases*, *27*(11), 645-655.[https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2761.2004.00579.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2761.2004.00579.x)
+[14] Björnsdóttir, B., Gudmundsdóttir, S., Bambir, S. H., Magnadóttir, B., & Gudmundsdóttir, B. K. (2004). Experimental infection of turbot, *Scophthalmus maximus* (L.), by *Moritella viscosa*, vaccination effort and vaccine‐induced side‐effects. *Journal of Fish Diseases*, *27*(11), 645-655.[https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2761.2004.00579.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2761.2004.00579.x)
 
 [15] Gulla, S., Colquhoun, D., & Grove, S. (2018). *Moritella viscosa* in lumpfish (*Cyclopterus lumpus*) and Atlantic salmon (*Salmo salar*). *Journal of Fish Diseases, 41*(5), 869–873. [https://doi.org/10.1111/jfd.12884](https://doi.org/10.1111/jfd.12884)
 
-[16] Wade, J. and Weber, L. 2020. Characterization of Moritella viscosa and winter ulcer to inform pathogen transfer risk assessments in British Columbia. DFO Can. Sci. Advis. Sec. Res. Doc. 2020/060. vi + 23 p.. [https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf)
+[16] Wade, J. and Weber, L. 2020. Characterization of *Moritella viscosa* and winter ulcer to inform pathogen transfer risk assessments in British Columbia. DFO Can. Sci. Advis. Sec. Res. Doc. 2020/060. vi + 23 p.. [https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf)
 
 [17] PHARMAQ. (n.d.). Karakterisering av *Moritella viscosa*. Accessed Jan 2026.[https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa)
 
@@ -279,7 +279,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [19] Fish Farming Expert. by Editors. Published 15 June 2021. Phage product launched to tackle winter ulcers. Accessed Jan 2026. [https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820)
 
-[20] Tunsjø, H. S., Paulsen, S. M., Mikkelsen, H., L'Abée-Lund, T. M., Skjerve, E., & Sørum, H. (2007). Adaptive response to environmental changes in the fish pathogen Moritella viscosa. *Research in Microbiology*, *158*(3), 244-250.[https://www.sciencedirect.com/science/article/pii/S0923250807000125](https://www.sciencedirect.com/science/article/pii/S0923250807000125)
+[20] Tunsjø, H. S., Paulsen, S. M., Mikkelsen, H., L'Abée-Lund, T. M., Skjerve, E., & Sørum, H. (2007). Adaptive response to environmental changes in the fish pathogen *Moritella viscosa*. *Research in Microbiology*, *158*(3), 244-250.[https://www.sciencedirect.com/science/article/pii/S0923250807000125](https://www.sciencedirect.com/science/article/pii/S0923250807000125)
 
 [21] Kyst. Therese Soltveit. Published March 2019. Vi var nødt til å destruere all fisken i en merd. Accessed March 2022. [https://www.kyst.no/vintersar/var-nodt-til-a-destruere-all-fisken-i-en-merd/172937](https://www.kyst.no/vintersar/var-nodt-til-a-destruere-all-fisken-i-en-merd/172937)
 
@@ -289,19 +289,19 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [24] Blue Analytics. Published August 2023. New analysis method enables more targeted prevention of winter ulcers. Accessed Jan 2026. [https://blueanalytics.no/en/new-analysis-method-enables-more-targeted-prevention-of-winter-ulcers/](https://blueanalytics.no/en/new-analysis-method-enables-more-targeted-prevention-of-winter-ulcers/)
 
-[25] Karlsen, C., Ytteborg, E., Furevik, A., Sveen, L., Tunheim, S., Afanasyev, S., ... & Krasnov, A. (2023). Moritella viscosa early infection and transcriptional responses of intraperitoneal vaccinated and unvaccinated Atlantic salmon. *Aquaculture*, *572*, 739531. [https://www.sciencedirect.com/science/article/pii/S0044848623003058](https://www.sciencedirect.com/science/article/pii/S0044848623003058) 
+[25] Karlsen, C., Ytteborg, E., Furevik, A., Sveen, L., Tunheim, S., Afanasyev, S., ... & Krasnov, A. (2023). *Moritella viscosa* early infection and transcriptional responses of intraperitoneal vaccinated and unvaccinated Atlantic salmon. *Aquaculture*, *572*, 739531. [https://www.sciencedirect.com/science/article/pii/S0044848623003058](https://www.sciencedirect.com/science/article/pii/S0044848623003058) 
 
-[26] Karlsen, C., Thorarinsson, R., Wallace, C., Salonius, K., & Midtlyng, P. J. (2017). Atlantic salmon winter-ulcer disease: Combining mortality and skin ulcer development as clinical efficacy criteria against Moritella viscosa infection. *Aquaculture*, *473*, 538-544.[https://www.sciencedirect.com/science/article/abs/pii/S0044848616308353](https://www.sciencedirect.com/science/article/abs/pii/S0044848616308353) 
+[26] Karlsen, C., Thorarinsson, R., Wallace, C., Salonius, K., & Midtlyng, P. J. (2017). Atlantic salmon winter-ulcer disease: Combining mortality and skin ulcer development as clinical efficacy criteria against *Moritella viscosa* infection. *Aquaculture*, *473*, 538-544.[https://www.sciencedirect.com/science/article/abs/pii/S0044848616308353](https://www.sciencedirect.com/science/article/abs/pii/S0044848616308353) 
 
 [27] Vaxxinova. Autogene vaksiner. Accessed Jan 2026. [https://www.vaxxinova.no/tjenester/autogene-vaksiner/](https://www.vaxxinova.no/tjenester/autogene-vaksiner/)
 
-[28] Bruno, D. W., Griffiths, J., Petrie, J., & Hastings, T. S. (1998). Vibrio viscosus in farmed Atlantic salmon *Salmo salar* in Scotland: Field and experimental observations. *Diseases of Aquatic Organisms, 34*(3), 161–166. [https://www.int-res.com/abstracts/dao/v34/dao034161](https://www.int-res.com/abstracts/dao/v34/dao034161)
+[28] Bruno, D. W., Griffiths, J., Petrie, J., & Hastings, T. S. (1998). *Vibrio viscosus* in farmed Atlantic salmon *Salmo salar* in Scotland: Field and experimental observations. *Diseases of Aquatic Organisms, 34*(3), 161–166. [https://www.int-res.com/abstracts/dao/v34/dao034161](https://www.int-res.com/abstracts/dao/v34/dao034161)
 
 [29] Scottish Government. (n.d.). *Moritella viscosa*. Accessed Jan 2026.  [https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/moritella-viscosa/](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/moritella-viscosa/)
 
 [30] Scottish Government. (n.d.). Fish health inspectorate. Accessed Jan 2026.  [https://www.gov.scot/policies/fish-health-inspectorate/](https://www.gov.scot/policies/fish-health-inspectorate/)
 
-[31] Ramberg, S., Krasnov, A., Colquhoun, D., Wallace, C., & Andreassen, R. (2022). Expression analysis of Moritella viscosa-challenged Atlantic salmon identifies disease-responding genes, microRNAs and their predicted target genes and pathways. *International journal of molecular sciences*, *23*(19), 11200.[https://www.mdpi.com/1422-0067/23/19/11200](https://www.mdpi.com/1422-0067/23/19/11200) 
+[31] Ramberg, S., Krasnov, A., Colquhoun, D., Wallace, C., & Andreassen, R. (2022). Expression analysis of *Moritella viscosa*-challenged Atlantic salmon identifies disease-responding genes, microRNAs and their predicted target genes and pathways. *International journal of molecular sciences*, *23*(19), 11200.[https://www.mdpi.com/1422-0067/23/19/11200](https://www.mdpi.com/1422-0067/23/19/11200) 
 
 [32] Health Canada. (n.d.). List of veterinary drugs that are authorized for sale by Health Canada for use in food-producing aquatic animals. Accessed Jan 2026. [https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/legislation-guidelines/policies/list-veterinary-drugs-that-authorized-sale-health-canada-use-food-producing-aquatic-animals.html](https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/legislation-guidelines/policies/list-veterinary-drugs-that-authorized-sale-health-canada-use-food-producing-aquatic-animals.html)
 

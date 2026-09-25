@@ -148,10 +148,10 @@ Nephrocalcinosis is the term for an abnormal accumulation of mineral deposits wi
 Recent studies on Nephrocalcinosis in salmonids have focused on environmental drivers, pathophysiology and diagnostic advances. Here are some notable recent research findings:
 
 1. **"# Nephrocalsinosis and mineral deposition in Atlantic salmon (*Salmo salar* L.) during smoltification under different commercial rearing conditions"**   
-    Reference: Sissener, N. H., Rasmussen, J., Hevroy, E., & Philip, A. J. P. (2026). Nephrocalsinosis and mineral deposition in Atlantic salmon (Salmo salar L.) during smoltification under different commercial rearing conditions. *Aquaculture Reports*, *48*, 103572. 
+    Reference: Sissener, N. H., Rasmussen, J., Hevroy, E., & Philip, A. J. P. (2026). Nephrocalsinosis and mineral deposition in Atlantic salmon (*Salmo salar* L.) during smoltification under different commercial rearing conditions. *Aquaculture Reports*, *48*, 103572. 
     [Link to study](https://www.sciencedirect.com/science/article/pii/S2352513426002127)
-2. **"Radiological detection of nephrocalcinosis in farmed Atlantic salmon Salmo salar L."**  
-    Reference: Klykken, C., Dalum, A. S., Reed, A. K., Attramadal, K., Olsen, R. E., & Boissonnot, L. (2022). Radiological detection of nephrocalcinosis in farmed Atlantic salmon Salmo salar L. *Journal of Fish Diseases*, *45*(12), 1883. 
+2. **"Radiological detection of nephrocalcinosis in farmed Atlantic salmon *Salmo salar* L."**  
+    Reference: Klykken, C., Dalum, A. S., Reed, A. K., Attramadal, K., Olsen, R. E., & Boissonnot, L. (2022). Radiological detection of nephrocalcinosis in farmed Atlantic salmon *Salmo salar* L. *Journal of Fish Diseases*, *45*(12), 1883. 
     [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9804365/)
 
 
@@ -178,31 +178,31 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [2] Chen, C., Wooster, G., Getchell, R., Bowser, P., & Timmons, M. (2001). Nephrocalcinosis in Nile tilapia from a recirculation aquaculture system: A case report. *Journal of Aquatic Animal Health*, 13, 368–372. https://www.cabidigitallibrary.org/doi/full/10.5555/20023010615
 
-[3] Klosterhoff, M. D. C., Virginia Fonseca, P., Sampaio, L. A. N. D., Ramos, L. R. V., Tesser, M. B., & Romano, L. A. (2015). Nephrocalcinosis and kidney stones in Rachycentron canadum. https://eafp.org/download/2015-volume35/issue_4/35-4-138-klosterhoff.pdf
+[3] Klosterhoff, M. D. C., Virginia Fonseca, P., Sampaio, L. A. N. D., Ramos, L. R. V., Tesser, M. B., & Romano, L. A. (2015). Nephrocalcinosis and kidney stones in *Rachycentron canadum*. https://eafp.org/download/2015-volume35/issue_4/35-4-138-klosterhoff.pdf
 
 [4] Minarova, H., Palikova, M., Kopp, R., Maly, O., Mares, J., Mikulikova, I., & Pikula, J. (2023). Nephrocalcinosis in farmed salmonids: diagnostic challenges associated with low performance and sporadic mortality. *Frontiers in veterinary science*, *10*, 1121296. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10157097/
 
 [5] Nofima. "Carbone dioxide a cause of kidney stones in rainbow trout" Updated: June 2025. by Reidun Lilleholt Kraugerud   (https://nofima.com/results/has-documented-cause-of-kidney-stones-in-rainbow-trout/) Accessed May, 2026. 
 
-[6] Klykken, C., Reed, A. K., Dalum, A. S., Olsen, R. E., Moe, M. K., Attramadal, K. J. K., & Boissonnot, L. (2022). Physiological changes observed in farmed Atlantic salmon (Salmo salar L.) with nephrocalcinosis. *Aquaculture*, *554*, 738104. (https://www.sciencedirect.com/science/article/pii/S0044848622002204)
+[6] Klykken, C., Reed, A. K., Dalum, A. S., Olsen, R. E., Moe, M. K., Attramadal, K. J. K., & Boissonnot, L. (2022). Physiological changes observed in farmed Atlantic salmon (*Salmo salar* L.) with nephrocalcinosis. *Aquaculture*, *554*, 738104. (https://www.sciencedirect.com/science/article/pii/S0044848622002204)
 
-[6b] Klykken, C., Dalum, A. S., Reed, A. K., Attramadal, K., Olsen, R. E., & Boissonnot, L. (2022). Radiological detection of nephrocalcinosis in farmed Atlantic salmon Salmo salar L. *Journal of Fish Diseases*, *45*(12), 1883. https://pmc.ncbi.nlm.nih.gov/articles/PMC9804365/
+[6b] Klykken, C., Dalum, A. S., Reed, A. K., Attramadal, K., Olsen, R. E., & Boissonnot, L. (2022). Radiological detection of nephrocalcinosis in farmed Atlantic salmon *Salmo salar* L. *Journal of Fish Diseases*, *45*(12), 1883. https://pmc.ncbi.nlm.nih.gov/articles/PMC9804365/
 
 [7] (FHF) Forskningsfondet for fiskeri og akvakultur. (2024) Project Leader: Arve Nilsen. "Nephrocalcinosis and haemorrhagic smolt syndrome: Causal relationships and opportunities for prevention (STONEHUNT)" (https://www.fhf.no/prosjekter/prosjektbasen/901588/) Accessed May, 2026. 
 
 [8] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. Norwegian Fish Health Report 2024, Norwegian Veterinary Institute Report series 1b/2025, published by the Norwegian Veterinary Institute 2025 (https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/_/attachment/inline/6b11b72c-ee8f-4529-921f-1a3d85dc419e:2d59843d7c1e34e9200669ae47f2974d8ee51b6a/Fish%20Health%20Report%202024.pdf)
 
-[9] Klykken, C., Khan, E., Karlsen, C., Reed, A. K., Attramadal, K. J. K., Olsen, R. E., & Boissonnot, L. (2023). Nephrocalcinosis in juvenile farmed Atlantic Salmon (Salmo salar) may be linked to osmoregulatory stress. Journal of Fish Diseases, 46, 943–956. [https://doi.org/10.1111/jfd.13815](https://doi.org/10.1111/jfd.13815)
+[9] Klykken, C., Khan, E., Karlsen, C., Reed, A. K., Attramadal, K. J. K., Olsen, R. E., & Boissonnot, L. (2023). Nephrocalcinosis in juvenile farmed Atlantic Salmon (*Salmo salar*) may be linked to osmoregulatory stress. Journal of Fish Diseases, 46, 943–956. [https://doi.org/10.1111/jfd.13815](https://doi.org/10.1111/jfd.13815)
 
 [10] Takvam, M., Wood, C.M., Kryvi, H. & Nilsen, T.O. (2023) *"Role of the kidneys in acid-base regulation and ammonia excretion in freshwater and seawater fish: implications for nephrocalcinosis"* *Frontiers in Physiology* DOI: 10.3389/fphys.2023.1226068 (https://www.frontiersin.org/articles/10.3389/fphys.2023.1226068)
 
-[11] Sissener, N. H., Rasmussen, J., Hevroy, E., & Philip, A. J. P. (2026). Nephrocalsinosis and mineral deposition in Atlantic salmon (Salmo salar L.) during smoltification under different commercial rearing conditions. *Aquaculture Reports*, *48*, 103572. https://www.sciencedirect.com/science/article/pii/S2352513426002127
+[11] Sissener, N. H., Rasmussen, J., Hevroy, E., & Philip, A. J. P. (2026). Nephrocalsinosis and mineral deposition in Atlantic salmon (*Salmo salar* L.) during smoltification under different commercial rearing conditions. *Aquaculture Reports*, *48*, 103572. https://www.sciencedirect.com/science/article/pii/S2352513426002127
 
-[12] Béland, K., Rousseau, C., & Lair, S. (2024). Diet-induced nephrocalcinosis in aquarium-raised juvenile spotted wolffish Anarhichas minor. *Diseases of Aquatic Organisms*, *157*, 19-30. https://pubmed.ncbi.nlm.nih.gov/38236079/
+[12] Béland, K., Rousseau, C., & Lair, S. (2024). Diet-induced nephrocalcinosis in aquarium-raised juvenile spotted wolffish *Anarhichas minor*. *Diseases of Aquatic Organisms*, *157*, 19-30. https://pubmed.ncbi.nlm.nih.gov/38236079/
 
 [13] Peter Vilheim Skov. DTU Orbit. Project dates: 2026-2029. Environmental and dietary causes of nephrocalcinosis in salmonid aquaculture. Funded by Independent Research Fund Denmark. https://orbit.dtu.dk/en/projects/environmental-and-dietary-causes-of-nephrocalcinosis-in-salmonid-/ Accessed June, 2026
 
-[14] Dalum, A. S., M.Alarcon, P.Gretarsson, et al. 2026. “Characterisation of Urocystolithiasis in Farmed Atlantic Salmon (Salmo salar L.): Histopathological Features and Pathophysiological Considerations.” Journal of Fish Diseases49, no. 5: e70099. [https://doi.org/10.1111/jfd.70099](https://doi.org/10.1111/jfd.70099).(https://onlinelibrary.wiley.com/doi/10.1111/jfd.70099)
+[14] Dalum, A. S., M.Alarcon, P.Gretarsson, et al. 2026. “Characterisation of Urocystolithiasis in Farmed Atlantic Salmon (*Salmo salar* L.): Histopathological Features and Pathophysiological Considerations.” Journal of Fish Diseases49, no. 5: e70099. [https://doi.org/10.1111/jfd.70099](https://doi.org/10.1111/jfd.70099).(https://onlinelibrary.wiley.com/doi/10.1111/jfd.70099)
 
 [15] GreenFox Marine. (n.d.). *Automatic gender sorting machine for fish* https://greenfoxmarine.no/en/gender-sorting-machine/ Accessed June 2026
 

@@ -72,7 +72,7 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 
 **Differential Diagnosis**
 
-- **Distinguishing AGD from Other Gill Diseases:** It is crucial to differentiate AGD from other gill diseases, such as bacterial gill disease (BGD) and parasitic infections (e.g., Ichthyobodo necator). [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease)
+- **Distinguishing AGD from Other Gill Diseases:** It is crucial to differentiate AGD from other gill diseases, such as bacterial gill disease (BGD) and parasitic infections (e.g., *Ichthyobodo necator*). [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease)
 
 ### Treatment and Prevention
 
@@ -118,7 +118,7 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 	- By 2015-2016, AGD had become established but was not as severe as initially feared [10](https://www.gillhealthinitiative.org/2017sessions)
 
 - **Geographical Spread:**
-	- In 2016, Paramoeba perurans was detected by real-time (RT)-PCR from the county Vest-Agder to Nord-Trøndelag [10](https://www.gillhealthinitiative.org/2017sessions).
+	- In 2016, *Paramoeba perurans* was detected by real-time (RT)-PCR from the county Vest-Agder to Nord-Trøndelag [10](https://www.gillhealthinitiative.org/2017sessions).
 	- Outbreaks of AGD were not detected north of Nord-Trøndelag [10](https://www.gillhealthinitiative.org/2017sessions).
 
 - **Treatment & Management:**
@@ -148,24 +148,24 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 
 Recent studies on Amoebic Gill Disease (AGD) have focused on various aspects of the disease, including its biology, epidemiology, diagnosis, and treatment. Here are some notable recent research findings:
 
-1. **"Amoebic gill disease (AGD) in Atlantic salmon (Salmo salar L.): a complex host-parasite interaction"**  
+1. **"Amoebic gill disease (AGD) in Atlantic salmon (*Salmo salar* L.): a complex host-parasite interaction"**  
     Authors: Marcos-López, M., & Rodger, H. D.  
-    Reference: Marcos-López, M., & Rodger, H. D. (2020). Amoebic gill disease (AGD) in Atlantic salmon (Salmo salar L.): a complex host-parasite interaction. Diseases of Aquatic Organisms, 142, 101-113.  
+    Reference: Marcos-López, M., & Rodger, H. D. (2020). Amoebic gill disease (AGD) in Atlantic salmon (*Salmo salar* L.): a complex host-parasite interaction. Diseases of Aquatic Organisms, 142, 101-113.  
     [Link to study](https://www.int-res.com/abstracts/dao/v142/p101-113/)
     
-2. **"Development and validation of a TaqMan® MGB real-time PCR for the detection of Neoparamoeba perurans, causative agent of amoebic gill disease"**  
+2. **"Development and validation of a TaqMan® MGB real-time PCR for the detection of *Neoparamoeba perurans*, causative agent of amoebic gill disease"**  
     Authors: Downes, J. K., Henshilwood, K., Collins, E. M., Ryan, A., O'Connor, I., Rodger, H. D., MacCarthy, E., & Ruane, N. M.  
-    Reference: Downes, J. K., et al. (2015). Development and validation of a TaqMan® MGB real-time PCR for the detection of Neoparamoeba perurans, causative agent of amoebic gill disease. Journal of Fish Diseases, 38(12), 1085-1095.  
+    Reference: Downes, J. K., et al. (2015). Development and validation of a TaqMan® MGB real-time PCR for the detection of *Neoparamoeba perurans*, causative agent of amoebic gill disease. Journal of Fish Diseases, 38(12), 1085-1095.  
     [Link to study](https://onlinelibrary.wiley.com/doi/10.1111/jfd.12313)
     
-3. **"Transcriptome profiling of the Atlantic salmon (Salmo salar) gill during amoebic gill disease"**  
+3. **"Transcriptome profiling of the Atlantic salmon (*Salmo salar*) gill during amoebic gill disease"**  
     Authors: Benedicenti, O., Secombes, C. J., & Collins, C.  
-    Reference: Benedicenti, O., Secombes, C. J., & Collins, C. (2019). Transcriptome profiling of the Atlantic salmon (Salmo salar) gill during amoebic gill disease. Frontiers in Immunology, 10, 2218.  
+    Reference: Benedicenti, O., Secombes, C. J., & Collins, C. (2019). Transcriptome profiling of the Atlantic salmon (*Salmo salar*) gill during amoebic gill disease. Frontiers in Immunology, 10, 2218.  
     [Link to study](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02218/full)
     
-4. **"The effect of temperature on Neoparamoeba perurans growth and survival"**  
+4. **"The effect of temperature on *Neoparamoeba perurans* growth and survival"**  
     Authors: Collins, C., Hall, M., Bruno, D., Sokolowska, J., Duncan, L., Yuecel, R., McCarthy, U., Fordyce, M. J., Pert, C. C., McIntosh, R., & MacKenzie, K.  
-    Reference: Collins, C., et al. (2017). The effect of temperature on Neoparamoeba perurans growth and survival. Journal of Fish Diseases, 40(9), 1213-1223.  
+    Reference: Collins, C., et al. (2017). The effect of temperature on *Neoparamoeba perurans* growth and survival. Journal of Fish Diseases, 40(9), 1213-1223.  
     [Link to study](https://onlinelibrary.wiley.com/doi/10.1111/jfd.12595)
     
 5. **"Hydrogen peroxide treatment in Atlantic salmon induces stress and detoxification response in the absence of any impact on growth or amoebic gill disease challenge"**  

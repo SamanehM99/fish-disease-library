@@ -148,7 +148,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 - **Farm Management Practices:**
     - Reduced stocking densities to decrease stress and transmission [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
     - Site fallowing periods to break the infection cycle [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
-    - Control of sea lice coinfection which overrides vaccine protection. While Caligus infestation levels increased significantly over the years, SRS mortality risk remained constant, suggesting complex interactions [27](https://doi.org/10.1111/jfd.70097) [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
+    - Control of sea lice coinfection which overrides vaccine protection. While *Caligus* infestation levels increased significantly over the years, SRS mortality risk remained constant, suggesting complex interactions [27](https://doi.org/10.1111/jfd.70097) [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
     - Broodstock injection with antibiotics before seawater departure [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
     - Knowledge gaps regarding reservoirs and transmission mechanisms have hindered the development of effective long-term control strategies [31](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose#:~:text=Piscirickettsiose%20er%20en%20alvorlig%20bakteriesykdom%20hos%20laksefisk.%20Sykdommen,og%20Irland%20betyr%20at%20fiskehelsepersonell%20m%C3%A5%20v%C3%A6re%20oppmerksomme.).
 ### Case Studies
@@ -233,7 +233,7 @@ Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine f
     Key findings: SRS mortality risk had a strong seasonal component, with mortalities being significantly higher in the warmer seasons. While *Caligus* infestation levels increased significantly over the years, SRS mortality risk remained constant.
     [DOI: 10.1111/jfd.70097](https://doi.org/10.1111/jfd.70097)
 
-2. **"Cohabitation of Piscirickettsia salmonis genogroups (LF-89 and EM-90): synergistic effect on growth dynamics"**
+2. **"Cohabitation of *Piscirickettsia salmonis* genogroups (LF-89 and EM-90): synergistic effect on growth dynamics"**
     Authors: Gabriela Carril, Hanne C. Winther-Larsen, Marie Løvoll, Henning Sørum.
     Reference: Front. Cell. Infect. Microbiol. 13:1253577.
     Key findings: EM-90 dominates in mixed cultures with LF-89. The luxR gene is exclusive to EM-90, with differential flaA and cheA expression between genogroups.
@@ -252,25 +252,25 @@ Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine f
     DOI: [DOI: 10.3389/fmicb.2025.1711258](https://doi.org/10.3389/fmicb.2025.1711258)
 #### Pathogenomics and Vaccine Development
 
-5. **"Pathogenomic Insights into Piscirickettsia salmonis"**
+5. **"Pathogenomic Insights into *Piscirickettsia salmonis*"**
     Authors: Sk Injamamul Islam, Khandker Shahed, Md Imtiaz Ahamed, Luu Tang Phuc Khang, Won-Kyo Jung, Papungkorn Sangsawad, Nguyen Dinh-Hung, Patima Permpoonpattana, Nguyen Vu Linh. 
     Reference: *Animals* **2025**, *15*(8), 1176.
-    Key findings: Analyzed 80 global P. salmonis strains, identifying 14,564 pan-genome genes with 1,257 core genes. Identified 4 molecular markers (gyrA, dnaK, rpoB, ftsZ). Found that 4 LF-genogroup strains carried antibiotic resistance genes.
+    Key findings: Analyzed 80 global *P. salmonis* strains, identifying 14,564 pan-genome genes with 1,257 core genes. Identified 4 molecular markers (gyrA, dnaK, rpoB, ftsZ). Found that 4 LF-genogroup strains carried antibiotic resistance genes.
     [DOI: 10.3390/ani15081176](https://doi.org/10.3390/ani15081176)
 
-6. **"Piscirickettsia salmonis pathogenicity: using the damage-response framework to look beyond smoke and mirrors"**
+6. **"*Piscirickettsia salmonis* pathogenicity: using the damage-response framework to look beyond smoke and mirrors"**
     Authors: Felipe C. Cabello, Ana Millanao, Henry P. Godfrey. 
     Reference: mBio 16:e03821-24.
     Key findings: Applied damage-response framework to understand host-pathogen interactions in SRS.
     [Link to study](https://journals.asm.org/doi/10.1128/mbio.03821-24)
 
-7. **"Culture conditions shape metabolism and exopolysaccharide production in Piscirickettsia salmonis: implications for vaccine development"**
+7. **"Culture conditions shape metabolism and exopolysaccharide production in *Piscirickettsia salmonis*: implications for vaccine development"**
     Authors: Patricio A. Zelada-Cordero, Claudia Altamirano, Alejandra Arancibia-Diaz, Carla L. Gutiérrez, Norma A. Valdez-Cruz & Mauricio A. Trujillo-Roldán.
     Reference: Aquaculture International, 2025.
     Key findings: Demonstrated how culture conditions affect bacterial characteristics relevant to vaccine antigen production.
     [Link to study](https://link.springer.com/article/10.1007/s10499-025-02265-5)
 
-8. **"The Effect of an Attenuated Live Vaccine against Salmonid Rickettsial Septicaemia in Atlantic Salmon (Salmo salar) Is Highly Dependent on Water Temperature during Immunization"**
+8. **"The Effect of an Attenuated Live Vaccine against Salmonid Rickettsial Septicaemia in Atlantic Salmon (*Salmo salar*) Is Highly Dependent on Water Temperature during Immunization"**
     Authors: Rolf Hetlelid Olsen, Frode Finne-Fridell, Marianne Bordevik, Anja Nygaard, Binoy Rajan and Marius Karlsen.
     Reference: Vaccines 12(4):416, April 2024.
     Key findings: ALPHA JECT LiVac® SRS vaccine efficacy is temperature-dependent and effective for 15 months at optimal immunization temperature.
@@ -284,13 +284,13 @@ Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine f
     Key findings: Identified a QTL on chromosome 21 explaining 26-97% of genetic variation in SRS resistance. Heritability estimates of 0.31-0.58 on observed/liability scale.
     DOI: [DOI: 10.64898/2025.12.08.689227](https://doi.org/10.64898/2025.12.08.689227)
 
-10. **"GWAS meta-analysis of resistance against Piscirickettsia salmonis in Atlantic salmon"** *(Preprint)*
+10. **"GWAS meta-analysis of resistance against *Piscirickettsia salmonis* in Atlantic salmon"** *(Preprint)*
     Authors: Marín-Nahuelpi R., Garcia B.F., Piña-Elgueda A., et al.
     Reference: bioRxiv, December 2022.
     Key findings: Meta-analysis of 5,839 Atlantic salmon using ~930K SNPs. Identified a QTL on chromosome Ssa02 with 16 candidate genes including SMAD4, ZNRF2, MDC1, and TRIM33L.
     [DOI: 10.1101/2022.12.24.521873](https://doi.org/10.1101/2022.12.24.521873)
 
-11. **"DNA methylation profile during P. salmonis infection"** *(Preprint)*
+11. **"DNA methylation profile during *P. salmonis* infection"** *(Preprint)*
     Authors: Mukiibi R., Peñaloza C., Gutierrez A., Yáñez J.M., Houston R.D., Robledo D.
     Reference: bioRxiv, December 2021.
     Key findings: Identified 911 differentially methylated sites (DMS) at day 3 and 813 DMS at day 9 in head kidney. Affected pathways include actin cytoskeleton, phagocytosis, endocytosis, and PRR signaling.
@@ -310,7 +310,7 @@ Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine f
     Key findings: Comprehensive analysis of antimicrobial use patterns and stewardship in Chilean aquaculture.
     [Link to study](https://www.mdpi.com/2079-6382/14/12/1177)
 
-14. **"Optimization of florfenicol dose against Piscirickettsia salmonis in Salmo salar through PK/PD studies"**
+14. **"Optimization of florfenicol dose against *Piscirickettsia salmonis* in *Salmo salar* through PK/PD studies"**
     Authors: Betty San Martín, Marcela Fresno, Javiera Cornejo , Marcos Godoy, Rolando Ibarra, Roberto Vidal, Marcelo Araneda, Arturo Anadón and Lisette Lapierre.
     Reference: PMC, 2019.
     Key findings: Established optimized florfenicol dosing at 20 mg/kg body weight for 15 days.

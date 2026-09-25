@@ -141,7 +141,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
     
     - **Greece — 13-Year Aquaculture Monitoring (2010–2023):** A comprehensive 13-year monitoring program tracking vibriosis in Greek marine aquaculture characterized 273 bacterial isolates from disease cases originating in eight regions and nine host species. The principal hosts were European seabass (*Dicentrarchus labrax*) and gilthead seabream (*Sparus aurata*). *Vibrio harveyi* was the dominant pathogen, isolated year-round from all host species and throughout all regions, with frequent co-isolation of *Photobacterium damselae* subsp. *damselae* and *V. alginolyticus* during summer. During spring, other species — *V. lentus*, *V. cyclitrophicus*, and *V. gigantis* — were relatively more abundant. Phylogenetic analysis using the *mreB* gene revealed high variability within the collection [3](https://doi.org/10.3390/microorganisms11051197).
     - **Mediterranean Seabream Outbreaks:** A meta-analysis of ten vibriosis outbreaks in both farmed and wild gilthead seabream in the Mediterranean Sea identified *V. alginolyticus* as the most frequently isolated species, followed by *V. harveyi*, *V. splendidus*, *V. anguillarum*, *V. parahaemolyticus*, and *V. tubiashii*. *Vibrio* isolates were most commonly recovered from liver, spleen, and kidney, followed by external lesions, gills, brain, eyes, gut, hepatopancreas, and blood. Interestingly, *V. ichthyoenteri*-like strains were isolated exclusively from asymptomatic individuals [1](https://doi.org/10.3389/fmicb.2022.904815).
-    - **Atlantic Salmon — Novel Vibrio sp. in Canada:** A novel *Vibrio* species (sp. J383), related to *V. splendidus* with 93% genomic identity, was isolated from the internal organs of vaccinated Atlantic salmon showing clinical signs of ulcer disease at cage-sites in the North Atlantic. Infection assays demonstrated low-level mortality when administered intracelomic at 10⁷–10⁸ CFU/dose. Interestingly, disease severity was greatest at 12°C but absent at 16°C, and the pathogen persisted in the bloodstream for at least 8 weeks at cold temperatures, underscoring the threat posed by cold-adapted novel *Vibrio* species in high-latitude aquaculture [11](https://doi.org/10.3390/microorganisms11071736).
+    - **Atlantic Salmon — Novel *Vibrio* sp. in Canada:** A novel *Vibrio* species (sp. J383), related to *V. splendidus* with 93% genomic identity, was isolated from the internal organs of vaccinated Atlantic salmon showing clinical signs of ulcer disease at cage-sites in the North Atlantic. Infection assays demonstrated low-level mortality when administered intracelomic at 10⁷–10⁸ CFU/dose. Interestingly, disease severity was greatest at 12°C but absent at 16°C, and the pathogen persisted in the bloodstream for at least 8 weeks at cold temperatures, underscoring the threat posed by cold-adapted novel *Vibrio* species in high-latitude aquaculture [11](https://doi.org/10.3390/microorganisms11071736).
 - **Lessons Learned:**
     
     - The dominance of *V. harveyi* in Greek aquaculture — where it replaced *V. anguillarum* as the primary pathogen — highlights the need for ongoing, region-specific surveillance rather than reliance on historical assumptions about causative agents [3](https://doi.org/10.3390/microorganisms11051197).
@@ -223,7 +223,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
     Key findings: Comprehensive review of vibriosis ecology, epidemiology, molecular detection, antibiotic resistance trends, and alternative prevention strategies (vaccines, phage therapy, probiotics) using gilthead seabream as a model system. Documents increasing antibiotic resistance among *Vibrionaceae* in the Mediterranean and identifies probiotics as a promising sustainable alternative.  
     [DOI: 10.3389/fmicb.2022.904815](https://doi.org/10.3389/fmicb.2022.904815)
     
-2. **"Pathogenic and Opportunistic Vibrio spp. Associated with Vibriosis Incidences in the Greek Aquaculture: The Role of Vibrio harveyi as the Principal Cause of Vibriosis"**  
+2. **"Pathogenic and Opportunistic *Vibrio* spp. Associated with Vibriosis Incidences in the Greek Aquaculture: The Role of *Vibrio harveyi* as the Principal Cause of Vibriosis"**  
     Authors: Triga, A., Smyrli, M., & Katharios, P.  
     Reference: *Microorganisms*, 2023; *11*(5): 1197.  
     Key findings: 13-year monitoring program characterizing 273 isolates from eight regions and nine hosts. *Vibrio harveyi* emerged as the principal pathogen, prevalent year-round. Seasonal patterns identified, with high diversity during spring and *V. harveyi*/*V. alginolyticus* co-isolations during summer.  
@@ -232,19 +232,19 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 #### Genomics and Pathogenesis
 
-3. **"Multiscale Comparative Pathogenomic Analysis of Vibrio anguillarum Linking Serotype Diversity, Genomic Plasticity and Pathogenicity"**  
+3. **"Multiscale Comparative Pathogenomic Analysis of *Vibrio anguillarum* Linking Serotype Diversity, Genomic Plasticity and Pathogenicity"**  
     Authors: Shahed, K., Chakma, A., Bin Manjur, O. H., & Islam, S. I.  
     Reference: *Journal of Genetic Engineering & Biotechnology*, 2025; *23*: 100522.  
     Key findings: Pan-genomic analysis of 16 *V. anguillarum* strains revealed an open pangenome with 2,038 core and 5,197 cloud genes. Identified 118 pathogenic genomic islands, AMR genes (tetracycline, quinolone, carbapenem), and virulence factors including T6SS components and RTX toxins. O1 serotypes show genetic homogeneity; O2 and O3 show divergence.  
     [DOI: 10.1016/j.jgeb.2025.100522](https://doi.org/10.1016/j.jgeb.2025.100522)
     
-4. **"Characterization of the Vibrio anguillarum VaRyhB Regulon and Role in Pathogenesis"**  
+4. **"Characterization of the *Vibrio anguillarum* VaRyhB Regulon and Role in Pathogenesis"**  
     Authors: Li, Y., Yu, X., Li, P., Li, X., & Wang, L.  
     Reference: *Frontiers in Cellular and Infection Microbiology*, 2025; *14*: 1531176.  
     Key findings: VaRyhB small RNA in *V. anguillarum* regulates iron homeostasis, siderophore production, motility, and oxidative stress responses. Deletion of VaRyhB reduces pathogenicity, identifying this regulatory RNA as a key virulence determinant.  
     [DOI: 10.3389/fcimb.2024.1531176](https://doi.org/10.3389/fcimb.2024.1531176)
     
-5. **"Comparative Genomic Analysis of a Novel Vibrio sp. Isolated from an Ulcer Disease Event in Atlantic Salmon (Salmo salar)"**  
+5. **"Comparative Genomic Analysis of a Novel *Vibrio* sp. Isolated from an Ulcer Disease Event in Atlantic Salmon (*Salmo salar*)"**  
     Authors: Ghasemieshkaftaki, M., Vasquez, I., Eshraghi, A., Gamperl, A. K., & Santander, J.  
     Reference: *Microorganisms*, 2023; *11*(7): 1736.  
     Key findings: Novel *Vibrio* sp. J383, related to *V. splendidus* (93% identity), isolated from vaccinated Atlantic salmon with ulcer disease. Pathogen is cold-adapted (disease at 10–12°C, absent at 16°C) and persists in blood for ≥8 weeks, representing a novel emerging threat in high-latitude aquaculture.  
@@ -253,7 +253,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 #### Diagnostics
 
-6. **"Development of Multiple Real-Time Fluorescent Quantitative PCR for Vibrio Pathogen Detection in Aquaculture"**  
+6. **"Development of Multiple Real-Time Fluorescent Quantitative PCR for *Vibrio* Pathogen Detection in Aquaculture"**  
     Authors: Zhang, B., Qiu, Y., Shi, C., & Zhang, J.  
     Reference: *Veterinary Sciences*, 2025; *12*(4): 327.  
     Key findings: TaqMan probe-based multiplex real-time PCR enables simultaneous detection of *V. anguillarum*, *V. alginolyticus*, *V. harveyi*, and *V. scophthalmi* with 100× greater sensitivity than conventional PCR. Results within one hour, high specificity, and capacity for co-infection detection.  
@@ -268,13 +268,13 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 #### Vaccine Development
 
-8. **"Efficacy of Whole Cell Inactivated Vibrio harveyi Vaccine against Vibriosis in a Marine Red Hybrid Tilapia (Oreochromis niloticus × O. mossambicus) Model"**  
+8. **"Efficacy of Whole Cell Inactivated *Vibrio harveyi* Vaccine against Vibriosis in a Marine Red Hybrid Tilapia (*Oreochromis niloticus* × O. mossambicus) Model"**  
     Authors: Abu Nor, N., Zamri-Saad, M., Md Yasin, I.-S., Salleh, A., Mustaffa-Kamal, F., Matori, M. F., & Azmai, M. N. A.  
     Reference: *Vaccines*, 2020; *8*(4): 734.  
     Key findings: Intraperitoneal vaccination with formalin-killed *V. harveyi* achieved 87% survival post-challenge versus 20% in controls. Significantly elevated serum IgM titers and lysozyme activity confirm stimulation of both innate and adaptive immunity.  
     [DOI: 10.3390/vaccines8040734](https://doi.org/10.3390/vaccines8040734)
     
-9. **"Field Efficacy of a Feed-Based Inactivated Vaccine against Vibriosis in Cage-Cultured Asian Seabass, Lates calcarifer, in Malaysia"**  
+9. **"Field Efficacy of a Feed-Based Inactivated Vaccine against Vibriosis in Cage-Cultured Asian Seabass, *Lates calcarifer*, in Malaysia"**  
     Authors: Amir-Danial, Z., Zamri-Saad, M., Amal, M. N. A., Annas, S., Mohamad, A., Jumria, S., Manchanayake, T., Arbania, A., & Ina-Salwany, M. Y.  
     Reference: *Vaccines*, 2023; *11*(1): 9.  
     Key findings: Oral feed-based inactivated vibriosis vaccine in cage-cultured Asian seabass significantly enhanced innate immune responses, elevated serum/mucosal IgM, and improved growth performance over 16 weeks under field conditions. Survival was 71.3% vaccinated vs. 67.7% unvaccinated.  
@@ -289,7 +289,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 #### Immunology
 
-11. **"Protective IgM-Mediated Immunity against Vibrio anguillarum in Atlantic Cod with Evolutionary Losses of mhc class II and cd4"**  
+11. **"Protective IgM-Mediated Immunity against *Vibrio anguillarum* in Atlantic Cod with Evolutionary Losses of mhc class II and cd4"**  
     Authors: Jonsson, A., López-Porras, A., Nørstebø, S. F., Guslund, N. C., Sørum, H., Qiao, S.-W., & Johansen, F.-E.  
     Reference: *Frontiers in Immunology*, 2025; *16*: 1579541.  
     Key findings: Atlantic cod bath-immunized with formalin-fixed *V. anguillarum* O2a developed protective IgM-mediated immunity without classical CD4 T-cell help. Full protection against O2a challenge; partial protection against O2b. Passive IgM transfer conferred protection in naïve fish. Protective antibodies targeted a proteinase K-sensitive protein antigen rather than LPS.  
@@ -304,7 +304,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 #### Antimicrobial Resistance in LMICs
 
-13. **"Antibiotic Resistance and Pathogenicity of Vibrio Species in Aquaculture: Implications for Fish Health and Food Safety in LMICs"**  
+13. **"Antibiotic Resistance and Pathogenicity of *Vibrio* Species in Aquaculture: Implications for Fish Health and Food Safety in LMICs"**  
     Authors: Hobe, A., Msolo, L., Ebomah, K. E., Jaja, I. F., Oguttu, J. W., & Okoh, A. I.  
     Reference: *Veterinary Medicine and Science*, 2026; *12*: e70877.  
     Key findings: Systematic review of AMR and pathogenicity in *Vibrio* spp. across LMICs (2016–2025 literature). Documents virulence gene profiles (*tdh*, *trh*, *toxR*, *hlyA*, *ctxA*, *ureR*) and AMR genes (*blaTEM*, *blaOXA*, *sul1*, *tetA*, *tetB*, *qnrVC*) in fish and aquaculture environments across Africa (Egypt, South Africa, Nigeria, Tunisia, Burkina Faso, Tanzania) and Asia (China, Bangladesh, India, Thailand). Ampicillin resistance is near-universal; multidrug resistance is increasing. Estimates US$1 billion in annual LMIC losses from AMR-associated vibriosis. Calls for improved molecular surveillance, targeted interventions, and antibiotic stewardship.  
@@ -312,7 +312,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 #### Biocontrol
 
-14. **"Innovative Vibriosis Control in Open Aquaculture: Paratapes undulata as a Sustainable Growth and Resistance Enhancer in Red Tilapia"**  
+14. **"Innovative Vibriosis Control in Open Aquaculture: *Paratapes undulata* as a Sustainable Growth and Resistance Enhancer in Red Tilapia"**  
     Authors: Mowafy, R. E., Megahed, H. M., Abou Khadra, S. H., Bakry, M. A., Moustafa, A. H., & El-Demerdash, A. S.  
     Reference: *Scientific Reports*, 2025; *15*: Article ID not specified.  
     Key findings: *Paratapes undulata* extract significantly improved growth (~284% in infected/treated group) and reduced mortality by 75% in *V. alginolyticus*-infected tilapia. Mechanistically, modulated cytokine balance toward anti-inflammation, enhanced antioxidant capacity, and directly inhibited *Vibrio* virulence. GC-MS and FTIR analyses identified active bioactive compounds.  
@@ -376,7 +376,7 @@ Future research should prioritize: (a) characterization of emerging and novel *
 
 [16] Ina‑Salwany, M. Y., Al‑Saari, N., Mohamad, A., Mursidi, F. A., Mohd‑Aris, A., Amal, M. N. A., Kasai, H., Mino, S., & Sawabe, T. (2019). Vibriosis in fish: A review on disease development and prevention. Journal of Aquatic Animal Health, 31(1), 3–22. [https://doi.org/10.1002/aah.10045](https://doi.org/10.1002/aah.10045) · [Full text](https://pubmed.ncbi.nlm.nih.gov/30246889/)
 
-[17] Hansen, H., Bjelland, A. M., Ronessen, M. C., Robertsen, E., & Willassen, N. (2014). LitR Is a Repressor of syp Genes and Has a Temperature-Sensitive Regulatory Effect on Biofilm Formation and Colony Morphology in Vibrio (Aliivibrio) salmonicida. Applied and Environmental Microbiology, 80, 5530 - 5541. [https://doi.org/10.1128/aem.01239-14](https://doi.org/10.1128/aem.01239-14) [Full text](https://journals.asm.org/doi/10.1128/aem.01239-14)
+[17] Hansen, H., Bjelland, A. M., Ronessen, M. C., Robertsen, E., & Willassen, N. (2014). LitR Is a Repressor of syp Genes and Has a Temperature-Sensitive Regulatory Effect on Biofilm Formation and Colony Morphology in *Vibrio* (*Aliivibrio*) salmonicida. Applied and Environmental Microbiology, 80, 5530 - 5541. [https://doi.org/10.1128/aem.01239-14](https://doi.org/10.1128/aem.01239-14) [Full text](https://journals.asm.org/doi/10.1128/aem.01239-14)
 
 [18] Havbrukslære. (2024). Lær om bakterielle infeksjoner hos fisk. Havbrukslære. https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose
 

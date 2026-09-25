@@ -53,5 +53,5 @@ tail -n +2 "$MAP_FILE" | while IFS=$'\t' read -r current proposed notes; do
 done
 
 echo
-echo "Done. Rows marked SKIP need a manual merge/split/delete pass — see AUDIT.md."
+echo "Done. Rows marked SKIP need a manual merge/split/delete pass — see the notes column in tools/rename-map.tsv."
 echo "Run 'python3 tools/check-links.py' afterwards to confirm no links broke."

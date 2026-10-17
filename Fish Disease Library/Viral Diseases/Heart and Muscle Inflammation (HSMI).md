@@ -36,11 +36,13 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 
 **Progression of Symptoms**
 
-- **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy.
+- **Subclinical phase**: Fish may develop substantial heart inflammation and damage without obvious external signs or increased mortality. Cardiac lesions can persist before and after a clinical outbreak [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
-- **Advanced Stages:** More pronounced physical symptoms, including muscle lesions and cardiac damage, leading to increased mortality if not managed. Morbidity may be very high, while mortalities are variable and can reach up to 20% in affected cages [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
+- **Clinical disease:** Affected fish may show reduced feed intake, lethargy and abnormal swimming behaviour. During outbreaks with increased mortality, heart inflammation is usually extensive, and inflammation and damage to red skeletal muscle may also occur. Morbidity can be high, while mortality varies from negligible losses to approximately 20% in affected cages [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487)[6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
-- **Impact on Fish Health:** HSMI severely compromises heart and muscle function, making fish more susceptible to secondary infections and reducing overall vitality.
+- **Recovery**: Fish can recover from HSMI, although PRV-1 infection may persist long after clinical recovery. PRV-1 is detected in nearly 90% of farmed Atlantic salmon during the seawater phase in Norway, and viral RNA often remains detectable until slaughter [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+
+- **Impact on Fish Health:** HSMI severely affects cardiac function and, in severe cases, cause circulatory failure. Affected fish may tolerate stress poorly, and handling, crowding or low oxygen conditions may increase losses [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
 ### Causes of Heart and Skeletal Muscle Inflammation
 

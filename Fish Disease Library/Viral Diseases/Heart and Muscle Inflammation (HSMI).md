@@ -23,16 +23,16 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 ### Common Signs
 
 - **Physical Signs:**
-    - **Muscle Lesions:** Inflammation and degradation of skeletal muscles, often visible as pale or white streaks.
-    - **Cardiac Damage:** Inflammation and damage to the heart muscle, affecting its function.
-    - **Anaemia:** Pale gills and organs due to reduced red blood cells.
-    - **Pericardial Effusion:** Accumulation of fluid around the heart.
-    - **Other Signs:** Pale heart, yellow liver, ascites, swollen spleen, and petechiae in the perivisceral fat [1](https://pubmed.ncbi.nlm.nih.gov/15264718/).
+    - **Cardiac Damage:** Inflammation and damage to the heart  muscle, affecting its function. The heart may appear pale, and fluid or blood may accumulate in the pericardial cavity surrounding the heart [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+    - **Ascites**: Fluid may accumulate in the abdominal cavity [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+    - **Liver discolouration**: The liver may appear pale or yellowish and may show congestion associated with circulatory failure (see a reddened margin). A thin layer of fibrin may sometimes cover the liver surface [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb)[8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/).
+    - **Enlarged spleen**: Swelling of the spleen may be observed [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+    - **Petechial haemorrhages**: Small petechial haemorrhages may occur in the fat surrounding the internal organs [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
 - **Behavioural Changes:**
-    - **Lethargy:** Reduced activity and swimming stamina.
-    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss.
-    - **Abnormal Swimming Patterns:** Fish may display erratic or weakened swimming due to muscle damage [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
+    - **Abnormal Swimming And Lethargy:** Fish may display weakened swimming due to muscle damage, where they may gather near cage walls and water surface [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss after an outbreak [8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/).
+    
 
 **Progression of Symptoms**
 
@@ -174,5 +174,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2901333/
 [6] https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb
 [7] https://www.mdpi.com/2076-0817/9/2/143
+[8] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/
 - - - 
 

@@ -36,7 +36,7 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 
 **Progression of Symptoms**
 
-- **Subclinical phase**: Fish may develop substantial heart inflammation and damage without obvious external signs or increased mortality. Cardiac lesions can persist before and after a clinical outbreak [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+- **Early/Subclinical phase**: PRV primarily targets and replicates inside red blood cells (erythrocytes) early in the infection cycle. During peak disease, the virus spreads from blood cells to infect heart cardiomyocytes and red skeletal muscle cells [2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487)[6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb). Fish may develop substantial heart inflammation and damage without obvious external signs or increased mortality. Cardiac lesions can persist before and after a clinical outbreak [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
 - **Clinical disease:** Affected fish may show reduced feed intake, lethargy and abnormal swimming behaviour. During outbreaks with increased mortality, heart inflammation is usually extensive, and inflammation and damage to red skeletal muscle may also occur. Morbidity can be high, while mortality varies from negligible losses to approximately 20% in affected cages [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487)[6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
@@ -48,11 +48,11 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 
 **Etiology**
 
-- **Causative Agent:** Piscine orthoreovirus (PRV) [2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html).
+- **Causative Agent:** Piscine orthoreovirus (PRV) [2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html). 
 
 - **Transmission Methods:**
-    - **Direct Contact:** Spread between infected and healthy fish through close proximity.
-    - **Waterborne:** The virus can be transmitted through water, potentially spreading from one farm to another [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html).
+    - **Horizontal Waterborne Transmission:** Spread between infected and healthy fish through waterborne exposure [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb) [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html). 
+    - The virus infects susceptible fish through the intestinal wall (gut  enterocytes) [9](https://www.mccpacific.org/wp-content/uploads/2018/11/di-cicco-miller-et-al_FACETS_2018_piscine-orthoreovirus-atlantic-pacific-salmon-aquaculture-chinook.pdf)
 
 **Risk Factors**
 
@@ -177,5 +177,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [6] https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb
 [7] https://www.mdpi.com/2076-0817/9/2/143
 [8] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/
+[9] https://www.mccpacific.org/wp-content/uploads/2018/11/di-cicco-miller-et-al_FACETS_2018_piscine-orthoreovirus-atlantic-pacific-salmon-aquaculture-chinook.pdf
 - - - 
 

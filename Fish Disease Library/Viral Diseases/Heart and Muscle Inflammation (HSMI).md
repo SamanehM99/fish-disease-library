@@ -56,9 +56,13 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 
 **Risk Factors**
 
-- **Environmental Factors:** Poor water quality, high stocking densities, and stressful conditions can increase susceptibility to HSMI.
+- **Environmental Factors:** 
+    - Low oxygen levels can reduce fish tolerance of the disease [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+    - Fish with HSMI-related heart damage are vulnerable to stress. Crowding, wellboat transport, transfers and sea-lice treatments may worsen outcomes; minimising stressful handling is therefore important when cardiac function is compromised  [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
-- **Farm Management Practices:** Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of PRV [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html).
+- **Farm Management Practices:** 
+    - Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of PRV [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html).
+    - Utilizing unsterilized or inadequately disinfected seawater intake  in land-based facilities likely increases the risk of early PRV-1 introduction [10](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2022/fish-health-report-2021/_/attachment/inline/3a529735-e485-4bf7-b05b-5677a46b6b09:31cb9146509882b4dc2c60dc915a1be6195ae015/Norwegian%20Fish%20Health%20Report%202021.pdf). 
 
 ### Diagnosis
 
@@ -178,5 +182,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [7] https://www.mdpi.com/2076-0817/9/2/143
 [8] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/
 [9] https://www.mccpacific.org/wp-content/uploads/2018/11/di-cicco-miller-et-al_FACETS_2018_piscine-orthoreovirus-atlantic-pacific-salmon-aquaculture-chinook.pdf
+[10] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2022/fish-health-report-2021/_/attachment/inline/3a529735-e485-4bf7-b05b-5677a46b6b09:31cb9146509882b4dc2c60dc915a1be6195ae015/Norwegian%20Fish%20Health%20Report%202021.pdf
 - - - 
 

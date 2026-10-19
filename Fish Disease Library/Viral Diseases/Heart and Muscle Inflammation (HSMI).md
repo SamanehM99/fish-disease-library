@@ -68,16 +68,16 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of HSMI.
+- **Clinical Examination:** Observation of physical and behavioural signs compatible with HSMI may raise suspicion of the disease. However, these findings are not specific, and clinical examination alone cannot confirm HSMI; laboratory examination is therefore required [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
 - **Laboratory Tests:**
-    - **PCR (Polymerase Chain Reaction):** Detects PRV genetic material in fish tissues.
-    - **Histopathology:** Microscopic examination of heart and muscle tissues to identify characteristic lesions of HSMI.
-    - **Immunohistochemistry:** Detects viral antigens in tissue samples  [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html)[4](https://www.mdpi.com/journal/pathogens/special_issues/Heart_and_Skeletal_Muscle_Inflammation).
+    - **PCR (Polymerase Chain Reaction):** Detects PRV genetic material in fish tissues. A positive result alone does not confirm HSMI, because PRV-1 can be present in fish without characteristic lesions or clinical disease. Results should therefore be interpreted alongside histopathology and clinical history [3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html) [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+    - **Histopathology:** Definitive diagnosis is based on characteristic inflammation in the heart, often involving both the compact and spongy layers of the ventricular myocardium. Inflammation and damage to red skeletal muscle provide additional support, although these lesions may be absent and are most commonly observed around the peak of a clinical outbreak [3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html) [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+    - **Immunohistochemistry & In Situ Hybridization**:** These techniques can localise PRV antigens or viral RNA, respectively, within tissue sections. They can help demonstrate the relationship between viral presence and tissue lesions [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html)[6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
 **Differential Diagnosis**
 
-- **Distinguishing HSMI from Other Diseases:** It is crucial to differentiate HSMI from other diseases with similar symptoms, such as Pancreas Disease (PD) and Cardiomyopathy Syndrome (CMS)[1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
+- **Distinguishing HSMI from Other Diseases:** It is crucial to differentiate HSMI from other diseases which can also cause cardiac lesions and circulatory disturbances, such as Pancreas Disease (PD) and Cardiomyopathy Syndrome (CMS). Differentiation relies primarily on histopathological assessment of the nature and distribution of lesions within and between organs, supported by pathogen-specific testing [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
 
 ### Treatment and Prevention
 

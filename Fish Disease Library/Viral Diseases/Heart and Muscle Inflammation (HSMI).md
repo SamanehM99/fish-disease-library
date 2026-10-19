@@ -79,6 +79,12 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 
 - **Distinguishing HSMI from Other Diseases:** It is crucial to differentiate HSMI from other diseases which can also cause cardiac lesions and circulatory disturbances, such as Pancreas Disease (PD) and Cardiomyopathy Syndrome (CMS). Differentiation relies primarily on histopathological assessment of the nature and distribution of lesions within and between organs, supported by pathogen-specific testing [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
 
+| Disease                       | Primary Pathogen                 | Heart Affected? | Red Muscle Affected?         | Pancreas Affected? |
+| ----------------------------- | -------------------------------- | --------------- | ---------------------------- | ------------------ |
+| HSMI                          | Piscine orthoreovirus (PRV-1)    | Yes             | Yes (red muscle fibres only) | No                 |
+| Pancreas Disease (PD)         | Salmonid alphavirus (SAV)        | Yes             | Yes                          | Yes                |
+| Cardiomyopathy Syndrome (CMS) | Piscine myocarditis virus (PMCV) | Yes             | No                           | No                 |
+
 ### Treatment and Prevention
 
 **Treatment Options**

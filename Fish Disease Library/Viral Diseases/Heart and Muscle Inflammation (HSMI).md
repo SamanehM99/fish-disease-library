@@ -115,7 +115,7 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 **Real-World Examples**
 
 - **Notable Outbreaks:**
-    - **Norway (1999):** The first identified outbreaks led to significant economic losses and increased regulatory scrutiny.
+    - **Norway (1999):** The first identified outbreaks led to significant economic losses and increased regulatory scrutiny [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
 ## Data Insights
 
@@ -125,23 +125,22 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 
 - **Incidence in Norway:**
     - HSMI was first diagnosed in Norway in 1999  [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)
-    - There has been a yearly increase in the number of recorded outbreaks since its initial detection [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)
-    - By 2004, HSMI had been reported in 417 farms in Norway [5](https://pubmed.ncbi.nlm.nih.gov/15264718/).
+    - HSMI is the most frequently diagnosed viral disease in sea- farmed Atlantic salmon, with approximately 150–188 site diagnoses reported annually across combined public and private diagnostic laboratories [14](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
+    - PRV-1 is detected in approximately 90% of sea-farmed salmon in Norway [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
 - **Geographical Spread:**
-    - HSMI has been observed throughout Norway's salmon farming regions [2](https://pubmed.ncbi.nlm.nih.gov/15264718/).
     - The disease appears to have spread along the Norwegian coastline since its initial detection.
+    - While cases occur across all marine production areas, the highest concentration of clinical outbreaks occurs in Central and Northern Norway [14](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
 
 - **Economic Impact:**
     - While specific economic data for HSMI in Norway is limited, the disease can cause significant losses due to:
         
-        - High morbidity rates in affected cages [5](https://pubmed.ncbi.nlm.nih.gov/15264718/).
-        - Variable mortality rates, reaching up to 20% in some cases [5](https://pubmed.ncbi.nlm.nih.gov/15264718/).
-        - Reduced growth and feed conversion in affected fish.
+        - High morbidity rates in affected cages, with cumulative mortatilty reaching up to 20% in some cases [5](https://pubmed.ncbi.nlm.nih.gov/15264718/).
+        - Reduced growth and feed conversion in affected fish [8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/).
 
 - **Treatment & Management:**
     - No specific treatment exists for HSMI [2](https://pubmed.ncbi.nlm.nih.gov/15264718/).
-    - Management focuses on reducing environmental stress during outbreaks [2](https://pubmed.ncbi.nlm.nih.gov/15264718/).
+    - An important management priority is to minimise stress and handle affected fish carefully to reduce losses, particularly when cardiac function is compromised [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb). 
     - Improved biosecurity measures and monitoring of fish health are key strategies.
 
 
@@ -198,5 +197,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [11] https://pubmed.ncbi.nlm.nih.gov/32632958/
 [12] https://pubmed.ncbi.nlm.nih.gov/29926926/ 
 [13] https://pubmed.ncbi.nlm.nih.gov/30392768/ 
+[14] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
 - - - 
 

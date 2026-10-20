@@ -58,7 +58,7 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 
 - **Environmental Factors:** 
     - Low oxygen levels can reduce fish tolerance of the disease [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
-    - Fish with HSMI-related heart damage are vulnerable to stress. Crowding, wellboat transport, transfers and sea-lice treatments may worsen outcomes; minimising stressful handling is therefore important when cardiac function is compromised  [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+    - Fish with HSMI-related heart damage are vulnerable to stress. Crowding, wellboat transport, transfers and sea-lice treatments may worsen outcomes; minimising stressful handling is therefore important when cardiac function is compromised [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb). 
 
 - **Farm Management Practices:** 
     - Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of PRV [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html).
@@ -89,21 +89,27 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 
 **Treatment Options**
 
-- **Current Treatments:** There are no effective antiviral treatments available for HSMI. Management focuses on preventing the spread and mitigating the impact through biosecurity measures and supportive care.
-
-- **Experimental Treatments:** Ongoing research into potential antiviral agents and other therapeutic approaches [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html).
+- **Current Treatments:** There are no effective antiviral treatments available for HSMI. Management focuses on preventing the spread and mitigating the impact through biosecurity measures and reducing losses through careful handling and minimising stress [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
     - Implementing strict quarantine measures for new stock to prevent the introduction of PRV.
-    - Regular disinfection of equipment and facilities to minimize the risk of contamination.
+    - Regular disinfection of equipment and facilities to minimize the risk of contamination.  Experimental studies have shown that iodine, Virocid and extreme acidic or alkaline conditions can inactivate PRV when sufficient concentrations and exposure times are used. PRV is relatively resistant to heat and UV [11](https://pubmed.ncbi.nlm.nih.gov/32632958/).
 
 - **Farm Management Practices:**
+    -  Avoid unnecessary handling and crowding when fish have HSMI-related cardiac damage. Sea-lice treatments, transfers and other stressful operations should be carefully assessed because affected fish may tolerate them poorly [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb). If handling or sea-lice treatment cannot be postponed during an HSMI outbreak, sedation may be considered to reduce handling-related stress, following assessment by the responsible fish-health professional [8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/). 
     - Reducing stocking densities to decrease the risk of virus transmission.
     - Regular health monitoring and early detection programs to identify and manage outbreaks promptly.
     - Implementing all-in/all-out stocking practices to reduce the risk of spreading infections  [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html)[4](https://www.mdpi.com/journal/pathogens/special_issues/Heart_and_Skeletal_Muscle_Inflammation).
 
+- **Functional & Anti-Inflammatory Feeds:** Utilizing specialized functional feeds is reported to have some effect on how serious heart inflammation the fish gets [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb)
+
+- **Selective breeding**: Have been used to improve resistance or reduce disease severity. The Norwegian Veterinary Institute notes that these approaches (functional feeds and selective breeding) have not demonstrably reduced the number of HSMI cases in Norway [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+
+- **Vaccine Status & Research**: 
+    - No commercial HSMI vaccine is currently available on the market. Commercial production has been blocked primarily because PRV cannot be cultured in standard continuous cell lines. 
+    - Experimental vaccines have shown partial protection by reducing heart lesions and, in some trials, delaying infection, but they do not consistently prevent infection [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb)[12](https://pubmed.ncbi.nlm.nih.gov/29926926/)[13](https://pubmed.ncbi.nlm.nih.gov/30392768/)
 ### Case Studies
 
 **Real-World Examples**
@@ -189,5 +195,8 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [8] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/
 [9] https://www.mccpacific.org/wp-content/uploads/2018/11/di-cicco-miller-et-al_FACETS_2018_piscine-orthoreovirus-atlantic-pacific-salmon-aquaculture-chinook.pdf
 [10] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2022/fish-health-report-2021/_/attachment/inline/3a529735-e485-4bf7-b05b-5677a46b6b09:31cb9146509882b4dc2c60dc915a1be6195ae015/Norwegian%20Fish%20Health%20Report%202021.pdf
+[11] https://pubmed.ncbi.nlm.nih.gov/32632958/
+[12] https://pubmed.ncbi.nlm.nih.gov/29926926/ 
+[13] https://pubmed.ncbi.nlm.nih.gov/30392768/ 
 - - - 
 

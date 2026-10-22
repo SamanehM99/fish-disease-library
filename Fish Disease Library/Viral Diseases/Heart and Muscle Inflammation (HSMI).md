@@ -155,7 +155,7 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 2. **"Experimental transmission of heart and skeletal muscle inflammation (HSMI) in Atlantic salmon *Salmo salar*"**  
     Authors: Kongtorp, R. T., et al.  
     Reference: Kongtorp, R. T., et al. (2004). Diseases of Aquatic Organisms, 59(2), 105-112.  
-    [Link to study](https://www.int-res.com/abstracts/dao/v59/n2/p105-112/)
+    [Link to study](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2761.2004.00549.x?casa_token=5UxRU7iUiGMAAAAA:HbepgZRwrZ8ULEwPFuYaATyJVgzwVBP8tBKCL0gnbG8b2itp5jjDwIfhymQs1QJWFD5f_lsP62eFq--N)
 3. **"Heart and skeletal muscle inflammation (HSMI) disease diagnosed on a British Columbia salmon farm through a longitudinal farm study"**  
     Authors: Di Cicco, E., et al.  
     Reference: Di Cicco, E., et al. (2017). PLOS ONE, 12(2), e0171471.  
@@ -165,7 +165,7 @@ These studies represent significant advancements in understanding HSMI, its asso
 
 ## Conclusion
 
-Heart and Skeletal Muscle Inflammation (HSMI) remains a significant threat to salmon aquaculture, necessitating diligent management and preventive measures. By implementing robust biosecurity protocols, investing in ongoing research, and fostering industry-wide cooperation, fish health managers and veterinarians can mitigate the impact of HSMI and ensure the sustainability of salmon farming operations. This comprehensive guide aims to provide the necessary information and resources to effectively manage HSMI and support the health and welfare of farmed salmon.
+Heart and Skeletal Muscle Inflammation (HSMI) remains a significant threat to salmon aquaculture, necessitating diligent management and preventive measures. By implementing robust biosecurity protocols, focusing on reducing losses through careful handling and minimising stress, investing in ongoing research, and fostering industry-wide cooperation, fish health managers and veterinarians can mitigate the impact of HSMI and ensure the sustainability of salmon farming operations. This comprehensive guide aims to provide the necessary information and resources to effectively manage HSMI and support the health and welfare of farmed salmon.
 
 ### Call to Action
 
@@ -174,7 +174,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ---
 
 **Title:** Heart and Skeletal Muscle Inflammation
-**Date:** 2024-07-12
+**Date:** 2026-22-10
 **Tags:** #HeartandSkeletalMuscleInflammation, #HSMI, #Salmonids #Salmon, #AtlanticSalmon, #CohoSalmon #PiscineOrthoreovirus, #PRV, #Trout, #RainbowTrout, #ViralDisease, #Virus 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]

@@ -10,11 +10,15 @@ tags:
   - AtlanticSalmon
   - Trout
   - RainbowTrout
+  - SalmonLice
+  - LepeophtheirusSalmonis
+  - CaligusElongatus
 ---
 ## Overview
 
 ### What are Sea Lice?
-Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlantic salmon (*Salmo salar*) and trout (*Oncorhynchus mykiss*), causing significant health issues and economic losses in the aquaculture industry. The most common species affecting these fish are *Lepeophtheirus salmonis* and *Caligus elongatus* [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388). Sea lice attach to the skin, fins, and gills of fish, feeding on their mucus, skin, and blood, leading to lesions, stress, and secondary infections [4](https://thefishsite.com/disease-guide/sea-lice). In addition to salmon and trout, sea lice infestations can affect other species such as pink and chum salmon, which are particularly vulnerable due to their lack of scales [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388).
+Sea lice are parasitic copepods—small crustaceans that infest marine farmed and wild fish [15](https://www.vetinst.no/en/diseases/salmon-lice). In northern waters, infestations in aquaculture primarily involve species from two distinct genera: _**Lepeophtheirus**_ and **_Caligus_** [16](https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680). The dominant and most economically damaging parasite affecting salmonids in the Northern Hemisphere is the **salmon louse (_Lepeophtheirus salmonis_)** [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388)[15](https://www.vetinst.no/en/diseases/salmon-lice). Another common species, **_Caligus elongatus_**, often occurs alongside _L. salmonis_. It is smaller and less host-specific than the salmon louse and has been recorded on more than 80 other fish species, including Atlantic cod [17](https://snl.no/lakselus). 
+Sea lice attach to the skin, fins, and gills of fish, feeding on their mucus, skin, and blood, leading to lesions, stress, and secondary infections [4](https://thefishsite.com/disease-guide/sea-lice). In addition to salmon, sea lice infestations can affect other wild salmonids, including, sea trout (_Salmo trutta_), and sea-run Arctic char (_Salvelinus alpinus_), during their marine phase, and Pacific salmon species like pink salmon (_Oncorhynchus gorbuscha_) and chum salmon (_Oncorhynchus keta_) [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388)[15](https://www.vetinst.no/en/diseases/salmon-lice). Due to the massive expansion of open-cage farming, elevated parasite loads create significant environmental pressure on wild salmonid stocks [15](https://www.vetinst.no/en/diseases/salmon-lice). To manage these risks, major salmon-producing countries, like Norway, require sea lice monitoring and apply regulatory thresholds for control measures [15](https://www.vetinst.no/en/diseases/salmon-lice).
 
 ## Clinical Signs of Sea Lice Infestation
 
@@ -235,5 +239,10 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [14] https://www.salmonbusiness.com/how-does-norways-traffic-light-system-for-salmon-farming-work/
 
+[15] https://www.vetinst.no/en/diseases/salmon-lice
+
+[16] https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680
+
+[17] https://snl.no/lakselus
 - - - 
 

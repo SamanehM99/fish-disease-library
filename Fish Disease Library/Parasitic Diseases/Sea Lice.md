@@ -18,22 +18,23 @@ tags:
 
 ### What are Sea Lice?
 Sea lice are parasitic copepods—small crustaceans that infest marine farmed and wild fish [15](https://www.vetinst.no/en/diseases/salmon-lice). In northern waters, infestations in aquaculture primarily involve species from two distinct genera: _**Lepeophtheirus**_ and **_Caligus_** [16](https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680). The dominant and most economically damaging parasite affecting salmonids in the Northern Hemisphere is the **salmon louse (_Lepeophtheirus salmonis_)** [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388)[15](https://www.vetinst.no/en/diseases/salmon-lice). Another common species, **_Caligus elongatus_**, often occurs alongside _L. salmonis_. It is smaller and less host-specific than the salmon louse and has been recorded on more than 80 other fish species, including Atlantic cod [17](https://snl.no/lakselus). 
-Sea lice attach to the skin, fins, and gills of fish, feeding on their mucus, skin, and blood, leading to lesions, stress, and secondary infections [4](https://thefishsite.com/disease-guide/sea-lice). In addition to salmon, sea lice infestations can affect other wild salmonids, including, sea trout (_Salmo trutta_), and sea-run Arctic char (_Salvelinus alpinus_), during their marine phase, and Pacific salmon species like pink salmon (_Oncorhynchus gorbuscha_) and chum salmon (_Oncorhynchus keta_) [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388)[15](https://www.vetinst.no/en/diseases/salmon-lice). Due to the massive expansion of open-cage farming, elevated parasite loads create significant environmental pressure on wild salmonid stocks [15](https://www.vetinst.no/en/diseases/salmon-lice). To manage these risks, major salmon-producing countries, like Norway, require sea lice monitoring and apply regulatory thresholds for control measures [15](https://www.vetinst.no/en/diseases/salmon-lice).
+Sea lice attach to the skin, fins, and gills of fish, feeding on their mucus, skin, and blood, leading to lesions, stress, disrupt salt balance and secondary infections [4](https://thefishsite.com/disease-guide/sea-lice). In addition to salmon, sea lice infestations can affect other wild salmonids, including, sea trout (_Salmo trutta_), and sea-run Arctic char (_Salvelinus alpinus_), during their marine phase, and Pacific salmon species like pink salmon (_Oncorhynchus gorbuscha_) and chum salmon (_Oncorhynchus keta_) [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388)[15](https://www.vetinst.no/en/diseases/salmon-lice). Due to the massive expansion of open-cage farming, elevated parasite loads create significant environmental pressure on wild salmonid stocks [15](https://www.vetinst.no/en/diseases/salmon-lice). To manage these risks, major salmon-producing countries, like Norway and Scotland, require sea lice monitoring and apply regulatory thresholds for control measures [15](https://www.vetinst.no/en/diseases/salmon-lice).
 
 ## Clinical Signs of Sea Lice Infestation
 
 ### Common Signs
+Clinical signs of sea lice infestation vary depending on parasite density, host size, louse developmental stage, and the health of the fish [15](https://www.vetinst.no/en/diseases/salmon-lice).
 
 - **Physical Signs:**
-    - **Skin Lesions:** Visible wounds and ulcerations on the skin, fins, and gills caused by lice attachment and feeding [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[4](https://thefishsite.com/disease-guide/sea-lice).
-    - **Scale Loss:** Areas of scale loss where lice have been feeding.
-    - **Inflammation:** Reddened and swollen areas around the attachment sites.
-    - **Secondary Infections:** Bacterial and fungal infections can develop at the sites of lice damage [3](https://www.theguardian.com/environment/2023/nov/03/sea-lice-outbreak-icelandic-salmon-farm-welfare-disaster-footage-shows).
+    - **Skin Lesions:** Mobile lice attach and feed aggressively on host  skin, mucus, tissue fluids, and blood, causing visible wounds and ulcerations on the skin and fins [16](https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680). Lesions are concentrated around preferred sites: the head, operculum, back behind the dorsal fin, around the anal fin, and abdominal areas [18](https://www.havbrukslare.no/lakselus). In severe infestations, erosion strips the epidermis and sub-dermal tissue down to muscle and cartilage, leaving exposed cranial bones [16](https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680). 
+    - **Scale Loss & Skin Inflammation**:** Areas of scale loss where preadult and adult lice graze, leaving reddened, swollen margins around attachment sites [16](https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680).
+    - **Secondary Infections:** Skin barrier breakdown allows opportunistic bacterial pathogens and fungal pathogens to invade open wounds [16](https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680). Lice can also act as vectors capable of transferring viral and bacterial pathogens—such as Infectious Salmon Anemia (ISA)—between host fish, triggering severe disease outbreaks [16](https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680).
+    - **Collision Trauma:** In aquaculture pens, lice-induced irritation triggers frequent jumping, and may cause fish to collide with submerged equipment. This leads to severe internal trauma, including brain and muscle hemorrhages [19](https://akvademiet.no/fiskesykdommer/mekanisk-arsak/ikke-medikamentell-avlusning/). These injuries are indirect consequences rather than damage caused by lice feeding.
 
 - **Behavioural Changes:**
-    - **Lethargy:** Reduced activity and swimming stamina due to stress and damage.
-    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html).
-    - **Abnormal Swimming Patterns:** Fish may exhibit rubbing or flashing behaviour, where they scrape against surfaces to remove lice.
+    - **Irritation & Increased jumping activity:** Infested fish display erratic swimming, jumping, or rubbing against cage nets to dislodge parasites [16](https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680).
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [16](https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680).
+
 
 **Progression of Symptoms**
 
@@ -244,5 +245,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [16] https://www.sciencedirect.com/science/article/abs/pii/S0044848619331680
 
 [17] https://snl.no/lakselus
+
+[18] https://www.havbrukslare.no/lakselus
+
+[19] https://akvademiet.no/fiskesykdommer/mekanisk-arsak/ikke-medikamentell-avlusning/
 - - - 
 

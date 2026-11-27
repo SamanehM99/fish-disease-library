@@ -35,11 +35,11 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 - **Physical Signs:**
     - **Cardiac Damage:** Inflammation and damage to the heart  muscle, affecting its function. The heart may appear pale, and fluid or blood may accumulate in the pericardial cavity surrounding the heart [5](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
     - **Ascites**: Fluid may accumulate in the abdominal cavity [5](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
-    - **Liver discolouration**: The liver may appear pale or yellowish and may show congestion associated with circulatory failure (see a reddened margin). A thin layer of fibrin may sometimes cover the liver surface (Figure 1) [5](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb)[7](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/).
+    - **Liver discolouration**: The liver may appear pale or yellowish and may show congestion associated with circulatory failure (see a reddened margin on Figure 1). A thin layer of fibrin may sometimes cover the liver surface (Figure 1) [5](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb)[7](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/).
     - **Enlarged spleen**: Swelling of the spleen may be observed [5](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
     - **Petechial haemorrhages**: Small petechial haemorrhages may occur in the fat surrounding the internal organs [5](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
-**Figure 1.** Opened abdominal cavity of an Atlantic salmon with suspected HSMI from a sea farm in Norway, showing a discoloured liver behind the pectoral fin. Photo: Samaneh Mousavi.
+**Figure 1.** Opened abdominal cavity of an Atlantic salmon with suspected HSMI from a sea farm in Norway, showing a discoloured liver behind the pectoral fin. Photo: Samaneh Mousavi, June 24, 2024.
 
 ![[attachments/hsmi_liver_discolouration_norway.jpg]]
 

@@ -32,7 +32,7 @@ Nephrocalcinosis is the term for an abnormal accumulation of mineral deposits wi
 	- **Renal casts**: Plugs of material visible, with the naked eye, within the tubles or ducts [4](https://doi.org/10.3389/fvets.2023.1121296).
     
 
-**Figure 1.** Opened Atlantic salmon from Norway showing the kidney along the spine with whitish deposits, consistent with nephrocalcinosis. Photo: Samaneh Mousavi.
+**Figure 1.** Opened Atlantic salmon from Norway showing the kidney along the spine with whitish deposits, consistent with nephrocalcinosis. Photo: Samaneh Mousavi, September 13, 2023.
 
 ![[attachments/nephrocalcinosis_kidney_norway.jpg]]
 

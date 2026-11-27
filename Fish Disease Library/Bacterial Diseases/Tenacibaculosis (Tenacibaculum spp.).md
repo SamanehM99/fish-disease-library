@@ -62,15 +62,15 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
     - **Jawbone erosion**: In cases of *Tenacibaculum maritimum* yellow mats form on the inside of the mouth, especially in Atlantic salmon [9](https://doi.org/10.1371/journal.pone.0206951). This often progresses to extensive necrosis and erosion of the jaw, which can lead to the loss of teeth in some cases (Figure 3) [8](https://fishhistopathology.com/?p=2550) [10](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
     - **Eye infection**: Cloudy appearance in the eyes and exophthalmia (bulging) [11](https://doi.org/10.1371/journal.pone.0187476). In severe cases, the infection can lead to necrosis of the eye [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose) [3](https://doi.org/10.3389/fcimb.2022.1068000).
 
-**Figure 1.** Atlantic salmon post-smolts with suspected tenacibaculosis (*Tenacibaculum finnmarkense*) from a sea farm in Norway. The second fish from the top shows an ulcer behind the operculum, and the top fish shows extensive scale loss. Photo: Samaneh Mousavi.
+**Figure 1.** Atlantic salmon post-smolts with suspected tenacibaculosis (*Tenacibaculum finnmarkense*) from a sea farm in Norway. The second fish from the top shows an ulcer behind the operculum, and the top fish shows extensive scale loss and an eroded pectoral fin. The bottom fish has an eroded pectoral fin pressing against the abdomen, with a wound at the contact site. Most fish show mouth erosion of varying severity. Photo: Samaneh Mousavi, September 13, 2023.
 
 ![[attachments/tenacibaculosis_post_smolts_norway.jpg]]
 
-**Figure 2.** Atlantic salmon with suspected tenacibaculosis (*T. finnmarkense*) from a sea farm in Norway, showing deep skin ulcers behind the head, at the level of the pectoral fins, and on the posterior body. Photo: Samaneh Mousavi.
+**Figure 2.** Atlantic salmon with suspected tenacibaculosis (*T. finnmarkense*) from a sea farm in Norway, showing deep skin ulcers on the abdominal side, between the pectoral fins, and on the vent (in front of the anal fin). Some degree of erosion of the pectoral fins can also be seen. Photo: Samaneh Mousavi, November 21, 2023.
 
 ![[attachments/tenacibaculosis_ulcers_norway.jpg]]
 
-**Figure 3.** Head of an Atlantic salmon with suspected tenacibaculosis (*T. finnmarkense*) from a sea farm in Norway, showing an eroded mouth and haemorrhagic lesions around the eye and operculum. Photo: Samaneh Mousavi.
+**Figure 3.** Head of an Atlantic salmon with suspected tenacibaculosis (*T. finnmarkense*) from a sea farm in Norway, showing an eroded mouth and haemorrhagic lesions around the eye and operculum. Photo: Samaneh Mousavi, November 3rd, 2023
 
 ![[attachments/tenacibaculosis_mouth_lesion_norway.jpg]]
 

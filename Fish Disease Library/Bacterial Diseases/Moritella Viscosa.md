@@ -44,7 +44,7 @@ tags:
     - **Circulatory failure**: Pale gills and liver, and ascites (abdominal  fluid) [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [32](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
 
 
-**Figure 1.** Atlantic salmon from a sea farm in Norway. The fish in the centre shows a round, deep skin ulcer on the flank behind the head, consistent with suspected *Moritella viscosa* infection. Photo: Samaneh Mousavi.
+**Figure 1.** Atlantic salmon from a sea farm in Norway. The fish in the centre shows a round, deep skin ulcer on the flank behind the head and the fish on the bottom show a smaller skin ulcer on the same area, consistent with suspected *Moritella viscosa* infection. Photo: Samaneh Mousavi, September 22, 2023.
 
 ![[attachments/moritella_viscosa_ulcer_norway.jpg]]
 

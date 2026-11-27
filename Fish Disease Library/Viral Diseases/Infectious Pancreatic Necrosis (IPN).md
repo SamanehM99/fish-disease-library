@@ -44,7 +44,7 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
     - **Empty intestine or filled with clear mucus** [3](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf)
     - **Emaciation:** Affected or surviving fish may become markedly thin, with poor body condition (Figure 1) [5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
     - **Faecal casts:** White, string-like casts of faeces and sloughed intestinal tissue may hang from the vent as a result of inflammation in the intestine [3](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
-**Figure 1.** A small, thin Atlantic salmon runt with suspected IPN (top) next to a normal-sized fish (bottom), from a sea farm in Norway. Photo: Samaneh Mousavi.
+**Figure 1.** A small, thin Atlantic salmon runt with suspected IPN (top) next to a normal-sized fish (bottom), from a sea farm in Norway. Photo: Samaneh Mousavi, August 16, 2024.
 
 ![[attachments/ipn_runt_norway.jpg]]
 

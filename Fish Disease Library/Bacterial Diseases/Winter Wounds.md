@@ -32,11 +32,11 @@ The table below summarises typical differences between classical winter ulcer an
 | **Typical occurrence**          | Associated with cold seawater.                                                                                                                                                                | Severe cold-water lesions are associated particularly with *T. finnmarkense*.  Outbreaks can cause high mortality in recently seawater-transferred smolts [3](https://www.vetinst.no/sykdom-og-agens/vintersar) |
 | **Vaccine availability**        | Vaccines against *M. viscosa* are available                                                                                                                                                   | No commercially available vaccine                                                                                                                                                                               |
 
-**Figure 1.** Atlantic salmon with suspected co-infection with *Moritella viscosa* and *Tenacibaculum* spp. from a sea farm in Norway, showing an ulcer behind the pectoral fin. Photo: Samaneh Mousavi.
+**Figure 1.** Atlantic salmon post-smolt with suspected co-infection with *Moritella viscosa* and *Tenacibaculum* spp. from a sea farm in Norway, showing an ulcer behind the pectoral fin and eroded pectoral and caudal fin. Photo: Samaneh Mousavi, September 13, 2023.
 
 ![[attachments/winter_wounds_coinfection_1.jpg]]
 
-**Figure 2.** Atlantic salmon with suspected co-infection with *M. viscosa* and *Tenacibaculum* spp. from a sea farm in Norway. The upper fish shows a large ulcer on the flank with a dark rim, and the lower fish shows an ulcer behind the pectoral fin. Photo: Samaneh Mousavi.
+**Figure 2.** Atlantic salmon with suspected co-infection with *M. viscosa* and *Tenacibaculum* spp. from a sea farm in Norway. The upper fish has a large, healing ulcer on the flank with scale loss and a dark rim. The lower fish has a spinal deformity and an ulcer behind the pectoral fin with scale loss along the body, and erosion of ventral and pectoral fins. Photo: Samaneh Mousavi, October 5, 2023.
 
 ![[attachments/winter_wounds_coinfection_2.jpg]]
 
